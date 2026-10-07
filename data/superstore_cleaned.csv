@@ -1,0 +1,1001 @@
+Order_ID,Invoice_ID,Order_Date,Ship_Date,Ship_Mode,Customer_ID,Customer_Name,Segment,Region,State,Category,Sub_Category,Product_Name,Quantity,Discount,Sales,Profit
+ORD-10000,INV-50000,2024-04-12,2024-04-13,Second Class,CUST-1075,Customer 0227,Home Office,South,Virginia,Furniture,Chairs,Desk Lamp,6,0.15,1376.68,195.36
+ORD-10001,INV-50001,2025-03-11,2025-03-15,Standard Class,CUST-1236,Customer 0042,Consumer,East,New Jersey,Technology,Copiers,Monitor,3,0.0,789.88,153.36
+ORD-10002,INV-50002,2024-09-27,2024-09-30,First Class,CUST-1197,Customer 0134,Home Office,West,Arizona,Office Supplies,Envelopes,Labels,6,0.05,332.73,59.73
+ORD-10003,INV-50003,2024-04-16,2024-04-20,Second Class,CUST-1009,Customer 0005,Home Office,West,Colorado,Office Supplies,Paper,Labels,1,0.0,107.8,14.52
+ORD-10004,INV-50004,2024-03-12,2024-03-15,First Class,CUST-1291,Customer 0026,Home Office,East,New York,Technology,Accessories,Printer,5,0.0,3074.0350000000003,366.03
+ORD-10005,INV-50005,2025-12-01,2025-12-02,First Class,CUST-1103,Customer 0060,Home Office,South,Georgia,Office Supplies,Art,Binder Pack,6,0.1,322.28,24.37
+ORD-10006,INV-50006,2024-01-21,2024-01-24,First Class,CUST-1256,Customer 0046,Consumer,West,Colorado,Technology,Copiers,Monitor,5,0.1,3074.0350000000003,366.03
+ORD-10007,INV-50007,2025-09-06,2025-09-11,Second Class,CUST-1290,Customer 0063,Consumer,West,Washington,Technology,Accessories,Laptop,1,0.05,742.23,168.5
+ORD-10008,INV-50008,2024-05-01,2024-05-06,Same Day,CUST-1160,Customer 0177,Consumer,East,Massachusetts,Technology,Accessories,Smartphone,3,0.1,994.67,153.88
+ORD-10009,INV-50009,2025-04-11,2025-04-12,Same Day,CUST-1140,Customer 0222,Home Office,East,New Jersey,Office Supplies,Envelopes,Binder Pack,5,0.1,585.94,95.34
+ORD-10010,INV-50010,2024-08-02,2024-08-06,Standard Class,CUST-1113,Customer 0222,Corporate,East,New Jersey,Office Supplies,Storage,Labels,1,0.0,59.29,10.66
+ORD-10011,INV-50011,2024-11-26,2024-11-28,First Class,CUST-1007,Customer 0065,Consumer,Central,Michigan,Technology,Copiers,Monitor,7,0.1,2682.64,249.77
+ORD-10012,INV-50012,2025-04-03,2025-04-06,Same Day,CUST-1164,Customer 0182,Consumer,South,Virginia,Furniture,Furnishings,Wooden Bookcase,5,0.2,1568.61,92.67
+ORD-10013,INV-50013,2024-03-28,2024-03-31,Second Class,CUST-1194,Customer 0215,Home Office,South,Georgia,Office Supplies,Paper,A4 Paper,7,0.1,133.84,32.84
+ORD-10014,INV-50014,2025-01-07,2025-01-10,Second Class,CUST-1214,Customer 0114,Consumer,Central,Illinois,Furniture,Chairs,Desk Lamp,6,0.3,1241.21,74.18
+ORD-10015,INV-50015,2024-04-09,2024-04-14,First Class,CUST-1145,Customer 0128,Consumer,East,New York,Office Supplies,Binders,Binder Pack,5,0.05,150.36,39.19
+ORD-10016,INV-50016,2025-10-25,2025-10-27,Same Day,CUST-1236,Customer 0249,Consumer,East,Pennsylvania,Technology,Phones,Laptop,5,0.0,1555.96,366.03
+ORD-10017,INV-50017,2024-05-10,2024-05-15,Standard Class,CUST-1266,Customer 0040,Home Office,Central,Illinois,Furniture,Chairs,Ergonomic Chair,4,0.3,1578.48,-56.04
+ORD-10018,INV-50018,2025-10-23,2025-10-26,Same Day,CUST-1200,Customer 0154,Corporate,South,Virginia,Office Supplies,Binders,Storage Box,6,0.15,487.93,16.77
+ORD-10019,INV-50019,2024-11-04,2024-11-06,Same Day,CUST-1274,Customer 0101,Home Office,West,California,Furniture,Chairs,Ergonomic Chair,1,0.0,364.27,19.1
+ORD-10020,INV-50020,2024-12-09,2024-12-10,Second Class,CUST-1088,Customer 0012,Home Office,Central,Illinois,Technology,Phones,Laptop,7,0.15,3074.0350000000003,366.03
+ORD-10021,INV-50021,2025-05-06,2025-05-08,First Class,CUST-1214,Customer 0221,Corporate,Central,Illinois,Office Supplies,Binders,Binder Pack,7,0.05,482.42,107.74
+ORD-10022,INV-50022,2025-02-17,2025-02-19,First Class,CUST-1038,Customer 0015,Consumer,South,Virginia,Office Supplies,Art,Binder Pack,3,0.0,27.77,2.69
+ORD-10023,INV-50023,2025-01-20,2025-01-25,Second Class,CUST-1095,Customer 0227,Home Office,Central,Texas,Office Supplies,Envelopes,Binder Pack,1,0.0,75.82,6.42
+ORD-10024,INV-50024,2024-07-10,2024-07-14,Standard Class,CUST-1064,Customer 0222,Consumer,Central,Illinois,Technology,Copiers,Laptop,5,0.05,3074.0350000000003,366.03
+ORD-10025,INV-50025,2024-10-03,2024-10-07,Same Day,CUST-1186,Customer 0250,Consumer,West,Washington,Furniture,Tables,Office Table,4,0.2,1476.62,-33.64
+ORD-10026,INV-50026,2024-06-09,2024-06-14,Second Class,CUST-1106,Customer 0226,Consumer,West,Washington,Technology,Machines,Wireless Mouse,6,0.0,3074.0350000000003,366.03
+ORD-10027,INV-50027,2025-04-04,2025-04-07,Second Class,CUST-1061,Customer 0145,Home Office,East,Massachusetts,Furniture,Chairs,Desk Lamp,6,0.1,2450.12,246.39
+ORD-10028,INV-50028,2024-11-09,2024-11-12,Standard Class,CUST-1225,Customer 0076,Corporate,Central,Michigan,Technology,Accessories,Monitor,7,0.1,3074.0350000000003,366.03
+ORD-10029,INV-50029,2024-01-22,2024-01-27,Same Day,CUST-1080,Customer 0114,Consumer,Central,Texas,Technology,Copiers,Wireless Mouse,3,0.1,257.08,61.23
+ORD-10030,INV-50030,2024-09-09,2024-09-10,Standard Class,CUST-1044,Customer 0089,Consumer,South,Georgia,Office Supplies,Labels,Storage Box,2,0.1,208.83,20.67
+ORD-10031,INV-50031,2025-07-14,2025-07-16,Same Day,CUST-1257,Customer 0206,Consumer,East,New Jersey,Office Supplies,Storage,Labels,3,0.0,175.59,22.88
+ORD-10032,INV-50032,2025-04-19,2025-04-21,Standard Class,CUST-1223,Customer 0226,Home Office,West,California,Office Supplies,Paper,Storage Box,1,0.0,18.32,1.98
+ORD-10033,INV-50033,2024-02-28,2024-03-01,Same Day,CUST-1209,Customer 0050,Corporate,Central,Texas,Office Supplies,Envelopes,Marker Set,4,0.15,51.21,7.97
+ORD-10034,INV-50034,2025-05-25,2025-05-27,Second Class,CUST-1225,Customer 0029,Consumer,West,Colorado,Technology,Phones,Wireless Mouse,3,0.15,460.5,42.8
+ORD-10035,INV-50035,2025-11-12,2025-11-16,Same Day,CUST-1091,Customer 0221,Consumer,South,Virginia,Furniture,Chairs,Wooden Bookcase,5,0.1,1795.47,197.0
+ORD-10036,INV-50036,2025-04-20,2025-04-24,Second Class,CUST-1270,Customer 0236,Home Office,South,North Carolina,Technology,Phones,Wireless Mouse,1,0.15,439.23,89.5
+ORD-10037,INV-50037,2025-11-30,2025-12-02,First Class,CUST-1045,Customer 0015,Consumer,Central,Texas,Technology,Accessories,Monitor,5,0.0,3074.0350000000003,366.03
+ORD-10038,INV-50038,2024-07-08,2024-07-11,Same Day,CUST-1204,Customer 0209,Consumer,Central,Illinois,Furniture,Bookcases,Desk Lamp,4,0.0,951.76,126.69
+ORD-10039,INV-50039,2025-11-17,2025-11-18,Standard Class,CUST-1075,Customer 0121,Corporate,East,New Jersey,Furniture,Furnishings,Wooden Bookcase,7,0.3,2604.48,209.01
+ORD-10040,INV-50040,2025-07-16,2025-07-21,Same Day,CUST-1153,Customer 0150,Home Office,East,Pennsylvania,Furniture,Furnishings,Desk Lamp,4,0.0,796.67,99.97
+ORD-10041,INV-50041,2025-07-20,2025-07-21,First Class,CUST-1222,Customer 0160,Consumer,East,Pennsylvania,Furniture,Bookcases,Office Table,2,0.3,835.73,-37.71
+ORD-10042,INV-50042,2024-08-31,2024-09-01,Same Day,CUST-1013,Customer 0203,Corporate,West,Washington,Office Supplies,Paper,Marker Set,6,0.1,364.23,79.2
+ORD-10043,INV-50043,2025-05-19,2025-05-23,Second Class,CUST-1210,Customer 0150,Consumer,West,California,Furniture,Bookcases,Ergonomic Chair,5,0.15,1616.21,205.25
+ORD-10044,INV-50044,2024-05-10,2024-05-12,Standard Class,CUST-1023,Customer 0148,Consumer,South,Virginia,Technology,Phones,Printer,2,0.0,1097.22,299.48
+ORD-10045,INV-50045,2025-04-29,2025-05-01,First Class,CUST-1185,Customer 0246,Consumer,East,New Jersey,Office Supplies,Art,Marker Set,2,0.15,143.1,31.43
+ORD-10046,INV-50046,2025-10-08,2025-10-13,Standard Class,CUST-1040,Customer 0062,Corporate,East,New Jersey,Furniture,Chairs,Ergonomic Chair,7,0.1,1039.25,110.38
+ORD-10047,INV-50047,2024-01-21,2024-01-25,Same Day,CUST-1163,Customer 0045,Home Office,East,New Jersey,Technology,Machines,Laptop,4,0.3,2072.05,110.93
+ORD-10048,INV-50048,2024-06-15,2024-06-19,Same Day,CUST-1120,Customer 0107,Consumer,East,Massachusetts,Office Supplies,Storage,Binder Pack,5,0.0,501.61,118.12
+ORD-10049,INV-50049,2024-09-30,2024-10-05,Same Day,CUST-1281,Customer 0029,Consumer,Central,Texas,Office Supplies,Art,A4 Paper,4,0.1,417.54,109.43
+ORD-10050,INV-50050,2025-01-22,2025-01-23,Second Class,CUST-1284,Customer 0185,Home Office,Central,Texas,Furniture,Tables,Wooden Bookcase,5,0.05,437.61,43.45
+ORD-10051,INV-50051,2025-08-23,2025-08-24,First Class,CUST-1263,Customer 0157,Corporate,East,Massachusetts,Office Supplies,Storage,Marker Set,6,0.15,50.68,8.9
+ORD-10052,INV-50052,2024-11-11,2024-11-14,Same Day,CUST-1288,Customer 0001,Home Office,South,Georgia,Technology,Accessories,Laptop,7,0.0,697.33,166.2
+ORD-10053,INV-50053,2024-01-14,2024-01-15,Standard Class,CUST-1076,Customer 0159,Consumer,Central,Michigan,Technology,Accessories,Monitor,1,0.0,1199.34,307.91
+ORD-10054,INV-50054,2024-08-29,2024-08-30,Standard Class,CUST-1142,Customer 0065,Corporate,Central,Illinois,Furniture,Tables,Office Table,4,0.15,1388.37,79.41
+ORD-10055,INV-50055,2024-12-11,2024-12-13,Second Class,CUST-1264,Customer 0003,Consumer,South,North Carolina,Office Supplies,Labels,Labels,1,0.0,67.75,7.93
+ORD-10056,INV-50056,2025-07-18,2025-07-20,Same Day,CUST-1020,Customer 0151,Home Office,East,Pennsylvania,Technology,Copiers,Printer,5,0.1,1234.35,167.85
+ORD-10057,INV-50057,2024-12-05,2024-12-10,Same Day,CUST-1026,Customer 0157,Home Office,Central,Michigan,Furniture,Bookcases,Wooden Bookcase,1,0.1,341.16,12.33
+ORD-10058,INV-50058,2024-04-01,2024-04-02,Second Class,CUST-1297,Customer 0184,Corporate,West,Washington,Office Supplies,Paper,Binder Pack,2,0.0,105.12,12.61
+ORD-10059,INV-50059,2025-01-01,2025-01-03,Standard Class,CUST-1124,Customer 0170,Consumer,West,Colorado,Technology,Phones,Monitor,2,0.1,1589.09,288.24
+ORD-10060,INV-50060,2025-03-30,2025-03-31,First Class,CUST-1107,Customer 0226,Consumer,West,Washington,Furniture,Chairs,Desk Lamp,3,0.15,1294.62,14.83
+ORD-10061,INV-50061,2025-03-03,2025-03-06,First Class,CUST-1084,Customer 0146,Home Office,East,New Jersey,Furniture,Chairs,Ergonomic Chair,7,0.05,1021.39,126.27
+ORD-10062,INV-50062,2025-05-23,2025-05-28,Standard Class,CUST-1163,Customer 0131,Consumer,South,Florida,Office Supplies,Labels,A4 Paper,3,0.15,59.3,5.21
+ORD-10063,INV-50063,2024-02-04,2024-02-08,Standard Class,CUST-1057,Customer 0003,Corporate,East,New York,Office Supplies,Storage,Marker Set,5,0.0,63.88,17.48
+ORD-10064,INV-50064,2024-07-24,2024-07-25,First Class,CUST-1207,Customer 0106,Corporate,East,Pennsylvania,Office Supplies,Art,A4 Paper,3,0.1,175.5,14.67
+ORD-10065,INV-50065,2024-03-21,2024-03-22,Standard Class,CUST-1285,Customer 0149,Corporate,Central,Michigan,Office Supplies,Art,Marker Set,4,0.3,195.96,26.88
+ORD-10066,INV-50066,2025-07-15,2025-07-20,Second Class,CUST-1248,Customer 0201,Consumer,South,North Carolina,Furniture,Furnishings,Ergonomic Chair,5,0.0,2099.96,185.85
+ORD-10067,INV-50067,2025-01-22,2025-01-23,Second Class,CUST-1165,Customer 0082,Consumer,East,Massachusetts,Office Supplies,Art,Binder Pack,4,0.1,94.41,12.37
+ORD-10068,INV-50068,2024-01-02,2024-01-04,Standard Class,CUST-1280,Customer 0054,Consumer,East,Pennsylvania,Office Supplies,Paper,Storage Box,7,0.0,100.14,15.64
+ORD-10069,INV-50069,2025-01-24,2025-01-28,Standard Class,CUST-1011,Customer 0032,Consumer,Central,Illinois,Technology,Accessories,Monitor,4,0.05,975.76,104.24
+ORD-10070,INV-50070,2025-07-19,2025-07-21,Standard Class,CUST-1129,Customer 0126,Home Office,East,New York,Technology,Copiers,Printer,7,0.1,3074.0350000000003,366.03
+ORD-10071,INV-50071,2024-04-15,2024-04-19,Same Day,CUST-1102,Customer 0040,Consumer,West,Arizona,Technology,Machines,Laptop,7,0.05,1511.66,141.66
+ORD-10072,INV-50072,2025-04-21,2025-04-25,Second Class,CUST-1013,Customer 0199,Consumer,West,California,Furniture,Furnishings,Desk Lamp,4,0.2,1129.76,47.41
+ORD-10073,INV-50073,2025-12-03,2025-12-08,Second Class,CUST-1241,Customer 0237,Consumer,East,Massachusetts,Office Supplies,Labels,Binder Pack,6,0.15,43.24,6.28
+ORD-10074,INV-50074,2025-02-05,2025-02-09,Same Day,CUST-1251,Customer 0082,Home Office,Central,Michigan,Furniture,Chairs,Desk Lamp,1,0.15,90.48,0.29
+ORD-10075,INV-50075,2025-12-30,2025-12-31,Second Class,CUST-1241,Customer 0058,Consumer,Central,Illinois,Office Supplies,Art,Binder Pack,5,0.1,101.56,22.64
+ORD-10076,INV-50076,2025-07-09,2025-07-14,Same Day,CUST-1199,Customer 0249,Home Office,East,New Jersey,Technology,Machines,Wireless Mouse,6,0.1,927.9,145.87
+ORD-10077,INV-50077,2024-06-10,2024-06-14,First Class,CUST-1260,Customer 0005,Corporate,South,North Carolina,Office Supplies,Labels,Storage Box,1,0.05,89.81,20.92
+ORD-10078,INV-50078,2024-07-20,2024-07-21,Standard Class,CUST-1216,Customer 0122,Home Office,West,Washington,Technology,Copiers,Printer,1,0.05,779.62,150.62
+ORD-10079,INV-50079,2024-09-26,2024-09-28,First Class,CUST-1272,Customer 0168,Corporate,East,New York,Furniture,Tables,Desk Lamp,4,0.2,1032.78,55.07
+ORD-10080,INV-50080,2024-09-27,2024-10-02,First Class,CUST-1121,Customer 0032,Corporate,West,Arizona,Furniture,Chairs,Office Table,4,0.2,875.12,68.4
+ORD-10081,INV-50081,2025-03-31,2025-04-03,Standard Class,CUST-1021,Customer 0092,Consumer,West,California,Technology,Phones,Smartphone,5,0.15,3074.0350000000003,366.03
+ORD-10082,INV-50082,2025-04-06,2025-04-09,First Class,CUST-1117,Customer 0019,Home Office,Central,Texas,Office Supplies,Paper,Marker Set,3,0.05,183.5,42.08
+ORD-10083,INV-50083,2025-12-27,2025-12-29,Second Class,CUST-1009,Customer 0149,Corporate,South,Florida,Office Supplies,Art,Labels,7,0.15,484.22,42.92
+ORD-10084,INV-50084,2024-09-08,2024-09-09,Same Day,CUST-1074,Customer 0144,Home Office,East,New York,Office Supplies,Storage,Labels,1,0.0,5.6,0.7
+ORD-10085,INV-50085,2025-12-02,2025-12-07,Second Class,CUST-1037,Customer 0174,Consumer,West,Arizona,Technology,Accessories,Monitor,2,0.2,1777.44,185.34
+ORD-10086,INV-50086,2024-10-22,2024-10-24,First Class,CUST-1158,Customer 0188,Home Office,South,Virginia,Office Supplies,Binders,Marker Set,5,0.1,62.29,11.07
+ORD-10087,INV-50087,2025-12-25,2025-12-26,Second Class,CUST-1115,Customer 0113,Home Office,South,Georgia,Office Supplies,Envelopes,Labels,4,0.1,345.53,26.76
+ORD-10088,INV-50088,2025-12-20,2025-12-23,First Class,CUST-1136,Customer 0090,Consumer,South,Florida,Technology,Machines,Printer,6,0.15,3074.0350000000003,366.03
+ORD-10089,INV-50089,2024-12-03,2024-12-06,Second Class,CUST-1068,Customer 0093,Consumer,East,Pennsylvania,Furniture,Chairs,Wooden Bookcase,5,0.1,1810.58,278.36
+ORD-10090,INV-50090,2024-02-22,2024-02-26,Same Day,CUST-1187,Customer 0057,Home Office,East,New Jersey,Office Supplies,Labels,Labels,4,0.1,57.08,11.73
+ORD-10091,INV-50091,2024-08-04,2024-08-06,Standard Class,CUST-1204,Customer 0070,Consumer,West,California,Technology,Phones,Printer,2,0.2,713.23,118.89
+ORD-10092,INV-50092,2024-07-06,2024-07-10,Same Day,CUST-1142,Customer 0176,Home Office,West,Washington,Office Supplies,Storage,Binder Pack,3,0.05,198.69,13.37
+ORD-10093,INV-50093,2025-01-14,2025-01-18,Standard Class,CUST-1160,Customer 0178,Consumer,West,Colorado,Office Supplies,Paper,A4 Paper,5,0.0,172.5,31.41
+ORD-10094,INV-50094,2025-05-07,2025-05-09,Second Class,CUST-1197,Customer 0098,Consumer,Central,Ohio,Furniture,Tables,Office Table,7,0.05,2035.24,222.47
+ORD-10095,INV-50095,2024-02-10,2024-02-13,Second Class,CUST-1098,Customer 0192,Home Office,East,Pennsylvania,Office Supplies,Labels,A4 Paper,2,0.15,208.26,41.78
+ORD-10096,INV-50096,2024-06-05,2024-06-08,Standard Class,CUST-1167,Customer 0058,Corporate,West,Arizona,Technology,Copiers,Monitor,4,0.0,3074.0350000000003,366.03
+ORD-10097,INV-50097,2024-01-15,2024-01-18,First Class,CUST-1267,Customer 0074,Consumer,Central,Michigan,Office Supplies,Paper,Storage Box,4,0.1,248.99,32.04
+ORD-10098,INV-50098,2024-03-05,2024-03-10,First Class,CUST-1282,Customer 0114,Home Office,West,Arizona,Office Supplies,Labels,A4 Paper,7,0.05,757.05,74.97
+ORD-10099,INV-50099,2025-06-04,2025-06-05,First Class,CUST-1108,Customer 0114,Consumer,West,California,Technology,Phones,Monitor,4,0.3,3074.0350000000003,366.03
+ORD-10100,INV-50100,2024-12-09,2024-12-11,Second Class,CUST-1132,Customer 0227,Consumer,East,New Jersey,Office Supplies,Labels,Marker Set,6,0.1,482.73,24.84
+ORD-10101,INV-50101,2024-05-08,2024-05-11,Same Day,CUST-1285,Customer 0218,Consumer,West,Washington,Office Supplies,Binders,Binder Pack,6,0.15,246.9,26.22
+ORD-10102,INV-50102,2025-10-09,2025-10-14,Same Day,CUST-1138,Customer 0094,Home Office,East,New York,Furniture,Tables,Ergonomic Chair,3,0.15,315.92,28.96
+ORD-10103,INV-50103,2025-04-16,2025-04-19,Same Day,CUST-1293,Customer 0143,Home Office,West,California,Furniture,Chairs,Desk Lamp,2,0.0,379.1,67.07
+ORD-10104,INV-50104,2024-03-03,2024-03-06,First Class,CUST-1090,Customer 0098,Corporate,Central,New Jersey,Furniture,Chairs,Office Table,4,0.15,1886.48,177.14
+ORD-10105,INV-50105,2024-05-18,2024-05-19,First Class,CUST-1109,Customer 0179,Home Office,Central,Michigan,Office Supplies,Art,Storage Box,3,0.0,53.2,15.0
+ORD-10106,INV-50106,2025-05-13,2025-05-18,Standard Class,CUST-1163,Customer 0168,Consumer,West,Colorado,Technology,Phones,Monitor,7,0.1,3074.0350000000003,366.03
+ORD-10107,INV-50107,2025-08-15,2025-08-17,Standard Class,CUST-1124,Customer 0110,Corporate,Central,Michigan,Furniture,Furnishings,Desk Lamp,1,0.15,419.29,34.93
+ORD-10108,INV-50108,2025-01-26,2025-01-30,Standard Class,CUST-1171,Customer 0161,Consumer,South,Virginia,Technology,Machines,Monitor,6,0.3,3074.0350000000003,28.38
+ORD-10109,INV-50109,2025-11-05,2025-11-06,First Class,CUST-1025,Customer 0052,Consumer,Central,Michigan,Furniture,Chairs,Wooden Bookcase,1,0.1,69.76,1.27
+ORD-10110,INV-50110,2025-02-22,2025-02-24,Same Day,CUST-1161,Customer 0091,Home Office,South,Georgia,Furniture,Chairs,Desk Lamp,1,0.0,363.21,36.87
+ORD-10111,INV-50111,2024-10-15,2024-10-16,First Class,CUST-1141,Customer 0035,Consumer,South,Georgia,Technology,Copiers,Laptop,2,0.0,262.25,41.87
+ORD-10112,INV-50112,2025-01-13,2025-01-15,First Class,CUST-1232,Customer 0009,Consumer,Central,Texas,Office Supplies,Binders,A4 Paper,6,0.05,604.99,96.18
+ORD-10113,INV-50113,2025-05-04,2025-05-05,Same Day,CUST-1107,Customer 0019,Consumer,West,California,Furniture,Chairs,Wooden Bookcase,3,0.15,820.23,120.04
+ORD-10114,INV-50114,2024-08-18,2024-08-19,First Class,CUST-1145,Customer 0194,Corporate,Central,Michigan,Office Supplies,Art,A4 Paper,5,0.2,573.57,96.28
+ORD-10115,INV-50115,2024-02-10,2024-02-11,Second Class,CUST-1265,Customer 0142,Corporate,East,New York,Technology,Copiers,Wireless Mouse,7,0.0,1116.7,246.06
+ORD-10116,INV-50116,2024-01-28,2024-02-01,First Class,CUST-1234,Customer 0065,Home Office,Central,Ohio,Furniture,Chairs,Desk Lamp,3,0.0,1119.08,140.37
+ORD-10117,INV-50117,2024-05-14,2024-05-15,Standard Class,CUST-1121,Customer 0030,Corporate,Central,Texas,Office Supplies,Paper,A4 Paper,7,0.15,621.98,75.93
+ORD-10118,INV-50118,2024-07-19,2024-07-21,Same Day,CUST-1155,Customer 0165,Home Office,West,Colorado,Office Supplies,Storage,A4 Paper,7,0.05,751.17,111.89
+ORD-10119,INV-50119,2024-02-02,2024-02-03,Second Class,CUST-1063,Customer 0069,Corporate,Central,Texas,Furniture,Furnishings,Wooden Bookcase,4,0.0,785.17,79.88
+ORD-10120,INV-50120,2024-02-17,2024-02-20,Second Class,CUST-1233,Customer 0051,Corporate,West,Washington,Technology,Copiers,Laptop,7,0.0,3074.0350000000003,366.03
+ORD-10121,INV-50121,2025-05-17,2025-05-22,Standard Class,CUST-1058,Customer 0175,Corporate,South,Florida,Office Supplies,Labels,Binder Pack,5,0.1,237.98,62.8
+ORD-10122,INV-50122,2025-02-10,2025-02-15,First Class,CUST-1249,Customer 0241,Consumer,West,Colorado,Office Supplies,Labels,Marker Set,5,0.15,343.38,42.72
+ORD-10123,INV-50123,2025-07-27,2025-08-01,Standard Class,CUST-1098,Customer 0082,Corporate,Central,Michigan,Office Supplies,Art,Storage Box,7,0.3,168.02,25.99
+ORD-10124,INV-50124,2025-12-28,2026-01-01,Second Class,CUST-1148,Customer 0246,Home Office,South,Florida,Office Supplies,Paper,Labels,4,0.0,347.01,73.5
+ORD-10125,INV-50125,2024-04-08,2024-04-10,Same Day,CUST-1101,Customer 0075,Consumer,Central,Michigan,Office Supplies,Labels,Marker Set,1,0.1,113.56,17.19
+ORD-10126,INV-50126,2025-11-14,2025-11-19,First Class,CUST-1047,Customer 0073,Consumer,South,North Carolina,Office Supplies,Storage,A4 Paper,3,0.05,313.62,72.35
+ORD-10127,INV-50127,2025-12-26,2025-12-31,Second Class,CUST-1170,Customer 0067,Corporate,Central,Michigan,Office Supplies,Binders,Storage Box,7,0.1,395.9,19.48
+ORD-10128,INV-50128,2025-06-30,2025-07-03,Standard Class,CUST-1291,Customer 0025,Consumer,Central,Michigan,Office Supplies,Envelopes,Marker Set,2,0.15,178.6,12.8
+ORD-10129,INV-50129,2025-09-04,2025-09-08,Second Class,CUST-1074,Customer 0099,Home Office,Central,Michigan,Office Supplies,Labels,Labels,4,0.1,372.41,56.71
+ORD-10130,INV-50130,2025-04-06,2025-04-10,Second Class,CUST-1012,Customer 0184,Home Office,Central,Michigan,Office Supplies,Labels,Binder Pack,5,0.0,325.48,82.93
+ORD-10131,INV-50131,2025-10-04,2025-10-09,Standard Class,CUST-1020,Customer 0147,Consumer,South,Virginia,Furniture,Tables,Desk Lamp,7,0.05,3074.0350000000003,323.06
+ORD-10132,INV-50132,2024-01-05,2024-01-09,Second Class,CUST-1052,Customer 0152,Home Office,East,Massachusetts,Office Supplies,Binders,A4 Paper,7,0.1,396.73,77.43
+ORD-10133,INV-50133,2024-08-05,2024-08-06,Second Class,CUST-1153,Customer 0018,Corporate,Central,Ohio,Office Supplies,Art,Binder Pack,4,0.1,150.77,31.62
+ORD-10134,INV-50134,2025-05-17,2025-05-21,Second Class,CUST-1140,Customer 0083,Consumer,West,California,Office Supplies,Paper,Labels,4,0.05,165.48,41.02
+ORD-10135,INV-50135,2025-02-01,2025-02-04,Standard Class,CUST-1100,Customer 0161,Home Office,South,Florida,Office Supplies,Art,A4 Paper,2,0.15,139.86,8.13
+ORD-10136,INV-50136,2025-01-27,2025-01-30,First Class,CUST-1145,Customer 0206,Home Office,Central,Illinois,Technology,Machines,Laptop,5,0.0,3074.0350000000003,366.03
+ORD-10137,INV-50137,2024-07-25,2024-07-29,Standard Class,CUST-1172,Customer 0237,Corporate,South,Florida,Office Supplies,Art,Labels,2,0.05,105.63,23.58
+ORD-10138,INV-50138,2024-01-15,2024-01-16,Standard Class,CUST-1117,Customer 0054,Corporate,East,Massachusetts,Office Supplies,Art,Marker Set,6,0.0,302.64,43.35
+ORD-10139,INV-50139,2025-07-07,2025-07-11,Second Class,CUST-1023,Customer 0029,Home Office,East,Pennsylvania,Office Supplies,Labels,Labels,5,0.2,507.0,87.19
+ORD-10140,INV-50140,2025-04-05,2025-04-06,Second Class,CUST-1133,Customer 0135,Consumer,West,Washington,Technology,Accessories,Laptop,4,0.0,1304.73,148.41
+ORD-10141,INV-50141,2025-11-21,2025-11-22,First Class,CUST-1216,Customer 0248,Consumer,South,North Carolina,Office Supplies,Paper,A4 Paper,6,0.1,421.98,81.71
+ORD-10142,INV-50142,2025-07-28,2025-08-02,Same Day,CUST-1095,Customer 0212,Corporate,West,Arizona,Office Supplies,Art,Labels,1,0.0,74.38,15.48
+ORD-10143,INV-50143,2024-08-28,2024-09-01,First Class,CUST-1048,Customer 0175,Corporate,East,New York,Office Supplies,Art,A4 Paper,3,0.15,228.81,20.2
+ORD-10144,INV-50144,2025-07-17,2025-07-20,Second Class,CUST-1014,Customer 0224,Consumer,Central,Ohio,Furniture,Furnishings,Wooden Bookcase,1,0.1,357.4,14.95
+ORD-10145,INV-50145,2024-04-05,2024-04-06,Standard Class,CUST-1239,Customer 0075,Consumer,Central,Illinois,Technology,Accessories,Smartphone,6,0.0,775.01,84.47
+ORD-10146,INV-50146,2025-04-29,2025-05-02,First Class,CUST-1153,Customer 0134,Home Office,West,Washington,Office Supplies,Art,A4 Paper,4,0.3,477.62,15.33
+ORD-10147,INV-50147,2025-02-10,2025-02-11,First Class,CUST-1038,Customer 0081,Home Office,East,New York,Office Supplies,Labels,Storage Box,3,0.0,352.17,83.83
+ORD-10148,INV-50148,2024-08-18,2024-08-20,First Class,CUST-1090,Customer 0022,Consumer,East,New York,Technology,Accessories,Printer,1,0.1,502.22,105.69
+ORD-10149,INV-50149,2025-10-16,2025-10-17,First Class,CUST-1116,Customer 0094,Home Office,South,North Carolina,Furniture,Chairs,Ergonomic Chair,5,0.2,472.56,60.92
+ORD-10150,INV-50150,2024-06-19,2024-06-24,Same Day,CUST-1115,Customer 0087,Corporate,South,Georgia,Furniture,Bookcases,Office Table,1,0.05,402.27,51.31
+ORD-10151,INV-50151,2025-06-24,2025-06-27,Same Day,CUST-1281,Customer 0115,Home Office,Central,Texas,Technology,Phones,Smartphone,1,0.3,396.38,39.41
+ORD-10152,INV-50152,2024-02-05,2024-02-06,Same Day,CUST-1146,Customer 0112,Home Office,South,Virginia,Furniture,Bookcases,Wooden Bookcase,2,0.1,901.15,76.24
+ORD-10153,INV-50153,2025-06-08,2025-06-10,Same Day,CUST-1289,Customer 0185,Consumer,Central,Ohio,Furniture,Tables,Desk Lamp,2,0.15,945.52,114.63
+ORD-10154,INV-50154,2024-06-08,2024-06-13,Standard Class,CUST-1211,Customer 0003,Home Office,South,Florida,Office Supplies,Art,Labels,7,0.05,651.27,48.53
+ORD-10155,INV-50155,2025-11-29,2025-12-02,First Class,CUST-1205,Customer 0185,Corporate,West,Colorado,Furniture,Furnishings,Office Table,3,0.05,1035.01,73.45
+ORD-10156,INV-50156,2024-08-30,2024-08-31,Standard Class,CUST-1138,Customer 0224,Corporate,West,Arizona,Office Supplies,Envelopes,Labels,6,0.1,486.1,39.77
+ORD-10157,INV-50157,2024-03-26,2024-03-28,Same Day,CUST-1270,Customer 0096,Home Office,West,Colorado,Office Supplies,Binders,Marker Set,7,0.1,646.0,81.55
+ORD-10158,INV-50158,2025-07-31,2025-08-05,First Class,CUST-1062,Customer 0049,Home Office,South,Virginia,Office Supplies,Binders,Binder Pack,7,0.0,312.41,39.66
+ORD-10159,INV-50159,2025-11-12,2025-11-13,Second Class,CUST-1161,Customer 0189,Home Office,Central,Ohio,Office Supplies,Binders,Binder Pack,7,0.0,346.73,37.23
+ORD-10160,INV-50160,2025-07-10,2025-07-13,First Class,CUST-1203,Customer 0080,Home Office,Central,Ohio,Furniture,Bookcases,Office Table,1,0.05,285.77,28.48
+ORD-10161,INV-50161,2025-07-27,2025-07-30,First Class,CUST-1209,Customer 0244,Consumer,West,Arizona,Technology,Phones,Printer,4,0.15,3074.0350000000003,366.03
+ORD-10162,INV-50162,2025-10-07,2025-10-09,Same Day,CUST-1018,Customer 0214,Consumer,Central,Ohio,Office Supplies,Envelopes,Labels,3,0.2,337.57,21.73
+ORD-10163,INV-50163,2024-01-28,2024-02-02,Same Day,CUST-1201,Customer 0105,Consumer,South,Virginia,Furniture,Tables,Desk Lamp,1,0.0,335.2,35.84
+ORD-10164,INV-50164,2025-09-11,2025-09-15,First Class,CUST-1265,Customer 0098,Consumer,Central,Illinois,Furniture,Tables,Ergonomic Chair,2,0.15,973.02,97.52
+ORD-10165,INV-50165,2025-07-09,2025-07-13,First Class,CUST-1083,Customer 0227,Home Office,West,Colorado,Office Supplies,Paper,Binder Pack,6,0.0,446.51,64.92
+ORD-10166,INV-50166,2024-12-05,2024-12-10,Same Day,CUST-1064,Customer 0083,Corporate,East,Pennsylvania,Office Supplies,Labels,Storage Box,6,0.1,496.46,51.95
+ORD-10167,INV-50167,2024-11-26,2024-11-27,Standard Class,CUST-1163,Customer 0083,Consumer,South,Virginia,Office Supplies,Labels,Storage Box,5,0.1,362.86,17.56
+ORD-10168,INV-50168,2025-10-01,2025-10-05,First Class,CUST-1270,Customer 0132,Consumer,Central,Illinois,Furniture,Chairs,Office Table,6,0.05,2936.54,109.59
+ORD-10169,INV-50169,2025-05-20,2025-05-24,First Class,CUST-1062,Customer 0225,Consumer,East,Massachusetts,Office Supplies,Storage,Marker Set,1,0.0,82.13,21.36
+ORD-10170,INV-50170,2024-12-13,2024-12-16,Same Day,CUST-1076,Customer 0248,Corporate,West,Washington,Furniture,Bookcases,Desk Lamp,3,0.1,753.34,13.55
+ORD-10171,INV-50171,2025-04-17,2025-04-18,Second Class,CUST-1036,Customer 0137,Corporate,Central,Ohio,Office Supplies,Envelopes,Storage Box,6,0.0,561.81,86.18
+ORD-10172,INV-50172,2024-08-18,2024-08-21,Second Class,CUST-1184,Customer 0205,Corporate,East,New York,Technology,Phones,Smartphone,3,0.1,1918.09,269.47
+ORD-10173,INV-50173,2024-07-08,2024-07-13,Standard Class,CUST-1201,Customer 0092,Consumer,South,Georgia,Office Supplies,Labels,Marker Set,4,0.1,371.64,29.76
+ORD-10174,INV-50174,2024-08-12,2024-08-14,Same Day,CUST-1152,Customer 0237,Home Office,Central,Ohio,Office Supplies,Storage,Marker Set,3,0.0,114.77,22.7
+ORD-10175,INV-50175,2025-01-19,2025-01-22,First Class,CUST-1149,Customer 0169,Corporate,West,California,Furniture,Bookcases,Desk Lamp,6,0.2,1218.21,-16.55
+ORD-10176,INV-50176,2025-01-11,2025-01-16,Standard Class,CUST-1246,Customer 0104,Consumer,Central,Michigan,Technology,Machines,Wireless Mouse,6,0.1,1557.66,165.62
+ORD-10177,INV-50177,2024-10-09,2024-10-10,Second Class,CUST-1027,Customer 0011,Corporate,West,Washington,Office Supplies,Envelopes,A4 Paper,6,0.0,144.37,14.9
+ORD-10178,INV-50178,2025-09-24,2025-09-26,Same Day,CUST-1174,Customer 0234,Consumer,East,Massachusetts,Furniture,Bookcases,Wooden Bookcase,6,0.1,845.97,60.51
+ORD-10179,INV-50179,2025-09-19,2025-09-21,Standard Class,CUST-1070,Customer 0013,Consumer,South,Florida,Furniture,Tables,Office Table,1,0.1,330.45,7.85
+ORD-10180,INV-50180,2024-09-15,2024-09-17,Same Day,CUST-1143,Customer 0025,Corporate,South,Georgia,Technology,Machines,Laptop,7,0.0,3074.0350000000003,366.03
+ORD-10181,INV-50181,2024-12-24,2024-12-27,Standard Class,CUST-1029,Customer 0057,Corporate,Central,Texas,Office Supplies,Binders,A4 Paper,3,0.1,113.5,15.21
+ORD-10182,INV-50182,2025-12-10,2025-12-14,Same Day,CUST-1220,Customer 0123,Corporate,East,New Jersey,Technology,Copiers,Printer,7,0.1,1081.87,226.85
+ORD-10183,INV-50183,2025-03-31,2025-04-01,Standard Class,CUST-1158,Customer 0124,Corporate,South,Georgia,Office Supplies,Storage,Storage Box,7,0.1,408.71,19.14
+ORD-10184,INV-50184,2025-02-14,2025-02-18,Standard Class,CUST-1058,Customer 0071,Consumer,West,California,Technology,Machines,Printer,1,0.15,921.96,155.17
+ORD-10185,INV-50185,2025-10-10,2025-10-15,Standard Class,CUST-1266,Customer 0054,Home Office,Central,Illinois,Office Supplies,Envelopes,A4 Paper,7,0.2,383.7,67.85
+ORD-10186,INV-50186,2024-11-13,2024-11-15,Second Class,CUST-1223,Customer 0114,Corporate,South,Georgia,Furniture,Chairs,Office Table,6,0.0,2745.63,366.03
+ORD-10187,INV-50187,2025-11-07,2025-11-12,First Class,CUST-1206,Customer 0132,Home Office,East,Massachusetts,Office Supplies,Storage,Labels,1,0.05,99.98,24.37
+ORD-10188,INV-50188,2024-08-12,2024-08-17,Same Day,CUST-1119,Customer 0046,Corporate,West,Washington,Technology,Copiers,Monitor,4,0.05,459.55,58.05
+ORD-10189,INV-50189,2024-08-21,2024-08-24,Same Day,CUST-1139,Customer 0043,Consumer,West,Washington,Technology,Phones,Wireless Mouse,7,0.15,3074.0350000000003,366.03
+ORD-10190,INV-50190,2025-11-14,2025-11-17,Second Class,CUST-1290,Customer 0086,Corporate,East,Massachusetts,Office Supplies,Labels,Labels,3,0.0,28.92,4.61
+ORD-10191,INV-50191,2025-10-25,2025-10-26,Same Day,CUST-1060,Customer 0029,Home Office,East,New York,Furniture,Furnishings,Desk Lamp,4,0.1,231.65,24.31
+ORD-10192,INV-50192,2025-01-08,2025-01-11,Standard Class,CUST-1267,Customer 0050,Corporate,East,New York,Office Supplies,Paper,Storage Box,1,0.2,73.64,9.29
+ORD-10193,INV-50193,2025-11-02,2025-11-05,First Class,CUST-1181,Customer 0202,Corporate,East,New York,Technology,Copiers,Wireless Mouse,3,0.0,3074.0350000000003,344.94
+ORD-10194,INV-50194,2025-08-30,2025-08-31,First Class,CUST-1058,Customer 0043,Home Office,South,North Carolina,Furniture,Furnishings,Ergonomic Chair,7,0.1,937.42,146.99
+ORD-10195,INV-50195,2025-04-16,2025-04-20,Same Day,CUST-1298,Customer 0150,Consumer,West,Washington,Technology,Accessories,Wireless Mouse,4,0.1,1008.54,171.43
+ORD-10196,INV-50196,2024-08-20,2024-08-21,First Class,CUST-1178,Customer 0212,Consumer,Central,Michigan,Office Supplies,Envelopes,Marker Set,4,0.1,337.71,65.97
+ORD-10197,INV-50197,2025-11-22,2025-11-27,First Class,CUST-1010,Customer 0098,Corporate,South,Virginia,Technology,Machines,Laptop,7,0.0,3074.0350000000003,366.03
+ORD-10198,INV-50198,2024-04-22,2024-04-26,Same Day,CUST-1109,Customer 0192,Consumer,East,Massachusetts,Office Supplies,Paper,Marker Set,2,0.0,33.22,8.21
+ORD-10199,INV-50199,2025-05-11,2025-05-13,First Class,CUST-1010,Customer 0220,Corporate,East,Massachusetts,Furniture,Furnishings,Desk Lamp,1,0.0,202.7,37.24
+ORD-10200,INV-50200,2025-03-17,2025-03-19,Standard Class,CUST-1183,Customer 0226,Consumer,West,Washington,Technology,Phones,Smartphone,6,0.2,1650.92,167.12
+ORD-10201,INV-50201,2025-07-17,2025-07-21,Second Class,CUST-1218,Customer 0213,Corporate,West,Washington,Furniture,Chairs,Wooden Bookcase,4,0.1,1589.77,221.64
+ORD-10202,INV-50202,2024-09-24,2024-09-29,Standard Class,CUST-1228,Customer 0134,Home Office,South,North Carolina,Office Supplies,Binders,Marker Set,6,0.05,279.37,45.36
+ORD-10203,INV-50203,2025-05-24,2025-05-28,First Class,CUST-1236,Customer 0246,Corporate,East,Pennsylvania,Office Supplies,Art,Marker Set,4,0.0,191.2,23.09
+ORD-10204,INV-50204,2025-01-20,2025-01-24,Standard Class,CUST-1126,Customer 0169,Home Office,Central,Illinois,Technology,Copiers,Laptop,6,0.0,2948.87,366.03
+ORD-10205,INV-50205,2025-01-21,2025-01-22,First Class,CUST-1272,Customer 0152,Corporate,West,Arizona,Furniture,Tables,Wooden Bookcase,6,0.0,2314.63,232.03
+ORD-10206,INV-50206,2024-04-22,2024-04-24,First Class,CUST-1285,Customer 0103,Consumer,Central,Ohio,Furniture,Bookcases,Office Table,3,0.1,448.64,56.84
+ORD-10207,INV-50207,2025-09-04,2025-09-08,First Class,CUST-1052,Customer 0215,Corporate,East,Pennsylvania,Technology,Phones,Smartphone,5,0.1,654.53,97.72
+ORD-10208,INV-50208,2025-09-16,2025-09-19,Second Class,CUST-1267,Customer 0065,Home Office,Central,Illinois,Office Supplies,Art,A4 Paper,4,0.0,226.56,23.69
+ORD-10209,INV-50209,2024-03-21,2024-03-26,Standard Class,CUST-1191,Customer 0243,Corporate,South,Virginia,Technology,Accessories,Wireless Mouse,7,0.1,3074.0350000000003,366.03
+ORD-10210,INV-50210,2025-11-29,2025-12-03,Second Class,CUST-1037,Customer 0119,Consumer,South,Virginia,Furniture,Chairs,Wooden Bookcase,1,0.1,192.81,19.39
+ORD-10211,INV-50211,2024-04-22,2024-04-26,First Class,CUST-1237,Customer 0104,Home Office,East,Pennsylvania,Technology,Copiers,Laptop,3,0.1,2518.46,366.03
+ORD-10212,INV-50212,2024-01-02,2024-01-07,Standard Class,CUST-1289,Customer 0067,Corporate,East,New Jersey,Technology,Accessories,Laptop,7,0.0,3074.0350000000003,366.03
+ORD-10213,INV-50213,2025-10-03,2025-10-07,Standard Class,CUST-1180,Customer 0044,Corporate,East,New York,Furniture,Tables,Office Table,4,0.15,1547.12,168.06
+ORD-10214,INV-50214,2024-08-07,2024-08-11,Second Class,CUST-1293,Customer 0143,Corporate,West,Colorado,Office Supplies,Paper,Marker Set,7,0.15,121.18,19.43
+ORD-10215,INV-50215,2025-07-19,2025-07-24,Same Day,CUST-1226,Customer 0214,Home Office,South,Georgia,Furniture,Furnishings,Ergonomic Chair,5,0.0,1542.29,115.46
+ORD-10216,INV-50216,2024-08-12,2024-08-17,Standard Class,CUST-1072,Customer 0059,Corporate,East,New York,Office Supplies,Paper,Marker Set,1,0.0,34.2,5.46
+ORD-10217,INV-50217,2025-01-19,2025-01-20,First Class,CUST-1222,Customer 0186,Consumer,South,Georgia,Office Supplies,Art,Storage Box,4,0.15,421.63,34.44
+ORD-10218,INV-50218,2025-02-06,2025-02-11,First Class,CUST-1208,Customer 0022,Corporate,South,Virginia,Furniture,Tables,Desk Lamp,1,0.1,358.33,16.29
+ORD-10219,INV-50219,2025-09-29,2025-10-04,First Class,CUST-1282,Customer 0013,Consumer,West,Washington,Technology,Copiers,Laptop,1,0.05,1014.74,117.08
+ORD-10220,INV-50220,2024-05-09,2024-05-11,Second Class,CUST-1272,Customer 0249,Corporate,South,North Carolina,Furniture,Furnishings,Office Table,5,0.0,2347.62,272.55
+ORD-10221,INV-50221,2024-02-22,2024-02-27,Standard Class,CUST-1144,Customer 0071,Home Office,West,Colorado,Technology,Machines,Wireless Mouse,7,0.05,1162.14,270.26
+ORD-10222,INV-50222,2025-11-14,2025-11-18,Standard Class,CUST-1283,Customer 0096,Consumer,West,Colorado,Technology,Machines,Monitor,6,0.05,951.13,220.11
+ORD-10223,INV-50223,2025-12-30,2026-01-02,Second Class,CUST-1229,Customer 0146,Corporate,East,New Jersey,Office Supplies,Storage,Storage Box,7,0.2,212.46,31.82
+ORD-10224,INV-50224,2025-11-02,2025-11-04,Second Class,CUST-1270,Customer 0168,Corporate,South,North Carolina,Office Supplies,Labels,Binder Pack,3,0.2,242.03,8.15
+ORD-10225,INV-50225,2025-12-10,2025-12-13,Second Class,CUST-1192,Customer 0212,Corporate,East,New Jersey,Office Supplies,Labels,Storage Box,7,0.3,40.14,5.43
+ORD-10226,INV-50226,2025-02-19,2025-02-24,First Class,CUST-1068,Customer 0047,Home Office,Central,Ohio,Technology,Machines,Smartphone,3,0.05,1784.43,168.32
+ORD-10227,INV-50227,2024-09-03,2024-09-05,Second Class,CUST-1098,Customer 0203,Home Office,East,New York,Office Supplies,Art,A4 Paper,2,0.0,29.35,6.62
+ORD-10228,INV-50228,2025-03-14,2025-03-19,First Class,CUST-1143,Customer 0006,Consumer,Central,Ohio,Technology,Accessories,Laptop,6,0.0,3074.0350000000003,366.03
+ORD-10229,INV-50229,2024-07-21,2024-07-25,Same Day,CUST-1140,Customer 0043,Consumer,South,North Carolina,Technology,Machines,Smartphone,4,0.0,348.03,81.88
+ORD-10230,INV-50230,2024-07-02,2024-07-07,Same Day,CUST-1123,Customer 0125,Consumer,West,Colorado,Furniture,Chairs,Ergonomic Chair,5,0.1,406.81,20.74
+ORD-10231,INV-50231,2024-05-02,2024-05-04,Second Class,CUST-1223,Customer 0016,Corporate,South,Georgia,Office Supplies,Art,Marker Set,3,0.2,86.96,14.91
+ORD-10232,INV-50232,2025-02-04,2025-02-07,First Class,CUST-1037,Customer 0070,Home Office,East,New York,Furniture,Furnishings,Wooden Bookcase,7,0.05,2865.18,219.1
+ORD-10233,INV-50233,2024-10-20,2024-10-22,Standard Class,CUST-1105,Customer 0095,Home Office,Central,Michigan,Technology,Copiers,Printer,2,0.05,1813.01,176.08
+ORD-10234,INV-50234,2024-10-06,2024-10-10,Same Day,CUST-1272,Customer 0096,Corporate,East,Massachusetts,Furniture,Tables,Desk Lamp,3,0.1,917.37,95.5
+ORD-10235,INV-50235,2025-09-01,2025-09-02,First Class,CUST-1180,Customer 0106,Home Office,South,North Carolina,Furniture,Bookcases,Ergonomic Chair,3,0.15,887.54,-5.39
+ORD-10236,INV-50236,2024-07-16,2024-07-17,Same Day,CUST-1181,Customer 0030,Corporate,West,Colorado,Furniture,Furnishings,Wooden Bookcase,2,0.0,344.8,22.17
+ORD-10237,INV-50237,2025-05-25,2025-05-29,Second Class,CUST-1282,Customer 0041,Corporate,Central,Illinois,Furniture,Furnishings,Desk Lamp,2,0.0,294.67,14.61
+ORD-10238,INV-50238,2024-05-23,2024-05-27,Same Day,CUST-1158,Customer 0057,Corporate,East,New Jersey,Furniture,Chairs,Desk Lamp,1,0.05,254.05,6.85
+ORD-10239,INV-50239,2025-08-31,2025-09-04,Standard Class,CUST-1021,Customer 0206,Home Office,Central,Michigan,Office Supplies,Art,Marker Set,5,0.15,233.58,47.54
+ORD-10240,INV-50240,2024-07-19,2024-07-22,Second Class,CUST-1230,Customer 0223,Corporate,West,California,Office Supplies,Art,A4 Paper,5,0.0,568.91,72.78
+ORD-10241,INV-50241,2024-05-03,2024-05-06,Second Class,CUST-1042,Customer 0097,Consumer,Central,Ohio,Office Supplies,Binders,Labels,7,0.1,689.81,79.34
+ORD-10242,INV-50242,2024-07-05,2024-07-08,Standard Class,CUST-1071,Customer 0247,Consumer,West,Arizona,Office Supplies,Binders,Labels,3,0.15,325.08,56.59
+ORD-10243,INV-50243,2024-11-21,2024-11-23,Standard Class,CUST-1007,Customer 0029,Home Office,South,Virginia,Office Supplies,Storage,Storage Box,5,0.1,62.84,9.41
+ORD-10244,INV-50244,2025-04-08,2025-04-13,Standard Class,CUST-1187,Customer 0185,Corporate,South,Florida,Office Supplies,Art,Storage Box,4,0.2,342.28,58.41
+ORD-10245,INV-50245,2024-12-14,2024-12-17,Same Day,CUST-1038,Customer 0179,Home Office,Central,Illinois,Office Supplies,Labels,Storage Box,3,0.05,205.11,25.36
+ORD-10246,INV-50246,2025-10-21,2025-10-24,Same Day,CUST-1051,Customer 0118,Home Office,South,Georgia,Office Supplies,Envelopes,Binder Pack,3,0.05,195.51,40.3
+ORD-10247,INV-50247,2025-02-06,2025-02-11,Standard Class,CUST-1117,Customer 0054,Consumer,South,Florida,Office Supplies,Storage,Marker Set,1,0.2,93.6,16.02
+ORD-10248,INV-50248,2024-12-11,2024-12-13,Standard Class,CUST-1053,Customer 0029,Home Office,South,North Carolina,Technology,Copiers,Laptop,7,0.05,3074.0350000000003,366.03
+ORD-10249,INV-50249,2025-05-25,2025-05-27,First Class,CUST-1046,Customer 0181,Corporate,East,Massachusetts,Furniture,Tables,Office Table,4,0.05,1995.86,81.68
+ORD-10250,INV-50250,2024-05-26,2024-05-29,Same Day,CUST-1160,Customer 0001,Consumer,West,Arizona,Office Supplies,Envelopes,A4 Paper,2,0.0,41.13,8.04
+ORD-10251,INV-50251,2024-05-27,2024-05-29,Same Day,CUST-1122,Customer 0043,Home Office,Central,Michigan,Office Supplies,Art,Storage Box,6,0.2,411.13,35.36
+ORD-10252,INV-50252,2025-12-11,2025-12-12,Same Day,CUST-1029,Customer 0158,Corporate,East,New Jersey,Office Supplies,Binders,Marker Set,5,0.1,112.08,28.21
+ORD-10253,INV-50253,2025-05-03,2025-05-07,Same Day,CUST-1151,Customer 0086,Home Office,West,Washington,Office Supplies,Art,Marker Set,2,0.05,54.9,7.36
+ORD-10254,INV-50254,2025-10-01,2025-10-02,First Class,CUST-1189,Customer 0117,Home Office,Central,Illinois,Office Supplies,Envelopes,A4 Paper,2,0.0,196.23,19.42
+ORD-10255,INV-50255,2025-07-04,2025-07-07,Second Class,CUST-1195,Customer 0113,Corporate,West,Washington,Office Supplies,Labels,Binder Pack,3,0.2,173.47,9.25
+ORD-10256,INV-50256,2024-12-03,2024-12-04,Standard Class,CUST-1149,Customer 0160,Consumer,East,New Jersey,Technology,Accessories,Smartphone,1,0.2,357.09,11.63
+ORD-10257,INV-50257,2025-10-02,2025-10-05,Second Class,CUST-1110,Customer 0038,Consumer,Central,Michigan,Office Supplies,Paper,Storage Box,2,0.0,95.98,23.35
+ORD-10258,INV-50258,2025-04-17,2025-04-22,Standard Class,CUST-1014,Customer 0071,Corporate,West,Colorado,Technology,Machines,Smartphone,4,0.1,435.63,44.14
+ORD-10259,INV-50259,2024-05-30,2024-06-01,Second Class,CUST-1278,Customer 0171,Corporate,West,California,Technology,Accessories,Monitor,4,0.05,3074.0350000000003,366.03
+ORD-10260,INV-50260,2025-02-18,2025-02-22,Same Day,CUST-1067,Customer 0046,Consumer,Central,Illinois,Office Supplies,Storage,Labels,3,0.1,41.48,5.62
+ORD-10261,INV-50261,2024-10-24,2024-10-26,First Class,CUST-1075,Customer 0239,Consumer,East,New Jersey,Furniture,Bookcases,Office Table,7,0.0,1545.93,259.1
+ORD-10262,INV-50262,2025-09-02,2025-09-05,Second Class,CUST-1075,Customer 0183,Home Office,South,Virginia,Furniture,Chairs,Wooden Bookcase,3,0.15,568.39,37.45
+ORD-10263,INV-50263,2024-09-19,2024-09-23,Same Day,CUST-1172,Customer 0046,Home Office,South,North Carolina,Office Supplies,Art,Labels,6,0.05,507.51,76.69
+ORD-10264,INV-50264,2024-05-23,2024-05-25,First Class,CUST-1224,Customer 0149,Consumer,East,New Jersey,Technology,Phones,Monitor,1,0.15,419.17,90.73
+ORD-10265,INV-50265,2024-12-11,2024-12-12,First Class,CUST-1020,Customer 0090,Consumer,Central,Michigan,Furniture,Bookcases,Office Table,3,0.0,1261.95,191.68
+ORD-10266,INV-50266,2025-09-15,2025-09-20,First Class,CUST-1141,Customer 0066,Home Office,Central,Illinois,Office Supplies,Art,Labels,4,0.0,256.31,36.61
+ORD-10267,INV-50267,2025-07-25,2025-07-28,Second Class,CUST-1225,Customer 0221,Home Office,Central,Michigan,Furniture,Bookcases,Wooden Bookcase,2,0.05,737.26,92.33
+ORD-10268,INV-50268,2024-01-02,2024-01-07,Second Class,CUST-1069,Customer 0096,Consumer,West,Washington,Technology,Phones,Wireless Mouse,1,0.0,381.05,76.18
+ORD-10269,INV-50269,2024-10-30,2024-11-04,Standard Class,CUST-1153,Customer 0132,Consumer,South,Georgia,Furniture,Bookcases,Office Table,6,0.05,2213.12,263.97
+ORD-10270,INV-50270,2024-09-10,2024-09-11,Same Day,CUST-1066,Customer 0240,Home Office,Central,Michigan,Furniture,Bookcases,Ergonomic Chair,7,0.15,2413.47,-22.85
+ORD-10271,INV-50271,2025-10-13,2025-10-15,Second Class,CUST-1059,Customer 0023,Home Office,East,New York,Furniture,Chairs,Wooden Bookcase,3,0.05,1366.45,108.7
+ORD-10272,INV-50272,2025-03-28,2025-03-29,Standard Class,CUST-1121,Customer 0103,Corporate,Central,Ohio,Technology,Machines,Monitor,6,0.0,1497.21,198.89
+ORD-10273,INV-50273,2024-02-06,2024-02-07,Same Day,CUST-1014,Customer 0217,Home Office,East,Massachusetts,Office Supplies,Storage,Binder Pack,3,0.05,272.1,28.9
+ORD-10274,INV-50274,2024-06-08,2024-06-11,Second Class,CUST-1272,Customer 0191,Consumer,Central,Ohio,Technology,Accessories,Printer,7,0.05,3074.0350000000003,366.03
+ORD-10275,INV-50275,2024-01-09,2024-01-12,Second Class,CUST-1283,Customer 0131,Home Office,East,Pennsylvania,Technology,Machines,Printer,1,0.05,1035.73,128.57
+ORD-10276,INV-50276,2024-08-20,2024-08-21,Standard Class,CUST-1190,Customer 0200,Corporate,South,Georgia,Technology,Accessories,Monitor,6,0.2,3074.0350000000003,318.8
+ORD-10277,INV-50277,2024-04-08,2024-04-10,First Class,CUST-1164,Customer 0233,Home Office,South,Georgia,Furniture,Bookcases,Ergonomic Chair,7,0.05,2590.24,128.02
+ORD-10278,INV-50278,2025-10-20,2025-10-24,First Class,CUST-1049,Customer 0246,Corporate,West,New Jersey,Office Supplies,Storage,Storage Box,4,0.15,205.02,12.04
+ORD-10279,INV-50279,2024-07-26,2024-07-30,Standard Class,CUST-1268,Customer 0001,Corporate,South,Virginia,Office Supplies,Envelopes,Binder Pack,4,0.2,339.79,76.48
+ORD-10280,INV-50280,2024-05-10,2024-05-12,Standard Class,CUST-1088,Customer 0056,Corporate,East,New York,Office Supplies,Art,Labels,2,0.0,116.4,10.93
+ORD-10281,INV-50281,2025-02-07,2025-02-09,Second Class,CUST-1080,Customer 0231,Consumer,Central,Texas,Office Supplies,Labels,Storage Box,5,0.1,398.03,83.77
+ORD-10282,INV-50282,2024-05-31,2024-06-02,First Class,CUST-1156,Customer 0166,Home Office,West,Colorado,Office Supplies,Art,Storage Box,1,0.0,60.05,11.58
+ORD-10283,INV-50283,2024-02-23,2024-02-27,Same Day,CUST-1069,Customer 0062,Corporate,South,Florida,Furniture,Tables,Wooden Bookcase,1,0.0,364.56,57.98
+ORD-10284,INV-50284,2024-04-29,2024-05-02,Second Class,CUST-1249,Customer 0098,Corporate,West,Colorado,Furniture,Tables,Ergonomic Chair,5,0.1,386.68,52.36
+ORD-10285,INV-50285,2025-11-03,2025-11-04,First Class,CUST-1297,Customer 0114,Home Office,West,Washington,Furniture,Bookcases,Office Table,7,0.3,2709.71,195.65
+ORD-10286,INV-50286,2025-09-19,2025-09-24,Second Class,CUST-1211,Customer 0126,Consumer,West,Arizona,Furniture,Furnishings,Office Table,1,0.0,477.64,51.83
+ORD-10287,INV-50287,2025-08-09,2025-08-10,Same Day,CUST-1290,Customer 0114,Consumer,East,New York,Office Supplies,Paper,Binder Pack,7,0.15,288.28,53.46
+ORD-10288,INV-50288,2025-09-16,2025-09-17,Same Day,CUST-1073,Customer 0192,Home Office,Central,Illinois,Furniture,Chairs,Ergonomic Chair,1,0.0,479.51,84.7
+ORD-10289,INV-50289,2025-02-23,2025-02-25,Second Class,CUST-1124,Customer 0081,Consumer,South,Virginia,Furniture,Bookcases,Desk Lamp,5,0.05,853.62,93.58
+ORD-10290,INV-50290,2025-02-25,2025-03-01,First Class,CUST-1281,Customer 0097,Home Office,West,California,Technology,Accessories,Printer,1,0.05,177.94,23.46
+ORD-10291,INV-50291,2024-04-13,2024-04-18,Second Class,CUST-1096,Customer 0169,Consumer,Central,Texas,Office Supplies,Storage,Labels,2,0.05,35.0,4.83
+ORD-10292,INV-50292,2024-09-10,2024-09-14,Standard Class,CUST-1125,Customer 0188,Consumer,East,New Jersey,Technology,Machines,Smartphone,3,0.1,1294.04,223.05
+ORD-10293,INV-50293,2024-08-14,2024-08-16,Second Class,CUST-1129,Customer 0127,Corporate,South,Virginia,Office Supplies,Storage,Binder Pack,3,0.05,222.33,23.88
+ORD-10294,INV-50294,2024-04-21,2024-04-22,Standard Class,CUST-1215,Customer 0229,Consumer,Central,Ohio,Technology,Machines,Printer,6,0.15,3074.0350000000003,366.03
+ORD-10295,INV-50295,2025-05-24,2025-05-29,Same Day,CUST-1073,Customer 0109,Consumer,West,Washington,Furniture,Chairs,Desk Lamp,1,0.1,197.71,23.6
+ORD-10296,INV-50296,2025-04-17,2025-04-21,Standard Class,CUST-1204,Customer 0079,Home Office,West,California,Furniture,Furnishings,Ergonomic Chair,2,0.0,265.16,31.9
+ORD-10297,INV-50297,2024-04-08,2024-04-11,Standard Class,CUST-1075,Customer 0177,Home Office,South,Virginia,Office Supplies,Labels,Binder Pack,4,0.1,338.05,29.37
+ORD-10298,INV-50298,2024-06-01,2024-06-02,Second Class,CUST-1117,Customer 0208,Corporate,South,Georgia,Office Supplies,Binders,Storage Box,4,0.1,296.64,61.96
+ORD-10299,INV-50299,2024-12-03,2024-12-07,Same Day,CUST-1252,Customer 0154,Home Office,East,New Jersey,Office Supplies,Art,Marker Set,7,0.05,474.29,80.0
+ORD-10300,INV-50300,2025-12-06,2025-12-08,Second Class,CUST-1086,Customer 0079,Consumer,East,New York,Office Supplies,Art,Marker Set,2,0.05,172.67,18.62
+ORD-10301,INV-50301,2024-06-11,2024-06-15,Standard Class,CUST-1237,Customer 0134,Consumer,West,Colorado,Office Supplies,Envelopes,Binder Pack,4,0.15,451.81,54.0
+ORD-10302,INV-50302,2025-12-20,2025-12-25,Same Day,CUST-1134,Customer 0187,Consumer,East,New Jersey,Technology,Accessories,Printer,3,0.1,884.23,192.99
+ORD-10303,INV-50303,2025-11-11,2025-11-13,Same Day,CUST-1034,Customer 0119,Corporate,South,Georgia,Furniture,Furnishings,Ergonomic Chair,7,0.05,2820.65,297.27
+ORD-10304,INV-50304,2024-06-09,2024-06-13,Second Class,CUST-1105,Customer 0085,Corporate,West,Washington,Furniture,Tables,Desk Lamp,7,0.0,1113.67,98.5
+ORD-10305,INV-50305,2025-08-02,2025-08-04,First Class,CUST-1123,Customer 0053,Corporate,Central,Ohio,Technology,Accessories,Smartphone,4,0.1,1180.26,180.77
+ORD-10306,INV-50306,2025-02-01,2025-02-02,Standard Class,CUST-1293,Customer 0246,Consumer,West,Colorado,Technology,Copiers,Monitor,2,0.05,1140.49,285.6
+ORD-10307,INV-50307,2024-10-03,2024-10-04,First Class,CUST-1017,Customer 0184,Consumer,East,Massachusetts,Office Supplies,Art,Binder Pack,6,0.0,541.06,104.95
+ORD-10308,INV-50308,2025-05-18,2025-05-23,First Class,CUST-1063,Customer 0199,Consumer,West,Washington,Office Supplies,Art,Storage Box,2,0.1,186.81,9.9
+ORD-10309,INV-50309,2025-01-26,2025-01-31,Second Class,CUST-1176,Customer 0139,Corporate,South,Florida,Technology,Accessories,Monitor,2,0.1,935.48,209.8
+ORD-10310,INV-50310,2024-05-14,2024-05-16,Standard Class,CUST-1017,Customer 0057,Consumer,Central,Ohio,Technology,Copiers,Monitor,1,0.1,590.33,72.17
+ORD-10311,INV-50311,2024-07-13,2024-07-17,Second Class,CUST-1126,Customer 0229,Home Office,Central,Ohio,Furniture,Tables,Ergonomic Chair,3,0.0,1295.83,55.16
+ORD-10312,INV-50312,2025-02-04,2025-02-06,Same Day,CUST-1126,Customer 0007,Home Office,West,Colorado,Technology,Copiers,Printer,1,0.2,806.52,69.15
+ORD-10313,INV-50313,2025-10-01,2025-10-06,First Class,CUST-1122,Customer 0144,Corporate,Central,Illinois,Office Supplies,Art,A4 Paper,4,0.05,303.65,28.86
+ORD-10314,INV-50314,2024-02-02,2024-02-06,Same Day,CUST-1098,Customer 0197,Corporate,West,Colorado,Technology,Copiers,Monitor,2,0.2,1989.31,366.03
+ORD-10315,INV-50315,2025-11-18,2025-11-20,First Class,CUST-1142,Customer 0166,Home Office,South,Georgia,Technology,Phones,Monitor,2,0.05,777.27,194.16
+ORD-10316,INV-50316,2025-04-04,2025-04-05,Standard Class,CUST-1145,Customer 0171,Home Office,East,Massachusetts,Furniture,Bookcases,Office Table,4,0.05,1916.38,167.35
+ORD-10317,INV-50317,2025-04-14,2025-04-16,Standard Class,CUST-1166,Customer 0096,Corporate,South,Georgia,Office Supplies,Binders,A4 Paper,6,0.15,449.67,18.15
+ORD-10318,INV-50318,2025-01-09,2025-01-11,Standard Class,CUST-1231,Customer 0247,Corporate,South,North Carolina,Furniture,Bookcases,Wooden Bookcase,6,0.1,2680.79,193.27
+ORD-10319,INV-50319,2024-01-22,2024-01-26,Second Class,CUST-1194,Customer 0214,Consumer,South,North Carolina,Furniture,Bookcases,Desk Lamp,3,0.05,830.0,89.88
+ORD-10320,INV-50320,2025-10-31,2025-11-04,Same Day,CUST-1164,Customer 0149,Home Office,East,Massachusetts,Furniture,Chairs,Desk Lamp,1,0.2,91.13,0.48
+ORD-10321,INV-50321,2024-02-07,2024-02-10,Second Class,CUST-1193,Customer 0069,Home Office,Central,Ohio,Office Supplies,Labels,Labels,2,0.3,128.03,-2.93
+ORD-10322,INV-50322,2024-08-17,2024-08-22,Second Class,CUST-1212,Customer 0049,Consumer,Central,Texas,Technology,Accessories,Monitor,2,0.0,2363.51,356.25
+ORD-10323,INV-50323,2024-12-30,2025-01-04,First Class,CUST-1291,Customer 0122,Corporate,Central,Illinois,Furniture,Tables,Wooden Bookcase,4,0.15,1274.85,-13.79
+ORD-10324,INV-50324,2025-07-16,2025-07-21,Second Class,CUST-1197,Customer 0057,Consumer,Central,Ohio,Office Supplies,Binders,Binder Pack,3,0.1,334.78,35.59
+ORD-10325,INV-50325,2025-03-13,2025-03-18,Second Class,CUST-1183,Customer 0183,Home Office,Central,Texas,Technology,Phones,Wireless Mouse,2,0.05,506.13,70.59
+ORD-10326,INV-50326,2024-10-09,2024-10-12,First Class,CUST-1257,Customer 0063,Corporate,Central,Texas,Office Supplies,Labels,A4 Paper,1,0.1,112.83,28.47
+ORD-10327,INV-50327,2024-01-27,2024-01-31,Same Day,CUST-1284,Customer 0201,Home Office,Central,Ohio,Office Supplies,Binders,Binder Pack,5,0.0,161.11,17.47
+ORD-10328,INV-50328,2024-08-13,2024-08-17,Same Day,CUST-1187,Customer 0163,Corporate,East,Pennsylvania,Furniture,Chairs,Ergonomic Chair,3,0.0,963.65,97.83
+ORD-10329,INV-50329,2024-10-03,2024-10-06,Same Day,CUST-1017,Customer 0167,Consumer,West,Colorado,Technology,Phones,Laptop,5,0.0,1860.76,335.3
+ORD-10330,INV-50330,2025-08-31,2025-09-02,Standard Class,CUST-1219,Customer 0158,Home Office,West,Washington,Office Supplies,Art,Binder Pack,7,0.1,140.79,10.19
+ORD-10331,INV-50331,2024-10-10,2024-10-11,First Class,CUST-1139,Customer 0106,Consumer,West,Colorado,Technology,Phones,Smartphone,3,0.0,641.62,80.21
+ORD-10332,INV-50332,2025-04-25,2025-04-29,First Class,CUST-1118,Customer 0162,Corporate,East,New Jersey,Office Supplies,Paper,Marker Set,7,0.3,392.99,49.08
+ORD-10333,INV-50333,2025-03-28,2025-04-02,Same Day,CUST-1092,Customer 0176,Consumer,East,Massachusetts,Office Supplies,Labels,Binder Pack,4,0.05,394.81,83.49
+ORD-10334,INV-50334,2025-10-20,2025-10-23,First Class,CUST-1258,Customer 0068,Consumer,West,Washington,Office Supplies,Paper,A4 Paper,4,0.0,209.13,34.72
+ORD-10335,INV-50335,2025-05-30,2025-05-31,Second Class,CUST-1248,Customer 0077,Corporate,South,Virginia,Office Supplies,Envelopes,Marker Set,1,0.05,103.71,13.62
+ORD-10336,INV-50336,2025-06-30,2025-07-05,Same Day,CUST-1012,Customer 0120,Corporate,South,Georgia,Office Supplies,Storage,Storage Box,7,0.2,691.95,14.92
+ORD-10337,INV-50337,2024-07-10,2024-07-13,Same Day,CUST-1030,Customer 0075,Consumer,East,New Jersey,Furniture,Furnishings,Desk Lamp,5,0.15,204.78,3.15
+ORD-10338,INV-50338,2024-02-18,2024-02-20,Same Day,CUST-1213,Customer 0084,Consumer,East,New York,Office Supplies,Paper,Marker Set,1,0.05,56.31,5.55
+ORD-10339,INV-50339,2025-05-26,2025-05-28,First Class,CUST-1169,Customer 0123,Corporate,Central,Michigan,Office Supplies,Binders,Labels,1,0.0,57.71,5.65
+ORD-10340,INV-50340,2024-01-17,2024-01-22,First Class,CUST-1127,Customer 0007,Corporate,East,Pennsylvania,Furniture,Furnishings,Wooden Bookcase,2,0.0,886.96,127.66
+ORD-10341,INV-50341,2024-06-20,2024-06-24,Second Class,CUST-1002,Customer 0248,Consumer,East,New York,Technology,Machines,Printer,2,0.1,1295.68,124.01
+ORD-10342,INV-50342,2024-08-07,2024-08-10,First Class,CUST-1158,Customer 0156,Home Office,East,Pennsylvania,Technology,Phones,Wireless Mouse,3,0.0,1408.55,363.8
+ORD-10343,INV-50343,2024-06-06,2024-06-11,First Class,CUST-1009,Customer 0114,Corporate,East,New Jersey,Technology,Machines,Wireless Mouse,7,0.1,3074.0350000000003,366.03
+ORD-10344,INV-50344,2025-04-21,2025-04-24,Same Day,CUST-1256,Customer 0144,Consumer,East,New Jersey,Technology,Machines,Laptop,3,0.1,2533.24,308.6
+ORD-10345,INV-50345,2024-02-15,2024-02-16,Standard Class,CUST-1198,Customer 0064,Corporate,South,Florida,Furniture,Bookcases,Desk Lamp,7,0.1,1870.61,180.78
+ORD-10346,INV-50346,2025-01-07,2025-01-11,Same Day,CUST-1036,Customer 0086,Home Office,East,Massachusetts,Furniture,Bookcases,Ergonomic Chair,4,0.1,1105.8,108.6
+ORD-10347,INV-50347,2025-06-01,2025-06-02,First Class,CUST-1219,Customer 0072,Home Office,West,Washington,Office Supplies,Labels,Marker Set,6,0.05,718.84,197.78
+ORD-10348,INV-50348,2024-04-08,2024-04-13,First Class,CUST-1005,Customer 0125,Corporate,South,Georgia,Office Supplies,Paper,Marker Set,1,0.2,19.93,2.95
+ORD-10349,INV-50349,2024-02-06,2024-02-11,Same Day,CUST-1236,Customer 0222,Consumer,East,Pennsylvania,Office Supplies,Paper,Binder Pack,7,0.3,576.63,-11.98
+ORD-10350,INV-50350,2024-10-06,2024-10-09,Standard Class,CUST-1242,Customer 0114,Home Office,South,Virginia,Furniture,Tables,Desk Lamp,6,0.0,1954.59,366.03
+ORD-10351,INV-50351,2024-12-14,2024-12-16,First Class,CUST-1038,Customer 0003,Home Office,East,Massachusetts,Furniture,Chairs,Ergonomic Chair,7,0.0,1868.77,75.45
+ORD-10352,INV-50352,2025-05-11,2025-05-14,Same Day,CUST-1285,Customer 0054,Consumer,Central,Michigan,Technology,Phones,Smartphone,1,0.1,691.15,103.28
+ORD-10353,INV-50353,2024-10-28,2024-10-30,Same Day,CUST-1168,Customer 0146,Corporate,South,Florida,Office Supplies,Paper,Labels,3,0.0,236.98,67.12
+ORD-10354,INV-50354,2024-06-29,2024-07-04,Second Class,CUST-1243,Customer 0176,Corporate,West,Colorado,Furniture,Furnishings,Wooden Bookcase,7,0.2,1136.85,69.48
+ORD-10355,INV-50355,2025-08-29,2025-09-02,First Class,CUST-1105,Customer 0032,Corporate,South,Georgia,Office Supplies,Binders,Binder Pack,7,0.2,256.39,27.85
+ORD-10356,INV-50356,2024-04-08,2024-04-10,Standard Class,CUST-1259,Customer 0082,Corporate,Central,Illinois,Technology,Phones,Laptop,1,0.2,380.16,29.0
+ORD-10357,INV-50357,2025-11-30,2025-12-01,Standard Class,CUST-1195,Customer 0119,Corporate,South,North Carolina,Furniture,Furnishings,Wooden Bookcase,6,0.0,2944.26,366.03
+ORD-10358,INV-50358,2024-04-25,2024-04-29,Standard Class,CUST-1130,Customer 0218,Consumer,Central,Michigan,Office Supplies,Art,Marker Set,2,0.3,41.22,1.68
+ORD-10359,INV-50359,2024-07-09,2024-07-10,Same Day,CUST-1063,Customer 0031,Home Office,East,Pennsylvania,Furniture,Chairs,Office Table,3,0.3,988.96,65.6
+ORD-10360,INV-50360,2024-09-09,2024-09-12,Standard Class,CUST-1002,Customer 0026,Consumer,Central,Illinois,Technology,Accessories,Monitor,2,0.05,2363.57,249.37
+ORD-10361,INV-50361,2024-06-09,2024-06-13,Second Class,CUST-1043,Customer 0022,Consumer,East,Massachusetts,Technology,Phones,Printer,2,0.0,1761.49,366.03
+ORD-10362,INV-50362,2024-09-12,2024-09-15,First Class,CUST-1039,Customer 0224,Corporate,South,Virginia,Furniture,Tables,Ergonomic Chair,4,0.0,1304.44,201.9
+ORD-10363,INV-50363,2024-11-18,2024-11-22,Same Day,CUST-1132,Customer 0106,Consumer,West,Washington,Office Supplies,Storage,Binder Pack,5,0.15,437.89,90.38
+ORD-10364,INV-50364,2024-05-07,2024-05-09,Same Day,CUST-1240,Customer 0166,Corporate,Central,Illinois,Technology,Accessories,Monitor,4,0.0,2505.79,366.03
+ORD-10365,INV-50365,2024-01-18,2024-01-20,First Class,CUST-1139,Customer 0099,Corporate,East,Pennsylvania,Technology,Accessories,Smartphone,2,0.1,590.79,74.07
+ORD-10366,INV-50366,2025-07-19,2025-07-22,Second Class,CUST-1130,Customer 0234,Home Office,Central,Texas,Office Supplies,Paper,Labels,1,0.1,39.78,9.96
+ORD-10367,INV-50367,2025-07-23,2025-07-28,Second Class,CUST-1011,Customer 0077,Consumer,South,New Jersey,Office Supplies,Binders,Binder Pack,7,0.05,809.58,223.87
+ORD-10368,INV-50368,2024-11-18,2024-11-21,Same Day,CUST-1191,Customer 0160,Home Office,West,Colorado,Office Supplies,Labels,Storage Box,6,0.0,502.46,85.64
+ORD-10369,INV-50369,2025-11-16,2025-11-21,Standard Class,CUST-1282,Customer 0106,Home Office,East,Massachusetts,Office Supplies,Paper,Storage Box,2,0.0,159.53,34.98
+ORD-10370,INV-50370,2025-09-17,2025-09-22,Standard Class,CUST-1084,Customer 0011,Consumer,West,New Jersey,Office Supplies,Art,Labels,1,0.15,15.05,1.08
+ORD-10371,INV-50371,2024-10-14,2024-10-17,First Class,CUST-1001,Customer 0103,Consumer,East,New Jersey,Furniture,Chairs,Wooden Bookcase,1,0.1,165.83,14.17
+ORD-10372,INV-50372,2025-10-24,2025-10-27,Standard Class,CUST-1000,Customer 0051,Consumer,West,California,Technology,Phones,Monitor,5,0.0,3074.0350000000003,366.03
+ORD-10373,INV-50373,2025-09-30,2025-10-04,First Class,CUST-1068,Customer 0216,Corporate,West,California,Technology,Copiers,Laptop,3,0.05,2205.37,366.03
+ORD-10374,INV-50374,2024-06-03,2024-06-07,Standard Class,CUST-1177,Customer 0077,Home Office,East,New Jersey,Technology,Copiers,Printer,2,0.3,161.41,1.49
+ORD-10375,INV-50375,2025-05-04,2025-05-07,Same Day,CUST-1028,Customer 0151,Consumer,West,California,Technology,Machines,Monitor,6,0.05,3074.0350000000003,366.03
+ORD-10376,INV-50376,2025-01-20,2025-01-22,First Class,CUST-1237,Customer 0033,Home Office,Central,Texas,Furniture,Chairs,Ergonomic Chair,1,0.1,258.29,25.44
+ORD-10377,INV-50377,2024-04-13,2024-04-18,First Class,CUST-1217,Customer 0189,Consumer,Central,Michigan,Office Supplies,Binders,Labels,6,0.1,194.45,13.32
+ORD-10378,INV-50378,2025-01-27,2025-01-30,Same Day,CUST-1152,Customer 0066,Consumer,West,Arizona,Office Supplies,Binders,Storage Box,2,0.1,28.86,3.06
+ORD-10379,INV-50379,2024-09-02,2024-09-04,Second Class,CUST-1198,Customer 0046,Home Office,East,Massachusetts,Office Supplies,Labels,Marker Set,6,0.2,528.71,59.1
+ORD-10380,INV-50380,2024-06-24,2024-06-28,Second Class,CUST-1036,Customer 0026,Consumer,South,Florida,Office Supplies,Storage,Binder Pack,1,0.0,31.95,7.72
+ORD-10381,INV-50381,2024-02-08,2024-02-12,First Class,CUST-1100,Customer 0165,Home Office,East,Pennsylvania,Office Supplies,Art,Storage Box,6,0.15,32.7,4.57
+ORD-10382,INV-50382,2025-04-21,2025-04-24,Same Day,CUST-1138,Customer 0229,Corporate,East,New Jersey,Technology,Machines,Smartphone,4,0.1,3074.0350000000003,366.03
+ORD-10383,INV-50383,2025-11-12,2025-11-13,Standard Class,CUST-1170,Customer 0015,Home Office,East,Pennsylvania,Furniture,Tables,Office Table,3,0.0,1491.14,232.57
+ORD-10384,INV-50384,2025-06-21,2025-06-23,Standard Class,CUST-1242,Customer 0241,Consumer,West,Colorado,Office Supplies,Labels,Marker Set,2,0.1,214.41,36.37
+ORD-10385,INV-50385,2025-02-11,2025-02-15,Second Class,CUST-1261,Customer 0027,Corporate,East,Pennsylvania,Technology,Accessories,Wireless Mouse,4,0.1,1748.3,366.03
+ORD-10386,INV-50386,2025-06-08,2025-06-13,Second Class,CUST-1233,Customer 0163,Consumer,West,Washington,Furniture,Furnishings,Office Table,7,0.2,287.03,-4.31
+ORD-10387,INV-50387,2025-05-20,2025-05-22,Standard Class,CUST-1292,Customer 0226,Home Office,East,Pennsylvania,Technology,Machines,Smartphone,4,0.05,872.47,198.11
+ORD-10388,INV-50388,2024-02-05,2024-02-08,Same Day,CUST-1222,Customer 0111,Corporate,South,Georgia,Office Supplies,Art,Marker Set,7,0.15,132.7,20.54
+ORD-10389,INV-50389,2025-11-15,2025-11-16,Same Day,CUST-1172,Customer 0234,Consumer,West,Colorado,Technology,Machines,Wireless Mouse,3,0.0,964.12,168.46
+ORD-10390,INV-50390,2024-01-20,2024-01-23,Standard Class,CUST-1104,Customer 0210,Home Office,Central,Ohio,Office Supplies,Art,Storage Box,2,0.1,136.47,12.61
+ORD-10391,INV-50391,2024-11-16,2024-11-21,Second Class,CUST-1110,Customer 0006,Home Office,East,Pennsylvania,Technology,Copiers,Wireless Mouse,3,0.2,1416.02,193.08
+ORD-10392,INV-50392,2025-05-26,2025-05-29,Second Class,CUST-1198,Customer 0207,Consumer,West,Arizona,Technology,Machines,Laptop,3,0.0,715.83,110.62
+ORD-10393,INV-50393,2025-02-03,2025-02-08,First Class,CUST-1295,Customer 0034,Home Office,Central,Ohio,Technology,Accessories,Printer,6,0.15,2573.36,366.03
+ORD-10394,INV-50394,2025-10-15,2025-10-18,Standard Class,CUST-1140,Customer 0065,Consumer,Central,Ohio,Technology,Phones,Printer,6,0.15,3074.0350000000003,356.36
+ORD-10395,INV-50395,2025-04-15,2025-04-16,Same Day,CUST-1117,Customer 0132,Consumer,Central,Texas,Office Supplies,Paper,A4 Paper,3,0.3,315.66,10.67
+ORD-10396,INV-50396,2024-05-22,2024-05-25,First Class,CUST-1006,Customer 0128,Home Office,South,Florida,Furniture,Furnishings,Desk Lamp,7,0.2,2326.08,84.35
+ORD-10397,INV-50397,2024-04-01,2024-04-06,Second Class,CUST-1283,Customer 0188,Home Office,East,New Jersey,Office Supplies,Paper,Binder Pack,1,0.0,113.68,15.1
+ORD-10398,INV-50398,2024-12-19,2024-12-21,First Class,CUST-1140,Customer 0156,Home Office,West,Washington,Office Supplies,Binders,Marker Set,5,0.0,562.93,136.84
+ORD-10399,INV-50399,2025-12-27,2025-12-28,Second Class,CUST-1297,Customer 0204,Corporate,South,Virginia,Furniture,Bookcases,Wooden Bookcase,6,0.15,1643.06,91.66
+ORD-10400,INV-50400,2024-02-20,2024-02-25,Standard Class,CUST-1099,Customer 0090,Home Office,East,New York,Office Supplies,Art,A4 Paper,3,0.1,216.16,10.85
+ORD-10401,INV-50401,2025-10-26,2025-10-29,Second Class,CUST-1229,Customer 0248,Corporate,South,Florida,Office Supplies,Art,A4 Paper,7,0.15,345.37,84.6
+ORD-10402,INV-50402,2025-11-28,2025-12-01,Same Day,CUST-1132,Customer 0023,Consumer,East,New Jersey,Furniture,Chairs,Desk Lamp,1,0.2,163.41,18.15
+ORD-10403,INV-50403,2025-07-28,2025-07-30,Second Class,CUST-1112,Customer 0246,Corporate,West,Washington,Technology,Phones,Wireless Mouse,4,0.3,2735.59,257.98
+ORD-10404,INV-50404,2024-07-08,2024-07-10,Standard Class,CUST-1107,Customer 0219,Home Office,Central,Texas,Office Supplies,Envelopes,Storage Box,3,0.1,134.81,14.02
+ORD-10405,INV-50405,2024-05-04,2024-05-08,Standard Class,CUST-1039,Customer 0019,Home Office,West,Arizona,Furniture,Chairs,Wooden Bookcase,2,0.1,493.16,61.94
+ORD-10406,INV-50406,2024-05-29,2024-06-02,Standard Class,CUST-1292,Customer 0116,Home Office,West,Arizona,Office Supplies,Storage,Binder Pack,4,0.1,215.21,29.14
+ORD-10407,INV-50407,2024-11-09,2024-11-14,First Class,CUST-1082,Customer 0234,Consumer,East,New York,Furniture,Bookcases,Ergonomic Chair,6,0.0,1917.21,278.65
+ORD-10408,INV-50408,2025-07-23,2025-07-27,First Class,CUST-1028,Customer 0194,Consumer,Central,Michigan,Furniture,Furnishings,Office Table,7,0.15,572.62,12.03
+ORD-10409,INV-50409,2024-12-07,2024-12-09,First Class,CUST-1102,Customer 0211,Corporate,Central,Texas,Furniture,Chairs,Ergonomic Chair,4,0.2,1513.25,10.92
+ORD-10410,INV-50410,2024-10-31,2024-11-03,Second Class,CUST-1017,Customer 0010,Home Office,South,New Jersey,Office Supplies,Storage,Storage Box,4,0.05,390.28,31.79
+ORD-10411,INV-50411,2025-11-22,2025-11-23,Second Class,CUST-1152,Customer 0002,Home Office,Central,Michigan,Office Supplies,Labels,A4 Paper,4,0.1,31.91,3.42
+ORD-10412,INV-50412,2025-11-12,2025-11-17,Second Class,CUST-1143,Customer 0238,Consumer,West,Washington,Office Supplies,Art,Marker Set,5,0.1,247.22,15.39
+ORD-10413,INV-50413,2024-02-23,2024-02-26,Standard Class,CUST-1151,Customer 0067,Home Office,Central,Ohio,Office Supplies,Storage,A4 Paper,2,0.05,29.92,2.19
+ORD-10414,INV-50414,2025-03-19,2025-03-21,Second Class,CUST-1215,Customer 0204,Home Office,East,Massachusetts,Office Supplies,Binders,Marker Set,4,0.1,434.88,39.88
+ORD-10415,INV-50415,2025-09-04,2025-09-09,Second Class,CUST-1245,Customer 0227,Corporate,East,New York,Furniture,Bookcases,Ergonomic Chair,5,0.0,283.58,28.19
+ORD-10416,INV-50416,2024-09-20,2024-09-22,Same Day,CUST-1151,Customer 0201,Home Office,West,Washington,Technology,Accessories,Printer,6,0.05,3074.0350000000003,366.03
+ORD-10417,INV-50417,2024-02-22,2024-02-23,Second Class,CUST-1070,Customer 0143,Corporate,East,New Jersey,Office Supplies,Binders,Binder Pack,6,0.0,445.37,61.41
+ORD-10418,INV-50418,2025-07-25,2025-07-30,Same Day,CUST-1060,Customer 0215,Consumer,West,Washington,Office Supplies,Binders,Marker Set,2,0.15,44.45,4.73
+ORD-10419,INV-50419,2025-09-11,2025-09-16,Same Day,CUST-1025,Customer 0194,Corporate,West,Washington,Technology,Machines,Printer,2,0.2,1607.86,213.59
+ORD-10420,INV-50420,2024-01-05,2024-01-07,Second Class,CUST-1203,Customer 0175,Corporate,South,Virginia,Office Supplies,Binders,Storage Box,3,0.05,197.7,21.39
+ORD-10421,INV-50421,2024-04-12,2024-04-14,Second Class,CUST-1048,Customer 0129,Consumer,East,New Jersey,Technology,Copiers,Smartphone,3,0.05,1525.15,188.2
+ORD-10422,INV-50422,2024-07-14,2024-07-19,Same Day,CUST-1036,Customer 0231,Home Office,West,Colorado,Furniture,Bookcases,Desk Lamp,5,0.15,426.66,53.17
+ORD-10423,INV-50423,2024-12-15,2024-12-19,Standard Class,CUST-1131,Customer 0077,Consumer,Central,Michigan,Office Supplies,Labels,Binder Pack,6,0.15,91.89,7.05
+ORD-10424,INV-50424,2024-02-16,2024-02-19,Standard Class,CUST-1104,Customer 0250,Corporate,South,North Carolina,Furniture,Chairs,Office Table,1,0.2,391.56,34.45
+ORD-10425,INV-50425,2025-10-17,2025-10-18,Second Class,CUST-1013,Customer 0164,Consumer,Central,Ohio,Office Supplies,Art,A4 Paper,6,0.05,719.45,70.93
+ORD-10426,INV-50426,2024-09-25,2024-09-27,Second Class,CUST-1166,Customer 0210,Consumer,West,Colorado,Technology,Accessories,Monitor,4,0.15,3023.25,313.78
+ORD-10427,INV-50427,2025-01-04,2025-01-08,Standard Class,CUST-1000,Customer 0133,Home Office,South,North Carolina,Office Supplies,Binders,Marker Set,5,0.2,472.55,47.38
+ORD-10428,INV-50428,2025-09-27,2025-09-28,First Class,CUST-1009,Customer 0008,Consumer,South,North Carolina,Furniture,Bookcases,Ergonomic Chair,3,0.1,324.32,20.57
+ORD-10429,INV-50429,2024-04-15,2024-04-19,Second Class,CUST-1289,Customer 0043,Corporate,Central,Illinois,Office Supplies,Paper,A4 Paper,3,0.0,179.62,48.33
+ORD-10430,INV-50430,2025-10-31,2025-11-05,Second Class,CUST-1146,Customer 0239,Corporate,East,Pennsylvania,Technology,Accessories,Smartphone,2,0.2,809.43,160.53
+ORD-10431,INV-50431,2025-10-20,2025-10-25,Standard Class,CUST-1195,Customer 0090,Home Office,South,North Carolina,Office Supplies,Labels,Marker Set,5,0.1,438.54,100.53
+ORD-10432,INV-50432,2025-10-18,2025-10-19,First Class,CUST-1158,Customer 0026,Corporate,South,Florida,Technology,Phones,Wireless Mouse,1,0.3,903.74,32.27
+ORD-10433,INV-50433,2024-04-29,2024-05-01,Second Class,CUST-1095,Customer 0182,Corporate,Central,Illinois,Office Supplies,Labels,Binder Pack,1,0.1,62.85,14.66
+ORD-10434,INV-50434,2025-08-26,2025-08-29,Standard Class,CUST-1168,Customer 0195,Consumer,Central,Texas,Furniture,Chairs,Office Table,7,0.2,2004.83,-26.05
+ORD-10435,INV-50435,2024-02-27,2024-03-01,First Class,CUST-1235,Customer 0086,Consumer,East,Pennsylvania,Technology,Machines,Laptop,6,0.1,3074.0350000000003,366.03
+ORD-10436,INV-50436,2024-12-11,2024-12-14,Same Day,CUST-1046,Customer 0094,Home Office,South,Florida,Furniture,Tables,Office Table,6,0.0,1388.36,120.37
+ORD-10437,INV-50437,2025-04-18,2025-04-20,First Class,CUST-1087,Customer 0211,Consumer,West,Colorado,Furniture,Furnishings,Wooden Bookcase,5,0.15,1709.21,214.33
+ORD-10438,INV-50438,2024-04-26,2024-05-01,Second Class,CUST-1250,Customer 0047,Corporate,West,California,Office Supplies,Paper,Binder Pack,2,0.1,80.3,4.89
+ORD-10439,INV-50439,2024-05-06,2024-05-07,Second Class,CUST-1014,Customer 0082,Home Office,West,Colorado,Furniture,Bookcases,Wooden Bookcase,5,0.1,2084.62,244.78
+ORD-10440,INV-50440,2025-01-27,2025-02-01,First Class,CUST-1189,Customer 0217,Corporate,East,New York,Office Supplies,Envelopes,Labels,6,0.1,107.55,24.95
+ORD-10441,INV-50441,2025-10-02,2025-10-07,Same Day,CUST-1270,Customer 0193,Corporate,East,Pennsylvania,Furniture,Bookcases,Desk Lamp,1,0.05,470.02,42.87
+ORD-10442,INV-50442,2024-02-27,2024-03-01,Standard Class,CUST-1270,Customer 0227,Home Office,East,New Jersey,Office Supplies,Envelopes,Binder Pack,7,0.1,768.82,66.19
+ORD-10443,INV-50443,2025-09-25,2025-09-28,First Class,CUST-1051,Customer 0209,Corporate,East,New Jersey,Furniture,Furnishings,Ergonomic Chair,3,0.15,141.39,-1.29
+ORD-10444,INV-50444,2025-05-27,2025-05-29,Same Day,CUST-1147,Customer 0233,Consumer,South,Virginia,Office Supplies,Paper,A4 Paper,5,0.3,308.67,2.62
+ORD-10445,INV-50445,2024-04-05,2024-04-08,Same Day,CUST-1176,Customer 0014,Consumer,East,Pennsylvania,Office Supplies,Art,Marker Set,5,0.1,177.96,44.53
+ORD-10446,INV-50446,2025-09-29,2025-10-01,Standard Class,CUST-1206,Customer 0090,Home Office,West,California,Furniture,Bookcases,Ergonomic Chair,1,0.0,467.74,78.78
+ORD-10447,INV-50447,2024-04-27,2024-05-02,Standard Class,CUST-1062,Customer 0224,Consumer,Central,Michigan,Office Supplies,Envelopes,Storage Box,2,0.0,222.63,65.46
+ORD-10448,INV-50448,2025-07-13,2025-07-16,Same Day,CUST-1072,Customer 0052,Consumer,South,Virginia,Office Supplies,Binders,Marker Set,7,0.1,274.63,29.46
+ORD-10449,INV-50449,2025-08-23,2025-08-27,First Class,CUST-1030,Customer 0135,Corporate,East,Massachusetts,Furniture,Furnishings,Ergonomic Chair,6,0.3,2553.85,-34.61
+ORD-10450,INV-50450,2025-05-02,2025-05-04,Standard Class,CUST-1091,Customer 0023,Home Office,West,California,Office Supplies,Paper,Marker Set,6,0.0,102.52,15.22
+ORD-10451,INV-50451,2024-08-24,2024-08-26,First Class,CUST-1264,Customer 0031,Home Office,West,Washington,Technology,Copiers,Wireless Mouse,2,0.1,316.35,72.47
+ORD-10452,INV-50452,2024-09-28,2024-09-29,Same Day,CUST-1082,Customer 0225,Home Office,South,Virginia,Office Supplies,Paper,A4 Paper,5,0.15,177.27,13.42
+ORD-10453,INV-50453,2024-07-07,2024-07-10,Standard Class,CUST-1122,Customer 0053,Home Office,West,Arizona,Furniture,Tables,Office Table,3,0.1,835.29,101.72
+ORD-10454,INV-50454,2025-12-04,2025-12-06,Same Day,CUST-1272,Customer 0068,Consumer,East,New Jersey,Office Supplies,Art,Labels,5,0.05,224.1,61.43
+ORD-10455,INV-50455,2025-03-22,2025-03-23,Standard Class,CUST-1239,Customer 0103,Home Office,West,Washington,Technology,Phones,Laptop,7,0.05,1696.27,366.03
+ORD-10456,INV-50456,2025-08-03,2025-08-06,First Class,CUST-1179,Customer 0250,Home Office,Central,Ohio,Office Supplies,Binders,Binder Pack,3,0.0,61.75,7.43
+ORD-10457,INV-50457,2024-09-03,2024-09-08,First Class,CUST-1089,Customer 0086,Consumer,South,North Carolina,Office Supplies,Binders,Labels,6,0.15,452.04,103.15
+ORD-10458,INV-50458,2024-03-16,2024-03-18,Standard Class,CUST-1001,Customer 0024,Corporate,Central,Illinois,Technology,Copiers,Smartphone,3,0.1,394.79,69.23
+ORD-10459,INV-50459,2024-06-02,2024-06-04,Second Class,CUST-1073,Customer 0187,Corporate,West,Washington,Technology,Machines,Wireless Mouse,5,0.0,3074.0350000000003,366.03
+ORD-10460,INV-50460,2025-10-17,2025-10-20,Second Class,CUST-1127,Customer 0175,Corporate,South,Georgia,Furniture,Furnishings,Desk Lamp,5,0.1,1222.3,6.19
+ORD-10461,INV-50461,2025-03-10,2025-03-13,Same Day,CUST-1296,Customer 0158,Consumer,West,Washington,Office Supplies,Art,Binder Pack,2,0.15,79.33,12.14
+ORD-10462,INV-50462,2024-03-26,2024-03-30,First Class,CUST-1001,Customer 0073,Consumer,South,North Carolina,Office Supplies,Binders,A4 Paper,4,0.1,55.88,14.54
+ORD-10463,INV-50463,2025-11-27,2025-11-28,Same Day,CUST-1138,Customer 0247,Corporate,Central,Texas,Office Supplies,Art,A4 Paper,4,0.1,138.07,10.81
+ORD-10464,INV-50464,2024-10-11,2024-10-13,Standard Class,CUST-1185,Customer 0031,Home Office,West,Washington,Office Supplies,Envelopes,Binder Pack,1,0.1,104.78,9.51
+ORD-10465,INV-50465,2024-08-07,2024-08-10,Same Day,CUST-1291,Customer 0182,Corporate,West,Colorado,Furniture,Bookcases,Ergonomic Chair,3,0.0,1420.22,68.12
+ORD-10466,INV-50466,2024-03-09,2024-03-14,Second Class,CUST-1227,Customer 0147,Corporate,Central,Ohio,Office Supplies,Binders,Storage Box,1,0.1,82.69,3.97
+ORD-10467,INV-50467,2024-02-16,2024-02-21,First Class,CUST-1188,Customer 0208,Home Office,East,Massachusetts,Furniture,Tables,Office Table,7,0.15,2548.47,163.92
+ORD-10468,INV-50468,2024-04-03,2024-04-05,Standard Class,CUST-1086,Customer 0002,Corporate,West,Arizona,Office Supplies,Art,Binder Pack,5,0.05,70.25,5.77
+ORD-10469,INV-50469,2025-03-28,2025-03-31,Standard Class,CUST-1122,Customer 0218,Corporate,East,New Jersey,Office Supplies,Binders,Storage Box,1,0.0,88.01,17.88
+ORD-10470,INV-50470,2024-07-22,2024-07-24,Same Day,CUST-1044,Customer 0204,Consumer,East,New York,Office Supplies,Binders,Marker Set,7,0.1,441.06,52.13
+ORD-10471,INV-50471,2024-08-05,2024-08-09,First Class,CUST-1180,Customer 0004,Home Office,West,Washington,Technology,Phones,Wireless Mouse,4,0.1,840.49,153.44
+ORD-10472,INV-50472,2025-04-18,2025-04-23,Standard Class,CUST-1099,Customer 0189,Consumer,East,Massachusetts,Furniture,Bookcases,Office Table,7,0.0,1201.64,52.5
+ORD-10473,INV-50473,2025-03-07,2025-03-09,Standard Class,CUST-1121,Customer 0227,Corporate,Central,Illinois,Office Supplies,Art,Binder Pack,3,0.15,281.37,59.34
+ORD-10474,INV-50474,2024-12-06,2024-12-07,Standard Class,CUST-1054,Customer 0051,Corporate,Central,Ohio,Office Supplies,Binders,Marker Set,3,0.1,92.7,22.81
+ORD-10475,INV-50475,2025-07-04,2025-07-05,Same Day,CUST-1086,Customer 0109,Consumer,Central,Texas,Office Supplies,Binders,A4 Paper,6,0.1,619.17,40.82
+ORD-10476,INV-50476,2025-09-03,2025-09-04,Standard Class,CUST-1112,Customer 0220,Consumer,West,California,Office Supplies,Binders,Storage Box,5,0.05,87.88,22.14
+ORD-10477,INV-50477,2024-10-15,2024-10-19,Same Day,CUST-1172,Customer 0247,Home Office,West,Washington,Office Supplies,Art,Labels,1,0.1,96.12,23.01
+ORD-10478,INV-50478,2024-09-10,2024-09-15,First Class,CUST-1225,Customer 0225,Corporate,East,Massachusetts,Technology,Accessories,Printer,2,0.05,286.3,61.17
+ORD-10479,INV-50479,2024-12-22,2024-12-27,Standard Class,CUST-1280,Customer 0217,Consumer,East,Massachusetts,Office Supplies,Labels,Labels,3,0.1,66.28,5.84
+ORD-10480,INV-50480,2024-01-23,2024-01-27,Same Day,CUST-1263,Customer 0209,Home Office,West,Washington,Furniture,Tables,Ergonomic Chair,2,0.2,964.43,64.23
+ORD-10481,INV-50481,2025-06-05,2025-06-09,First Class,CUST-1031,Customer 0057,Corporate,Central,Ohio,Furniture,Chairs,Ergonomic Chair,4,0.1,1132.59,26.21
+ORD-10482,INV-50482,2024-04-09,2024-04-10,Same Day,CUST-1274,Customer 0149,Corporate,South,North Carolina,Office Supplies,Paper,Marker Set,6,0.0,235.65,44.16
+ORD-10483,INV-50483,2024-06-28,2024-06-30,Standard Class,CUST-1135,Customer 0131,Corporate,South,Florida,Furniture,Chairs,Desk Lamp,1,0.1,216.15,16.45
+ORD-10484,INV-50484,2024-08-10,2024-08-11,First Class,CUST-1234,Customer 0181,Home Office,South,North Carolina,Technology,Phones,Wireless Mouse,2,0.15,2208.35,366.03
+ORD-10485,INV-50485,2025-10-20,2025-10-23,First Class,CUST-1032,Customer 0121,Corporate,East,Pennsylvania,Technology,Copiers,Wireless Mouse,4,0.3,3074.0350000000003,51.89
+ORD-10486,INV-50486,2025-03-17,2025-03-19,Standard Class,CUST-1053,Customer 0138,Consumer,Central,Texas,Office Supplies,Art,Binder Pack,2,0.1,142.68,32.72
+ORD-10487,INV-50487,2025-08-30,2025-09-02,Second Class,CUST-1170,Customer 0077,Home Office,East,Massachusetts,Technology,Phones,Monitor,5,0.1,1071.37,73.51
+ORD-10488,INV-50488,2024-11-20,2024-11-21,First Class,CUST-1207,Customer 0213,Corporate,West,California,Technology,Copiers,Monitor,7,0.1,860.75,111.34
+ORD-10489,INV-50489,2025-05-30,2025-05-31,First Class,CUST-1130,Customer 0067,Home Office,South,Florida,Technology,Phones,Monitor,5,0.1,3074.0350000000003,366.03
+ORD-10490,INV-50490,2024-01-16,2024-01-19,First Class,CUST-1234,Customer 0115,Consumer,Central,Illinois,Office Supplies,Storage,Binder Pack,3,0.1,229.18,17.45
+ORD-10491,INV-50491,2024-12-01,2024-12-04,First Class,CUST-1222,Customer 0114,Consumer,Central,Michigan,Office Supplies,Art,Labels,1,0.1,8.86,1.06
+ORD-10492,INV-50492,2024-09-14,2024-09-19,Second Class,CUST-1039,Customer 0038,Home Office,East,Pennsylvania,Office Supplies,Art,Binder Pack,7,0.05,214.72,39.59
+ORD-10493,INV-50493,2025-05-11,2025-05-15,Standard Class,CUST-1055,Customer 0218,Home Office,South,North Carolina,Office Supplies,Storage,Marker Set,3,0.1,294.5,26.77
+ORD-10494,INV-50494,2024-06-08,2024-06-09,Second Class,CUST-1173,Customer 0214,Consumer,Central,Illinois,Office Supplies,Paper,A4 Paper,4,0.0,159.21,17.23
+ORD-10495,INV-50495,2025-04-19,2025-04-24,Second Class,CUST-1284,Customer 0048,Consumer,East,New Jersey,Technology,Accessories,Monitor,7,0.1,3074.0350000000003,366.03
+ORD-10496,INV-50496,2025-10-25,2025-10-28,Second Class,CUST-1085,Customer 0141,Consumer,South,Florida,Office Supplies,Paper,Storage Box,5,0.2,286.91,62.5
+ORD-10497,INV-50497,2025-11-20,2025-11-21,Same Day,CUST-1023,Customer 0197,Consumer,South,Florida,Office Supplies,Storage,Marker Set,1,0.0,80.01,9.3
+ORD-10498,INV-50498,2025-11-05,2025-11-10,First Class,CUST-1234,Customer 0107,Home Office,Central,Texas,Office Supplies,Art,Marker Set,4,0.0,138.2,14.2
+ORD-10499,INV-50499,2025-01-14,2025-01-16,First Class,CUST-1165,Customer 0245,Home Office,East,Massachusetts,Office Supplies,Binders,Binder Pack,6,0.05,621.14,51.81
+ORD-10500,INV-50500,2025-06-28,2025-07-01,Second Class,CUST-1143,Customer 0146,Home Office,Central,Illinois,Office Supplies,Storage,A4 Paper,6,0.0,422.14,109.99
+ORD-10501,INV-50501,2025-11-21,2025-11-24,First Class,CUST-1222,Customer 0080,Corporate,East,Pennsylvania,Technology,Phones,Laptop,7,0.05,3074.0350000000003,366.03
+ORD-10502,INV-50502,2025-03-02,2025-03-05,Standard Class,CUST-1193,Customer 0207,Corporate,Central,Illinois,Furniture,Furnishings,Desk Lamp,4,0.0,516.44,90.0
+ORD-10503,INV-50503,2025-09-04,2025-09-07,Second Class,CUST-1100,Customer 0112,Corporate,West,Washington,Furniture,Furnishings,Desk Lamp,1,0.1,60.59,8.91
+ORD-10504,INV-50504,2024-09-24,2024-09-25,First Class,CUST-1054,Customer 0215,Consumer,South,Virginia,Furniture,Chairs,Wooden Bookcase,4,0.3,1462.32,-1.67
+ORD-10505,INV-50505,2025-07-30,2025-07-31,Standard Class,CUST-1025,Customer 0087,Consumer,South,Florida,Office Supplies,Binders,A4 Paper,7,0.05,431.23,31.63
+ORD-10506,INV-50506,2025-02-20,2025-02-21,Same Day,CUST-1141,Customer 0100,Consumer,East,New York,Furniture,Furnishings,Wooden Bookcase,4,0.05,1948.39,241.32
+ORD-10507,INV-50507,2024-06-16,2024-06-17,Standard Class,CUST-1235,Customer 0173,Corporate,West,Arizona,Office Supplies,Art,A4 Paper,7,0.2,317.86,42.57
+ORD-10508,INV-50508,2024-02-12,2024-02-16,First Class,CUST-1170,Customer 0250,Corporate,South,Virginia,Technology,Accessories,Monitor,2,0.0,1510.75,333.09
+ORD-10509,INV-50509,2025-07-09,2025-07-14,Second Class,CUST-1258,Customer 0122,Home Office,West,Colorado,Technology,Phones,Printer,5,0.1,3074.0350000000003,341.18
+ORD-10510,INV-50510,2024-10-11,2024-10-13,Standard Class,CUST-1190,Customer 0093,Home Office,Central,Texas,Technology,Phones,Monitor,1,0.0,304.38,54.47
+ORD-10511,INV-50511,2025-01-31,2025-02-01,Second Class,CUST-1211,Customer 0153,Corporate,Central,Ohio,Furniture,Furnishings,Ergonomic Chair,6,0.0,870.46,72.86
+ORD-10512,INV-50512,2024-01-12,2024-01-13,Standard Class,CUST-1227,Customer 0163,Corporate,Central,Texas,Office Supplies,Storage,Binder Pack,1,0.0,12.18,1.13
+ORD-10513,INV-50513,2025-08-29,2025-09-03,Same Day,CUST-1060,Customer 0125,Home Office,East,Massachusetts,Office Supplies,Paper,Binder Pack,4,0.15,249.02,19.45
+ORD-10514,INV-50514,2024-10-28,2024-10-29,Standard Class,CUST-1191,Customer 0250,Corporate,West,Washington,Technology,Copiers,Wireless Mouse,2,0.15,2066.25,296.56
+ORD-10515,INV-50515,2024-09-09,2024-09-14,Same Day,CUST-1000,Customer 0114,Corporate,West,California,Technology,Machines,Monitor,7,0.05,3074.0350000000003,366.03
+ORD-10516,INV-50516,2025-05-13,2025-05-14,Same Day,CUST-1144,Customer 0084,Corporate,Central,Illinois,Furniture,Chairs,Desk Lamp,7,0.0,2314.31,366.03
+ORD-10517,INV-50517,2024-02-04,2024-02-07,Standard Class,CUST-1264,Customer 0114,Consumer,East,New York,Furniture,Bookcases,Office Table,2,0.1,711.01,70.13
+ORD-10518,INV-50518,2025-12-27,2025-12-29,Standard Class,CUST-1187,Customer 0191,Consumer,Central,Ohio,Office Supplies,Storage,Binder Pack,4,0.1,191.4,22.1
+ORD-10519,INV-50519,2024-03-30,2024-04-01,Same Day,CUST-1041,Customer 0209,Corporate,East,New Jersey,Furniture,Tables,Office Table,1,0.0,61.81,7.37
+ORD-10520,INV-50520,2025-08-27,2025-09-01,First Class,CUST-1217,Customer 0121,Consumer,East,Massachusetts,Office Supplies,Storage,A4 Paper,4,0.3,293.68,56.3
+ORD-10521,INV-50521,2025-08-24,2025-08-26,Same Day,CUST-1124,Customer 0234,Consumer,Central,Michigan,Furniture,Tables,Office Table,6,0.0,2919.7,301.9
+ORD-10522,INV-50522,2025-02-21,2025-02-24,Same Day,CUST-1287,Customer 0120,Home Office,East,New York,Office Supplies,Envelopes,Labels,2,0.05,80.25,16.88
+ORD-10523,INV-50523,2024-04-24,2024-04-27,Second Class,CUST-1067,Customer 0028,Corporate,East,New Jersey,Furniture,Tables,Office Table,3,0.1,1055.49,127.2
+ORD-10524,INV-50524,2025-09-08,2025-09-11,Standard Class,CUST-1267,Customer 0161,Home Office,South,Virginia,Furniture,Bookcases,Desk Lamp,1,0.0,172.55,9.52
+ORD-10525,INV-50525,2024-07-14,2024-07-19,Same Day,CUST-1215,Customer 0080,Home Office,East,New Jersey,Furniture,Chairs,Office Table,7,0.0,3074.0350000000003,310.62
+ORD-10526,INV-50526,2025-05-15,2025-05-19,First Class,CUST-1079,Customer 0165,Consumer,South,Florida,Office Supplies,Storage,Binder Pack,5,0.0,406.84,59.88
+ORD-10527,INV-50527,2025-09-17,2025-09-18,Second Class,CUST-1226,Customer 0025,Corporate,West,Colorado,Office Supplies,Binders,Binder Pack,3,0.2,116.81,3.68
+ORD-10528,INV-50528,2025-05-07,2025-05-11,Second Class,CUST-1273,Customer 0227,Consumer,East,Massachusetts,Technology,Machines,Printer,7,0.0,3074.0350000000003,366.03
+ORD-10529,INV-50529,2024-03-15,2024-03-19,Same Day,CUST-1153,Customer 0048,Consumer,Central,Illinois,Office Supplies,Paper,Labels,3,0.15,218.85,53.13
+ORD-10530,INV-50530,2025-02-16,2025-02-17,First Class,CUST-1181,Customer 0122,Corporate,West,Colorado,Technology,Phones,Monitor,6,0.15,627.75,71.07
+ORD-10531,INV-50531,2025-01-10,2025-01-13,First Class,CUST-1133,Customer 0114,Home Office,East,New York,Office Supplies,Labels,A4 Paper,4,0.05,254.48,34.69
+ORD-10532,INV-50532,2025-02-23,2025-02-25,First Class,CUST-1167,Customer 0054,Corporate,Central,Illinois,Technology,Copiers,Smartphone,5,0.15,2846.95,366.03
+ORD-10533,INV-50533,2025-12-29,2026-01-01,First Class,CUST-1169,Customer 0123,Corporate,South,Georgia,Furniture,Chairs,Ergonomic Chair,6,0.0,2195.95,150.6
+ORD-10534,INV-50534,2024-10-03,2024-10-04,Second Class,CUST-1093,Customer 0117,Home Office,East,Massachusetts,Office Supplies,Paper,Binder Pack,4,0.2,418.79,16.25
+ORD-10535,INV-50535,2025-11-06,2025-11-08,First Class,CUST-1172,Customer 0219,Home Office,Central,Michigan,Office Supplies,Art,Labels,6,0.05,420.74,57.34
+ORD-10536,INV-50536,2025-01-28,2025-02-01,Same Day,CUST-1234,Customer 0041,Consumer,South,North Carolina,Furniture,Chairs,Wooden Bookcase,6,0.15,330.6,-1.53
+ORD-10537,INV-50537,2025-04-01,2025-04-04,Standard Class,CUST-1220,Customer 0052,Home Office,Central,Texas,Office Supplies,Storage,A4 Paper,4,0.1,308.04,72.34
+ORD-10538,INV-50538,2024-07-10,2024-07-11,Second Class,CUST-1091,Customer 0022,Consumer,South,Georgia,Office Supplies,Paper,Binder Pack,2,0.05,125.05,23.97
+ORD-10539,INV-50539,2025-11-19,2025-11-24,Standard Class,CUST-1169,Customer 0119,Consumer,East,Massachusetts,Office Supplies,Storage,Labels,6,0.0,544.92,86.49
+ORD-10540,INV-50540,2024-04-08,2024-04-11,Same Day,CUST-1089,Customer 0052,Home Office,South,Florida,Technology,Accessories,Printer,6,0.05,3074.0350000000003,366.03
+ORD-10541,INV-50541,2025-07-01,2025-07-04,Standard Class,CUST-1076,Customer 0160,Consumer,South,North Carolina,Technology,Copiers,Laptop,3,0.2,2358.14,184.65
+ORD-10542,INV-50542,2024-04-05,2024-04-08,Standard Class,CUST-1044,Customer 0105,Consumer,South,Florida,Furniture,Tables,Desk Lamp,1,0.1,436.72,3.73
+ORD-10543,INV-50543,2025-10-25,2025-10-26,Same Day,CUST-1055,Customer 0015,Consumer,East,New York,Furniture,Furnishings,Office Table,6,0.1,2609.93,61.08
+ORD-10544,INV-50544,2025-10-24,2025-10-27,First Class,CUST-1114,Customer 0134,Home Office,Central,Michigan,Furniture,Furnishings,Desk Lamp,5,0.15,2413.03,354.22
+ORD-10545,INV-50545,2024-07-08,2024-07-13,Standard Class,CUST-1008,Customer 0024,Home Office,West,Colorado,Furniture,Tables,Desk Lamp,5,0.1,2287.98,297.69
+ORD-10546,INV-50546,2024-02-06,2024-02-10,Second Class,CUST-1067,Customer 0088,Consumer,West,California,Office Supplies,Storage,Labels,1,0.0,25.84,7.4
+ORD-10547,INV-50547,2025-01-03,2025-01-08,Standard Class,CUST-1050,Customer 0178,Home Office,Central,Ohio,Furniture,Chairs,Desk Lamp,3,0.0,546.87,86.04
+ORD-10548,INV-50548,2025-11-25,2025-11-27,Second Class,CUST-1007,Customer 0201,Home Office,South,Florida,Office Supplies,Paper,Marker Set,5,0.15,555.9,67.19
+ORD-10549,INV-50549,2025-06-08,2025-06-13,Same Day,CUST-1033,Customer 0114,Consumer,Central,Michigan,Technology,Machines,Laptop,7,0.1,3074.0350000000003,366.03
+ORD-10550,INV-50550,2024-10-05,2024-10-08,Second Class,CUST-1048,Customer 0021,Home Office,East,Pennsylvania,Office Supplies,Labels,Storage Box,7,0.15,691.76,166.55
+ORD-10551,INV-50551,2024-08-04,2024-08-07,First Class,CUST-1259,Customer 0197,Consumer,West,Arizona,Office Supplies,Art,Binder Pack,7,0.05,241.88,51.51
+ORD-10552,INV-50552,2024-09-29,2024-09-30,Same Day,CUST-1155,Customer 0026,Corporate,West,Colorado,Office Supplies,Binders,A4 Paper,6,0.3,167.07,7.91
+ORD-10553,INV-50553,2024-03-02,2024-03-06,Same Day,CUST-1158,Customer 0045,Home Office,West,Colorado,Technology,Phones,Laptop,1,0.1,934.33,62.34
+ORD-10554,INV-50554,2025-08-18,2025-08-21,Standard Class,CUST-1183,Customer 0249,Corporate,Central,Texas,Furniture,Bookcases,Ergonomic Chair,1,0.15,279.44,35.01
+ORD-10555,INV-50555,2025-12-29,2026-01-03,Standard Class,CUST-1059,Customer 0107,Consumer,South,Florida,Technology,Machines,Monitor,1,0.3,521.82,57.88
+ORD-10556,INV-50556,2024-12-07,2024-12-12,Second Class,CUST-1290,Customer 0107,Home Office,West,Colorado,Technology,Accessories,Smartphone,5,0.1,2810.76,366.03
+ORD-10557,INV-50557,2025-01-31,2025-02-01,Same Day,CUST-1249,Customer 0140,Consumer,South,Virginia,Technology,Machines,Smartphone,3,0.1,2076.66,366.03
+ORD-10558,INV-50558,2025-11-29,2025-12-02,Second Class,CUST-1274,Customer 0187,Consumer,East,New Jersey,Furniture,Bookcases,Desk Lamp,6,0.2,549.39,18.22
+ORD-10559,INV-50559,2024-01-19,2024-01-21,First Class,CUST-1155,Customer 0081,Home Office,East,Massachusetts,Office Supplies,Envelopes,Labels,7,0.0,55.51,11.11
+ORD-10560,INV-50560,2024-06-25,2024-06-26,Same Day,CUST-1169,Customer 0114,Consumer,Central,Texas,Furniture,Furnishings,Wooden Bookcase,3,0.05,1336.71,168.78
+ORD-10561,INV-50561,2025-09-03,2025-09-04,Standard Class,CUST-1213,Customer 0108,Consumer,West,Washington,Furniture,Bookcases,Office Table,1,0.05,213.05,20.46
+ORD-10562,INV-50562,2025-01-30,2025-02-04,Same Day,CUST-1164,Customer 0112,Consumer,South,Georgia,Technology,Copiers,Wireless Mouse,5,0.05,3074.0350000000003,366.03
+ORD-10563,INV-50563,2025-03-20,2025-03-23,Same Day,CUST-1073,Customer 0200,Consumer,Central,Illinois,Technology,Copiers,Printer,1,0.1,778.2,110.07
+ORD-10564,INV-50564,2024-08-20,2024-08-24,Same Day,CUST-1066,Customer 0249,Home Office,East,New York,Technology,Copiers,Wireless Mouse,5,0.05,2745.05,366.03
+ORD-10565,INV-50565,2024-03-16,2024-03-21,Second Class,CUST-1158,Customer 0121,Corporate,Central,Michigan,Office Supplies,Art,A4 Paper,6,0.05,279.27,43.11
+ORD-10566,INV-50566,2024-09-21,2024-09-26,Same Day,CUST-1260,Customer 0073,Corporate,Central,Texas,Office Supplies,Labels,Labels,5,0.05,122.84,18.8
+ORD-10567,INV-50567,2025-03-30,2025-04-01,Standard Class,CUST-1015,Customer 0017,Corporate,South,Georgia,Technology,Copiers,Printer,4,0.1,2857.67,230.9
+ORD-10568,INV-50568,2025-12-18,2025-12-22,Second Class,CUST-1013,Customer 0133,Consumer,West,Colorado,Office Supplies,Art,Binder Pack,4,0.15,78.21,10.42
+ORD-10569,INV-50569,2025-01-18,2025-01-21,First Class,CUST-1023,Customer 0214,Corporate,West,California,Furniture,Furnishings,Wooden Bookcase,7,0.15,3003.3,244.14
+ORD-10570,INV-50570,2025-07-17,2025-07-19,First Class,CUST-1102,Customer 0192,Home Office,South,Georgia,Furniture,Furnishings,Office Table,2,0.15,463.36,37.46
+ORD-10571,INV-50571,2025-05-20,2025-05-22,Second Class,CUST-1120,Customer 0032,Consumer,East,New York,Furniture,Furnishings,Ergonomic Chair,1,0.2,303.81,-8.19
+ORD-10572,INV-50572,2025-01-01,2025-01-04,Second Class,CUST-1281,Customer 0232,Corporate,East,New York,Furniture,Chairs,Wooden Bookcase,1,0.0,357.32,17.98
+ORD-10573,INV-50573,2024-05-23,2024-05-26,Second Class,CUST-1058,Customer 0203,Home Office,South,Georgia,Office Supplies,Envelopes,Labels,7,0.1,398.9,37.63
+ORD-10574,INV-50574,2024-03-09,2024-03-13,Standard Class,CUST-1259,Customer 0056,Corporate,South,Virginia,Technology,Machines,Monitor,6,0.05,709.66,151.14
+ORD-10575,INV-50575,2024-04-08,2024-04-11,Same Day,CUST-1083,Customer 0178,Home Office,West,Colorado,Technology,Machines,Printer,7,0.2,966.76,56.52
+ORD-10576,INV-50576,2025-01-30,2025-01-31,Standard Class,CUST-1060,Customer 0224,Consumer,East,New York,Office Supplies,Envelopes,Marker Set,1,0.0,54.23,4.57
+ORD-10577,INV-50577,2024-01-25,2024-01-28,Same Day,CUST-1140,Customer 0100,Home Office,West,California,Office Supplies,Art,Storage Box,5,0.0,313.81,83.61
+ORD-10578,INV-50578,2025-04-13,2025-04-18,First Class,CUST-1178,Customer 0086,Consumer,East,New Jersey,Furniture,Bookcases,Office Table,6,0.05,2439.58,349.9
+ORD-10579,INV-50579,2025-04-28,2025-04-30,Second Class,CUST-1251,Customer 0015,Home Office,East,New Jersey,Technology,Copiers,Laptop,6,0.05,3074.0350000000003,366.03
+ORD-10580,INV-50580,2025-07-18,2025-07-19,Second Class,CUST-1019,Customer 0033,Consumer,East,New York,Office Supplies,Storage,A4 Paper,1,0.1,73.07,5.16
+ORD-10581,INV-50581,2024-05-30,2024-06-03,Same Day,CUST-1272,Customer 0163,Consumer,East,New York,Office Supplies,Art,Marker Set,5,0.1,398.0,78.9
+ORD-10582,INV-50582,2024-05-23,2024-05-28,Standard Class,CUST-1120,Customer 0207,Corporate,West,Arizona,Office Supplies,Labels,Marker Set,7,0.0,168.12,47.24
+ORD-10583,INV-50583,2025-07-22,2025-07-25,Second Class,CUST-1109,Customer 0227,Home Office,Central,Michigan,Office Supplies,Binders,A4 Paper,3,0.1,277.43,68.3
+ORD-10584,INV-50584,2024-02-08,2024-02-12,Second Class,CUST-1245,Customer 0019,Consumer,South,North Carolina,Office Supplies,Storage,Marker Set,4,0.15,421.38,23.18
+ORD-10585,INV-50585,2024-04-18,2024-04-22,Standard Class,CUST-1025,Customer 0213,Corporate,Central,Illinois,Furniture,Tables,Desk Lamp,6,0.0,2575.29,233.34
+ORD-10586,INV-50586,2025-11-23,2025-11-26,First Class,CUST-1052,Customer 0216,Home Office,East,New Jersey,Office Supplies,Paper,Binder Pack,7,0.05,711.01,191.73
+ORD-10587,INV-50587,2024-02-11,2024-02-13,Same Day,CUST-1267,Customer 0151,Home Office,East,Pennsylvania,Office Supplies,Envelopes,Labels,4,0.15,80.63,11.39
+ORD-10588,INV-50588,2024-07-04,2024-07-08,Second Class,CUST-1276,Customer 0054,Corporate,Central,Ohio,Office Supplies,Binders,Labels,2,0.1,111.46,24.69
+ORD-10589,INV-50589,2025-02-01,2025-02-03,Same Day,CUST-1064,Customer 0070,Consumer,Central,Michigan,Office Supplies,Labels,Marker Set,1,0.1,112.71,13.11
+ORD-10590,INV-50590,2024-08-10,2024-08-14,First Class,CUST-1257,Customer 0222,Corporate,South,Georgia,Office Supplies,Art,Labels,4,0.1,232.08,60.79
+ORD-10591,INV-50591,2025-09-25,2025-09-29,Second Class,CUST-1173,Customer 0156,Consumer,West,California,Office Supplies,Labels,Labels,3,0.3,222.37,30.94
+ORD-10592,INV-50592,2024-05-12,2024-05-13,Standard Class,CUST-1124,Customer 0002,Corporate,East,New Jersey,Technology,Machines,Monitor,3,0.3,906.53,62.54
+ORD-10593,INV-50593,2024-06-11,2024-06-12,Second Class,CUST-1274,Customer 0206,Consumer,West,Washington,Technology,Accessories,Smartphone,4,0.2,885.09,90.56
+ORD-10594,INV-50594,2024-08-02,2024-08-06,First Class,CUST-1217,Customer 0143,Home Office,East,New York,Technology,Phones,Wireless Mouse,3,0.05,1133.41,220.37
+ORD-10595,INV-50595,2024-08-22,2024-08-27,Standard Class,CUST-1088,Customer 0047,Home Office,West,Arizona,Technology,Phones,Laptop,1,0.15,837.28,39.78
+ORD-10596,INV-50596,2025-10-19,2025-10-22,Standard Class,CUST-1109,Customer 0114,Home Office,Central,Illinois,Technology,Copiers,Wireless Mouse,4,0.05,2585.02,366.03
+ORD-10597,INV-50597,2025-08-10,2025-08-15,Same Day,CUST-1189,Customer 0234,Home Office,South,North Carolina,Office Supplies,Storage,Labels,2,0.0,24.79,4.91
+ORD-10598,INV-50598,2024-01-09,2024-01-12,Second Class,CUST-1106,Customer 0168,Corporate,West,Colorado,Office Supplies,Labels,Storage Box,3,0.05,194.69,16.39
+ORD-10599,INV-50599,2024-03-14,2024-03-19,Second Class,CUST-1231,Customer 0060,Home Office,South,Florida,Office Supplies,Art,Marker Set,2,0.1,170.69,26.05
+ORD-10600,INV-50600,2025-05-06,2025-05-08,First Class,CUST-1119,Customer 0208,Consumer,Central,Ohio,Furniture,Furnishings,Office Table,3,0.05,1165.22,73.72
+ORD-10601,INV-50601,2024-09-09,2024-09-13,Same Day,CUST-1247,Customer 0017,Home Office,West,California,Furniture,Bookcases,Ergonomic Chair,2,0.1,346.04,22.83
+ORD-10602,INV-50602,2024-08-17,2024-08-22,Standard Class,CUST-1173,Customer 0210,Consumer,Central,Michigan,Technology,Copiers,Monitor,6,0.1,3074.0350000000003,366.03
+ORD-10603,INV-50603,2025-06-02,2025-06-07,Second Class,CUST-1095,Customer 0128,Corporate,Central,Texas,Office Supplies,Envelopes,Labels,6,0.05,680.97,169.38
+ORD-10604,INV-50604,2024-06-22,2024-06-23,Same Day,CUST-1026,Customer 0052,Corporate,Central,Ohio,Office Supplies,Envelopes,Storage Box,4,0.05,180.94,15.29
+ORD-10605,INV-50605,2025-10-14,2025-10-15,First Class,CUST-1284,Customer 0128,Consumer,Central,Illinois,Office Supplies,Paper,Storage Box,3,0.0,352.19,54.57
+ORD-10606,INV-50606,2024-06-16,2024-06-19,First Class,CUST-1099,Customer 0224,Consumer,West,Colorado,Office Supplies,Labels,Labels,6,0.1,348.07,73.99
+ORD-10607,INV-50607,2024-06-18,2024-06-20,Standard Class,CUST-1297,Customer 0155,Home Office,West,Arizona,Office Supplies,Envelopes,Storage Box,2,0.15,199.11,31.14
+ORD-10608,INV-50608,2025-01-27,2025-02-01,Same Day,CUST-1007,Customer 0207,Corporate,Central,Michigan,Technology,Accessories,Printer,4,0.15,3074.0350000000003,322.25
+ORD-10609,INV-50609,2025-09-25,2025-09-28,Standard Class,CUST-1137,Customer 0242,Home Office,East,Massachusetts,Office Supplies,Storage,Binder Pack,5,0.1,31.83,5.18
+ORD-10610,INV-50610,2024-07-12,2024-07-14,First Class,CUST-1090,Customer 0003,Home Office,Central,Ohio,Furniture,Tables,Wooden Bookcase,1,0.0,374.41,42.57
+ORD-10611,INV-50611,2025-05-31,2025-06-05,Standard Class,CUST-1002,Customer 0002,Corporate,Central,Illinois,Office Supplies,Paper,A4 Paper,5,0.15,368.06,14.92
+ORD-10612,INV-50612,2024-01-29,2024-02-03,Second Class,CUST-1056,Customer 0185,Home Office,South,Florida,Office Supplies,Labels,Binder Pack,7,0.3,827.28,81.0
+ORD-10613,INV-50613,2024-06-13,2024-06-17,Standard Class,CUST-1043,Customer 0105,Corporate,Central,Illinois,Technology,Copiers,Monitor,4,0.0,3074.0350000000003,366.03
+ORD-10614,INV-50614,2025-02-25,2025-02-27,Second Class,CUST-1035,Customer 0193,Corporate,West,California,Furniture,Tables,Desk Lamp,6,0.05,643.99,53.66
+ORD-10615,INV-50615,2024-12-04,2024-12-07,Same Day,CUST-1207,Customer 0007,Home Office,East,Massachusetts,Technology,Phones,Monitor,4,0.15,1739.47,181.5
+ORD-10616,INV-50616,2025-10-09,2025-10-14,Same Day,CUST-1275,Customer 0216,Home Office,Central,Illinois,Furniture,Tables,Wooden Bookcase,3,0.2,521.89,36.43
+ORD-10617,INV-50617,2025-05-10,2025-05-14,Standard Class,CUST-1164,Customer 0110,Corporate,West,Arizona,Office Supplies,Envelopes,Labels,1,0.0,54.18,13.11
+ORD-10618,INV-50618,2024-12-30,2025-01-01,Standard Class,CUST-1115,Customer 0234,Consumer,East,New York,Furniture,Tables,Office Table,3,0.0,341.23,51.77
+ORD-10619,INV-50619,2024-12-07,2024-12-12,First Class,CUST-1074,Customer 0176,Consumer,East,New York,Office Supplies,Storage,Binder Pack,4,0.05,470.31,129.13
+ORD-10620,INV-50620,2025-05-14,2025-05-19,First Class,CUST-1085,Customer 0218,Corporate,East,Massachusetts,Office Supplies,Binders,A4 Paper,7,0.05,90.73,8.85
+ORD-10621,INV-50621,2025-10-18,2025-10-23,Second Class,CUST-1078,Customer 0212,Consumer,South,Florida,Technology,Machines,Wireless Mouse,3,0.15,2408.13,366.03
+ORD-10622,INV-50622,2025-05-25,2025-05-26,First Class,CUST-1171,Customer 0016,Corporate,East,Pennsylvania,Office Supplies,Labels,Storage Box,4,0.1,222.04,52.58
+ORD-10623,INV-50623,2024-11-22,2024-11-25,Second Class,CUST-1067,Customer 0022,Consumer,South,Florida,Office Supplies,Paper,Binder Pack,3,0.0,109.62,31.53
+ORD-10624,INV-50624,2024-08-04,2024-08-09,Second Class,CUST-1289,Customer 0231,Consumer,West,Washington,Office Supplies,Envelopes,A4 Paper,6,0.05,289.09,43.41
+ORD-10625,INV-50625,2024-10-27,2024-11-01,Second Class,CUST-1061,Customer 0166,Corporate,West,Arizona,Office Supplies,Paper,Marker Set,2,0.05,207.61,57.37
+ORD-10626,INV-50626,2024-05-11,2024-05-14,Same Day,CUST-1100,Customer 0066,Home Office,Central,Illinois,Office Supplies,Art,Storage Box,1,0.1,49.44,2.74
+ORD-10627,INV-50627,2024-03-10,2024-03-14,First Class,CUST-1261,Customer 0194,Consumer,South,Georgia,Furniture,Chairs,Wooden Bookcase,5,0.0,2353.61,276.25
+ORD-10628,INV-50628,2024-09-08,2024-09-13,Same Day,CUST-1294,Customer 0250,Home Office,Central,Texas,Office Supplies,Storage,Labels,5,0.1,319.0,79.05
+ORD-10629,INV-50629,2025-02-18,2025-02-21,First Class,CUST-1082,Customer 0077,Home Office,Central,Illinois,Technology,Phones,Printer,3,0.0,636.66,108.67
+ORD-10630,INV-50630,2025-03-20,2025-03-24,Standard Class,CUST-1002,Customer 0218,Corporate,West,Colorado,Furniture,Chairs,Office Table,7,0.05,1932.63,266.63
+ORD-10631,INV-50631,2024-06-30,2024-07-04,Same Day,CUST-1234,Customer 0001,Home Office,South,Virginia,Furniture,Tables,Ergonomic Chair,2,0.05,332.81,48.34
+ORD-10632,INV-50632,2024-06-15,2024-06-16,Standard Class,CUST-1229,Customer 0128,Corporate,West,Colorado,Technology,Phones,Wireless Mouse,3,0.1,248.84,24.6
+ORD-10633,INV-50633,2024-03-31,2024-04-05,Second Class,CUST-1251,Customer 0088,Consumer,East,New York,Office Supplies,Labels,Storage Box,4,0.0,309.39,77.78
+ORD-10634,INV-50634,2025-12-14,2025-12-17,Second Class,CUST-1254,Customer 0072,Corporate,West,Colorado,Office Supplies,Art,Storage Box,3,0.05,123.18,21.52
+ORD-10635,INV-50635,2025-06-14,2025-06-17,Second Class,CUST-1043,Customer 0195,Corporate,South,Florida,Furniture,Furnishings,Ergonomic Chair,7,0.0,2495.24,366.03
+ORD-10636,INV-50636,2024-02-08,2024-02-13,Same Day,CUST-1071,Customer 0242,Consumer,East,New York,Furniture,Tables,Ergonomic Chair,1,0.3,304.74,26.39
+ORD-10637,INV-50637,2024-05-05,2024-05-07,Same Day,CUST-1108,Customer 0121,Corporate,Central,Ohio,Office Supplies,Binders,Storage Box,7,0.05,467.71,66.81
+ORD-10638,INV-50638,2025-03-26,2025-03-30,Standard Class,CUST-1260,Customer 0063,Home Office,Central,Ohio,Technology,Copiers,Laptop,1,0.0,734.73,188.39
+ORD-10639,INV-50639,2024-06-21,2024-06-25,Same Day,CUST-1141,Customer 0210,Home Office,Central,Illinois,Technology,Accessories,Printer,2,0.15,1928.87,276.88
+ORD-10640,INV-50640,2025-10-14,2025-10-17,Standard Class,CUST-1115,Customer 0179,Corporate,South,Virginia,Furniture,Chairs,Desk Lamp,1,0.1,251.78,31.52
+ORD-10641,INV-50641,2024-08-07,2024-08-10,First Class,CUST-1185,Customer 0174,Corporate,West,California,Office Supplies,Binders,Binder Pack,7,0.0,165.87,45.75
+ORD-10642,INV-50642,2025-09-29,2025-10-04,Second Class,CUST-1129,Customer 0200,Home Office,West,California,Office Supplies,Art,Labels,1,0.0,76.64,15.03
+ORD-10643,INV-50643,2024-02-27,2024-03-03,Same Day,CUST-1106,Customer 0092,Corporate,Central,Texas,Office Supplies,Envelopes,A4 Paper,1,0.15,81.53,8.25
+ORD-10644,INV-50644,2025-10-21,2025-10-26,Same Day,CUST-1295,Customer 0179,Consumer,East,New Jersey,Office Supplies,Storage,Binder Pack,4,0.15,46.76,5.64
+ORD-10645,INV-50645,2025-04-20,2025-04-24,Standard Class,CUST-1076,Customer 0164,Consumer,South,Virginia,Technology,Copiers,Monitor,4,0.15,3074.0350000000003,366.03
+ORD-10646,INV-50646,2025-03-31,2025-04-03,Second Class,CUST-1248,Customer 0186,Corporate,West,California,Office Supplies,Storage,Binder Pack,1,0.1,115.8,14.64
+ORD-10647,INV-50647,2024-12-26,2024-12-30,Second Class,CUST-1110,Customer 0001,Consumer,Central,Michigan,Furniture,Furnishings,Wooden Bookcase,7,0.1,1677.27,173.19
+ORD-10648,INV-50648,2024-01-01,2024-01-06,Second Class,CUST-1287,Customer 0184,Consumer,West,California,Technology,Copiers,Laptop,7,0.0,2939.52,366.03
+ORD-10649,INV-50649,2025-01-21,2025-01-25,First Class,CUST-1201,Customer 0189,Home Office,West,California,Furniture,Bookcases,Desk Lamp,6,0.2,2761.73,151.46
+ORD-10650,INV-50650,2024-12-13,2024-12-18,Second Class,CUST-1074,Customer 0202,Home Office,South,Florida,Office Supplies,Art,Binder Pack,1,0.05,103.61,20.15
+ORD-10651,INV-50651,2024-07-08,2024-07-12,Second Class,CUST-1146,Customer 0118,Home Office,South,Florida,Technology,Machines,Monitor,7,0.3,3074.0350000000003,366.03
+ORD-10652,INV-50652,2025-05-19,2025-05-24,Standard Class,CUST-1294,Customer 0183,Corporate,South,North Carolina,Office Supplies,Envelopes,A4 Paper,3,0.0,177.53,49.26
+ORD-10653,INV-50653,2024-07-09,2024-07-12,Second Class,CUST-1266,Customer 0031,Home Office,South,Virginia,Furniture,Tables,Wooden Bookcase,7,0.0,1300.98,210.86
+ORD-10654,INV-50654,2025-05-22,2025-05-26,First Class,CUST-1240,Customer 0155,Corporate,Central,Texas,Office Supplies,Envelopes,Binder Pack,2,0.0,225.36,52.85
+ORD-10655,INV-50655,2025-01-03,2025-01-06,First Class,CUST-1199,Customer 0125,Home Office,East,New Jersey,Technology,Phones,Wireless Mouse,3,0.1,3074.0350000000003,366.03
+ORD-10656,INV-50656,2025-02-12,2025-02-14,First Class,CUST-1145,Customer 0183,Consumer,West,California,Furniture,Bookcases,Desk Lamp,5,0.1,1258.48,102.37
+ORD-10657,INV-50657,2024-04-26,2024-04-30,Second Class,CUST-1242,Customer 0183,Home Office,South,Florida,Office Supplies,Storage,Labels,6,0.15,542.61,37.86
+ORD-10658,INV-50658,2024-05-13,2024-05-14,Second Class,CUST-1275,Customer 0115,Corporate,South,Virginia,Furniture,Bookcases,Wooden Bookcase,1,0.15,458.06,50.48
+ORD-10659,INV-50659,2024-02-27,2024-02-29,Same Day,CUST-1022,Customer 0098,Consumer,South,North Carolina,Furniture,Furnishings,Desk Lamp,4,0.05,1055.73,68.6
+ORD-10660,INV-50660,2025-07-09,2025-07-11,First Class,CUST-1240,Customer 0018,Corporate,East,New Jersey,Office Supplies,Envelopes,Marker Set,7,0.05,292.29,63.57
+ORD-10661,INV-50661,2025-11-15,2025-11-16,Same Day,CUST-1070,Customer 0210,Consumer,West,Colorado,Technology,Phones,Wireless Mouse,2,0.0,1769.51,366.03
+ORD-10662,INV-50662,2025-11-02,2025-11-06,Standard Class,CUST-1275,Customer 0078,Corporate,West,Colorado,Office Supplies,Binders,Marker Set,1,0.1,79.65,11.81
+ORD-10663,INV-50663,2024-06-21,2024-06-24,Standard Class,CUST-1200,Customer 0249,Home Office,West,Colorado,Office Supplies,Binders,Labels,2,0.1,119.82,12.18
+ORD-10664,INV-50664,2024-05-28,2024-06-02,Second Class,CUST-1093,Customer 0207,Home Office,West,Arizona,Office Supplies,Paper,Storage Box,7,0.2,360.71,5.29
+ORD-10665,INV-50665,2024-03-20,2024-03-23,First Class,CUST-1035,Customer 0064,Home Office,South,Georgia,Furniture,Tables,Wooden Bookcase,6,0.05,2248.16,185.82
+ORD-10666,INV-50666,2024-07-31,2024-08-02,First Class,CUST-1298,Customer 0099,Home Office,East,New York,Office Supplies,Labels,A4 Paper,4,0.15,59.45,10.36
+ORD-10667,INV-50667,2024-07-21,2024-07-26,Second Class,CUST-1124,Customer 0229,Consumer,West,California,Office Supplies,Labels,Storage Box,7,0.2,419.87,87.08
+ORD-10668,INV-50668,2024-08-16,2024-08-21,Standard Class,CUST-1071,Customer 0027,Home Office,South,Florida,Office Supplies,Paper,Labels,5,0.1,387.81,52.92
+ORD-10669,INV-50669,2025-11-06,2025-11-09,Second Class,CUST-1158,Customer 0009,Corporate,West,California,Office Supplies,Envelopes,Marker Set,3,0.05,159.58,27.74
+ORD-10670,INV-50670,2024-08-14,2024-08-17,First Class,CUST-1234,Customer 0081,Consumer,Central,Michigan,Technology,Phones,Smartphone,2,0.2,1936.34,366.03
+ORD-10671,INV-50671,2025-10-20,2025-10-23,Standard Class,CUST-1132,Customer 0105,Home Office,Central,Texas,Office Supplies,Binders,Storage Box,6,0.0,688.51,178.25
+ORD-10672,INV-50672,2025-06-15,2025-06-16,Same Day,CUST-1261,Customer 0023,Corporate,West,California,Furniture,Bookcases,Office Table,5,0.05,1029.06,175.54
+ORD-10673,INV-50673,2025-03-16,2025-03-19,Same Day,CUST-1285,Customer 0198,Corporate,South,Georgia,Office Supplies,Storage,Storage Box,5,0.15,228.56,14.05
+ORD-10674,INV-50674,2025-02-05,2025-02-08,Same Day,CUST-1225,Customer 0200,Consumer,Central,Illinois,Furniture,Tables,Wooden Bookcase,4,0.05,167.99,28.31
+ORD-10675,INV-50675,2024-02-16,2024-02-21,Second Class,CUST-1140,Customer 0152,Corporate,East,New York,Office Supplies,Labels,A4 Paper,6,0.0,49.76,6.53
+ORD-10676,INV-50676,2024-08-20,2024-08-21,Second Class,CUST-1015,Customer 0088,Corporate,South,Florida,Office Supplies,Art,Binder Pack,6,0.0,271.82,30.24
+ORD-10677,INV-50677,2024-10-31,2024-11-04,First Class,CUST-1119,Customer 0147,Home Office,South,Georgia,Technology,Accessories,Printer,1,0.05,999.64,150.3
+ORD-10678,INV-50678,2025-06-09,2025-06-13,First Class,CUST-1298,Customer 0047,Home Office,Central,Illinois,Technology,Phones,Smartphone,1,0.0,985.05,130.94
+ORD-10679,INV-50679,2024-05-22,2024-05-27,Standard Class,CUST-1212,Customer 0188,Home Office,West,Washington,Furniture,Chairs,Wooden Bookcase,4,0.05,251.31,19.58
+ORD-10680,INV-50680,2025-02-18,2025-02-22,Standard Class,CUST-1240,Customer 0162,Home Office,Central,Illinois,Technology,Phones,Monitor,4,0.1,2583.89,247.85
+ORD-10681,INV-50681,2025-05-27,2025-06-01,Second Class,CUST-1027,Customer 0154,Home Office,West,Washington,Furniture,Bookcases,Wooden Bookcase,2,0.3,242.62,-12.96
+ORD-10682,INV-50682,2025-01-07,2025-01-11,Same Day,CUST-1122,Customer 0173,Consumer,East,Massachusetts,Office Supplies,Storage,Storage Box,4,0.05,114.42,28.47
+ORD-10683,INV-50683,2025-07-19,2025-07-22,First Class,CUST-1119,Customer 0174,Consumer,East,Pennsylvania,Office Supplies,Labels,Storage Box,7,0.2,151.03,12.93
+ORD-10684,INV-50684,2024-09-15,2024-09-16,First Class,CUST-1141,Customer 0101,Consumer,East,New Jersey,Furniture,Tables,Wooden Bookcase,3,0.1,1272.26,57.62
+ORD-10685,INV-50685,2025-10-17,2025-10-20,Second Class,CUST-1080,Customer 0118,Home Office,East,Massachusetts,Furniture,Furnishings,Wooden Bookcase,7,0.05,856.76,104.7
+ORD-10686,INV-50686,2025-04-15,2025-04-20,Second Class,CUST-1273,Customer 0042,Home Office,Central,Ohio,Office Supplies,Art,A4 Paper,3,0.1,158.07,36.18
+ORD-10687,INV-50687,2024-01-12,2024-01-13,Standard Class,CUST-1059,Customer 0073,Consumer,West,California,Furniture,Furnishings,Wooden Bookcase,6,0.1,1078.51,109.17
+ORD-10688,INV-50688,2024-11-25,2024-11-30,Second Class,CUST-1027,Customer 0040,Home Office,West,Arizona,Office Supplies,Labels,A4 Paper,2,0.05,170.65,31.61
+ORD-10689,INV-50689,2024-12-23,2024-12-25,Same Day,CUST-1284,Customer 0112,Corporate,West,Arizona,Office Supplies,Envelopes,Labels,6,0.2,431.96,75.44
+ORD-10690,INV-50690,2025-02-11,2025-02-16,First Class,CUST-1245,Customer 0083,Consumer,Central,Ohio,Office Supplies,Binders,Binder Pack,1,0.0,99.24,14.73
+ORD-10691,INV-50691,2025-10-29,2025-11-01,First Class,CUST-1185,Customer 0159,Corporate,West,Arizona,Office Supplies,Envelopes,Storage Box,3,0.2,190.91,42.7
+ORD-10692,INV-50692,2025-01-07,2025-01-12,Same Day,CUST-1042,Customer 0120,Corporate,Central,Michigan,Office Supplies,Binders,A4 Paper,7,0.1,782.46,86.3
+ORD-10693,INV-50693,2024-01-08,2024-01-12,First Class,CUST-1230,Customer 0222,Corporate,West,Arizona,Technology,Accessories,Laptop,4,0.1,2801.19,366.03
+ORD-10694,INV-50694,2024-05-01,2024-05-03,Standard Class,CUST-1192,Customer 0077,Corporate,South,Georgia,Office Supplies,Labels,A4 Paper,1,0.1,85.52,12.76
+ORD-10695,INV-50695,2024-12-13,2024-12-15,Standard Class,CUST-1195,Customer 0078,Home Office,South,Florida,Office Supplies,Paper,Labels,7,0.05,147.75,39.43
+ORD-10696,INV-50696,2025-11-06,2025-11-11,Same Day,CUST-1196,Customer 0002,Consumer,West,Colorado,Furniture,Furnishings,Wooden Bookcase,7,0.0,2384.6,295.57
+ORD-10697,INV-50697,2024-03-30,2024-04-03,First Class,CUST-1177,Customer 0059,Consumer,South,Florida,Office Supplies,Storage,Marker Set,7,0.05,372.73,47.14
+ORD-10698,INV-50698,2025-10-09,2025-10-11,Second Class,CUST-1016,Customer 0245,Corporate,East,Massachusetts,Office Supplies,Storage,A4 Paper,7,0.1,518.01,106.58
+ORD-10699,INV-50699,2025-11-28,2025-12-02,First Class,CUST-1083,Customer 0044,Home Office,South,Florida,Office Supplies,Labels,Binder Pack,6,0.0,98.44,11.81
+ORD-10700,INV-50700,2024-11-11,2024-11-15,Second Class,CUST-1257,Customer 0194,Home Office,Central,Texas,Technology,Accessories,Wireless Mouse,5,0.05,2860.91,366.03
+ORD-10701,INV-50701,2024-06-26,2024-07-01,First Class,CUST-1161,Customer 0227,Consumer,Central,Texas,Furniture,Bookcases,Desk Lamp,4,0.0,219.73,9.58
+ORD-10702,INV-50702,2025-06-23,2025-06-25,Second Class,CUST-1249,Customer 0193,Corporate,South,Virginia,Furniture,Tables,Wooden Bookcase,1,0.0,472.48,40.45
+ORD-10703,INV-50703,2024-02-10,2024-02-13,Second Class,CUST-1268,Customer 0128,Home Office,East,Massachusetts,Office Supplies,Paper,Binder Pack,5,0.1,287.05,66.74
+ORD-10704,INV-50704,2025-12-04,2025-12-05,Standard Class,CUST-1248,Customer 0214,Corporate,Central,Texas,Furniture,Chairs,Office Table,3,0.1,1192.48,116.55
+ORD-10705,INV-50705,2025-05-16,2025-05-21,Standard Class,CUST-1146,Customer 0124,Home Office,West,California,Office Supplies,Paper,A4 Paper,1,0.05,26.0,1.9
+ORD-10706,INV-50706,2024-05-24,2024-05-29,Same Day,CUST-1019,Customer 0077,Corporate,Central,Illinois,Office Supplies,Labels,Binder Pack,2,0.05,118.67,13.0
+ORD-10707,INV-50707,2024-07-19,2024-07-20,Standard Class,CUST-1063,Customer 0069,Home Office,West,California,Office Supplies,Paper,Storage Box,1,0.0,88.08,20.92
+ORD-10708,INV-50708,2025-12-24,2025-12-28,First Class,CUST-1107,Customer 0080,Corporate,Central,Illinois,Office Supplies,Paper,Marker Set,6,0.1,474.91,83.56
+ORD-10709,INV-50709,2025-04-05,2025-04-09,Second Class,CUST-1003,Customer 0018,Home Office,Central,Ohio,Office Supplies,Art,Binder Pack,1,0.1,100.82,20.07
+ORD-10710,INV-50710,2025-07-11,2025-07-16,Standard Class,CUST-1015,Customer 0142,Consumer,Central,Michigan,Technology,Accessories,Smartphone,6,0.0,1718.16,190.33
+ORD-10711,INV-50711,2025-06-30,2025-07-02,Second Class,CUST-1269,Customer 0031,Corporate,East,New York,Office Supplies,Envelopes,Marker Set,2,0.1,193.79,14.36
+ORD-10712,INV-50712,2024-09-09,2024-09-10,Same Day,CUST-1016,Customer 0202,Home Office,Central,Ohio,Office Supplies,Envelopes,Labels,5,0.15,432.52,102.25
+ORD-10713,INV-50713,2025-01-24,2025-01-27,Second Class,CUST-1131,Customer 0237,Home Office,East,New York,Technology,Machines,Smartphone,2,0.15,2378.2,366.03
+ORD-10714,INV-50714,2025-08-16,2025-08-19,Second Class,CUST-1235,Customer 0033,Consumer,West,Washington,Office Supplies,Storage,Marker Set,3,0.15,34.14,7.36
+ORD-10715,INV-50715,2024-09-12,2024-09-17,Standard Class,CUST-1012,Customer 0142,Consumer,East,Massachusetts,Furniture,Furnishings,Wooden Bookcase,1,0.15,408.17,27.21
+ORD-10716,INV-50716,2025-12-09,2025-12-14,Same Day,CUST-1176,Customer 0114,Home Office,South,North Carolina,Technology,Accessories,Printer,2,0.1,1600.35,106.92
+ORD-10717,INV-50717,2025-03-25,2025-03-29,Same Day,CUST-1105,Customer 0036,Consumer,East,Massachusetts,Technology,Phones,Wireless Mouse,4,0.15,1255.82,264.09
+ORD-10718,INV-50718,2024-01-10,2024-01-14,Same Day,CUST-1152,Customer 0212,Consumer,Central,Ohio,Office Supplies,Envelopes,Binder Pack,3,0.2,249.65,57.4
+ORD-10719,INV-50719,2024-08-29,2024-08-31,Second Class,CUST-1165,Customer 0183,Corporate,Central,Ohio,Technology,Copiers,Monitor,2,0.05,1640.64,366.03
+ORD-10720,INV-50720,2024-09-07,2024-09-08,Standard Class,CUST-1060,Customer 0250,Corporate,East,Massachusetts,Furniture,Chairs,Wooden Bookcase,1,0.2,347.45,30.53
+ORD-10721,INV-50721,2024-01-05,2024-01-08,First Class,CUST-1164,Customer 0083,Home Office,South,Virginia,Office Supplies,Art,Binder Pack,1,0.1,97.16,17.12
+ORD-10722,INV-50722,2024-04-28,2024-05-01,Same Day,CUST-1185,Customer 0093,Corporate,Central,Michigan,Office Supplies,Storage,A4 Paper,2,0.0,61.14,13.98
+ORD-10723,INV-50723,2025-01-08,2025-01-09,Same Day,CUST-1052,Customer 0130,Consumer,South,Georgia,Technology,Machines,Monitor,7,0.0,3074.0350000000003,366.03
+ORD-10724,INV-50724,2024-03-05,2024-03-09,Same Day,CUST-1235,Customer 0219,Corporate,East,Massachusetts,Office Supplies,Binders,Storage Box,4,0.15,21.13,4.97
+ORD-10725,INV-50725,2024-05-25,2024-05-30,Same Day,CUST-1032,Customer 0005,Corporate,West,Arizona,Office Supplies,Art,Labels,1,0.05,87.0,8.63
+ORD-10726,INV-50726,2024-08-11,2024-08-16,First Class,CUST-1241,Customer 0242,Consumer,East,Pennsylvania,Furniture,Tables,Desk Lamp,1,0.15,471.09,0.82
+ORD-10727,INV-50727,2024-08-26,2024-08-27,First Class,CUST-1157,Customer 0077,Home Office,East,Pennsylvania,Furniture,Bookcases,Wooden Bookcase,1,0.0,163.13,14.36
+ORD-10728,INV-50728,2024-06-25,2024-06-26,Same Day,CUST-1252,Customer 0142,Corporate,Central,Ohio,Furniture,Bookcases,Office Table,1,0.15,215.21,0.93
+ORD-10729,INV-50729,2024-10-08,2024-10-11,First Class,CUST-1156,Customer 0067,Home Office,South,North Carolina,Furniture,Bookcases,Desk Lamp,6,0.05,2520.5,366.03
+ORD-10730,INV-50730,2024-03-03,2024-03-08,Standard Class,CUST-1148,Customer 0111,Home Office,East,New York,Office Supplies,Paper,Storage Box,2,0.0,229.21,38.67
+ORD-10731,INV-50731,2024-08-04,2024-08-08,Standard Class,CUST-1257,Customer 0218,Home Office,Central,Ohio,Office Supplies,Storage,Labels,6,0.05,652.5,147.36
+ORD-10732,INV-50732,2025-11-19,2025-11-20,Standard Class,CUST-1271,Customer 0020,Home Office,South,Georgia,Office Supplies,Paper,Marker Set,1,0.0,14.69,1.22
+ORD-10733,INV-50733,2025-04-05,2025-04-07,Same Day,CUST-1101,Customer 0086,Corporate,South,North Carolina,Office Supplies,Paper,Labels,3,0.0,31.43,8.75
+ORD-10734,INV-50734,2025-09-01,2025-09-06,Standard Class,CUST-1238,Customer 0078,Home Office,South,North Carolina,Furniture,Chairs,Wooden Bookcase,2,0.1,855.87,133.06
+ORD-10735,INV-50735,2024-04-14,2024-04-18,First Class,CUST-1131,Customer 0165,Consumer,Central,Ohio,Furniture,Furnishings,Office Table,2,0.1,697.6,35.12
+ORD-10736,INV-50736,2024-04-08,2024-04-11,Same Day,CUST-1015,Customer 0054,Consumer,West,California,Furniture,Bookcases,Wooden Bookcase,5,0.05,1322.54,158.09
+ORD-10737,INV-50737,2025-05-25,2025-05-27,Second Class,CUST-1261,Customer 0156,Home Office,East,Massachusetts,Furniture,Tables,Ergonomic Chair,7,0.05,1226.33,210.43
+ORD-10738,INV-50738,2025-01-19,2025-01-22,Second Class,CUST-1081,Customer 0128,Home Office,West,Arizona,Office Supplies,Labels,Labels,7,0.0,675.76,81.82
+ORD-10739,INV-50739,2025-02-08,2025-02-11,First Class,CUST-1232,Customer 0245,Consumer,Central,Texas,Furniture,Tables,Desk Lamp,3,0.3,1042.34,-9.7
+ORD-10740,INV-50740,2025-06-01,2025-06-05,First Class,CUST-1043,Customer 0155,Consumer,South,Georgia,Technology,Machines,Monitor,1,0.0,527.81,84.91
+ORD-10741,INV-50741,2025-04-20,2025-04-24,First Class,CUST-1006,Customer 0190,Corporate,West,Washington,Furniture,Tables,Wooden Bookcase,7,0.0,2724.32,366.03
+ORD-10742,INV-50742,2025-12-09,2025-12-14,Standard Class,CUST-1065,Customer 0232,Consumer,East,New Jersey,Furniture,Bookcases,Desk Lamp,6,0.1,1989.1,25.03
+ORD-10743,INV-50743,2025-10-06,2025-10-10,Standard Class,CUST-1048,Customer 0136,Home Office,West,Arizona,Office Supplies,Labels,A4 Paper,1,0.05,81.4,14.91
+ORD-10744,INV-50744,2025-03-12,2025-03-14,First Class,CUST-1191,Customer 0101,Consumer,West,Colorado,Office Supplies,Labels,Binder Pack,3,0.1,283.96,71.94
+ORD-10745,INV-50745,2024-01-23,2024-01-27,Second Class,CUST-1135,Customer 0162,Home Office,South,Virginia,Technology,Accessories,Wireless Mouse,3,0.05,3016.7,366.03
+ORD-10746,INV-50746,2025-07-18,2025-07-23,Standard Class,CUST-1164,Customer 0193,Corporate,South,North Carolina,Office Supplies,Storage,Binder Pack,2,0.05,98.11,26.56
+ORD-10747,INV-50747,2025-11-07,2025-11-10,Second Class,CUST-1098,Customer 0175,Corporate,South,Virginia,Furniture,Furnishings,Wooden Bookcase,4,0.15,405.44,33.19
+ORD-10748,INV-50748,2025-12-14,2025-12-18,Same Day,CUST-1081,Customer 0044,Corporate,Central,Texas,Office Supplies,Binders,Binder Pack,2,0.0,24.98,3.05
+ORD-10749,INV-50749,2025-04-02,2025-04-06,Second Class,CUST-1094,Customer 0237,Consumer,East,Pennsylvania,Office Supplies,Binders,Storage Box,2,0.15,120.73,14.13
+ORD-10750,INV-50750,2024-03-23,2024-03-28,Second Class,CUST-1260,Customer 0231,Corporate,South,Virginia,Office Supplies,Art,Binder Pack,3,0.3,169.77,26.94
+ORD-10751,INV-50751,2024-05-24,2024-05-28,Standard Class,CUST-1258,Customer 0079,Consumer,West,Washington,Technology,Phones,Smartphone,4,0.0,3074.0350000000003,366.03
+ORD-10752,INV-50752,2024-03-25,2024-03-26,First Class,CUST-1236,Customer 0210,Consumer,South,North Carolina,Furniture,Tables,Office Table,2,0.1,153.25,9.84
+ORD-10753,INV-50753,2024-03-18,2024-03-21,Standard Class,CUST-1198,Customer 0089,Home Office,West,Arizona,Technology,Accessories,Smartphone,4,0.05,844.64,153.94
+ORD-10754,INV-50754,2025-04-01,2025-04-05,Same Day,CUST-1088,Customer 0032,Consumer,Central,Illinois,Office Supplies,Paper,A4 Paper,5,0.0,397.67,80.89
+ORD-10755,INV-50755,2024-01-01,2024-01-06,Second Class,CUST-1247,Customer 0109,Consumer,Central,Texas,Furniture,Bookcases,Wooden Bookcase,5,0.0,1778.66,132.47
+ORD-10756,INV-50756,2024-02-20,2024-02-25,Same Day,CUST-1284,Customer 0250,Consumer,Central,New Jersey,Office Supplies,Envelopes,A4 Paper,7,0.1,246.76,47.78
+ORD-10757,INV-50757,2025-11-15,2025-11-19,Same Day,CUST-1142,Customer 0036,Home Office,East,New York,Office Supplies,Binders,Storage Box,2,0.0,231.98,54.13
+ORD-10758,INV-50758,2025-12-17,2025-12-21,First Class,CUST-1070,Customer 0164,Consumer,East,Pennsylvania,Office Supplies,Paper,A4 Paper,2,0.1,87.1,11.23
+ORD-10759,INV-50759,2025-03-21,2025-03-25,Second Class,CUST-1019,Customer 0070,Consumer,East,New Jersey,Office Supplies,Binders,Labels,7,0.0,494.16,99.93
+ORD-10760,INV-50760,2025-03-24,2025-03-28,Standard Class,CUST-1207,Customer 0133,Home Office,South,Georgia,Furniture,Furnishings,Office Table,4,0.05,1347.41,127.77
+ORD-10761,INV-50761,2025-05-02,2025-05-07,Standard Class,CUST-1104,Customer 0147,Consumer,Central,Ohio,Furniture,Tables,Desk Lamp,7,0.1,2611.72,249.08
+ORD-10762,INV-50762,2024-02-03,2024-02-06,First Class,CUST-1251,Customer 0131,Corporate,East,New Jersey,Technology,Accessories,Wireless Mouse,5,0.2,1453.62,233.1
+ORD-10763,INV-50763,2024-12-13,2024-12-17,Second Class,CUST-1062,Customer 0114,Home Office,Central,Illinois,Furniture,Chairs,Office Table,4,0.0,722.24,69.97
+ORD-10764,INV-50764,2024-04-04,2024-04-05,First Class,CUST-1161,Customer 0027,Consumer,Central,Texas,Office Supplies,Labels,A4 Paper,5,0.0,483.27,108.43
+ORD-10765,INV-50765,2024-03-12,2024-03-14,Same Day,CUST-1086,Customer 0040,Consumer,Central,Ohio,Technology,Phones,Wireless Mouse,6,0.0,2085.99,366.03
+ORD-10766,INV-50766,2025-07-04,2025-07-07,Second Class,CUST-1000,Customer 0190,Consumer,West,Arizona,Furniture,Furnishings,Office Table,7,0.1,2125.04,163.64
+ORD-10767,INV-50767,2024-06-02,2024-06-04,Same Day,CUST-1251,Customer 0114,Home Office,East,New Jersey,Technology,Phones,Monitor,2,0.05,1999.32,200.99
+ORD-10768,INV-50768,2024-09-06,2024-09-11,Same Day,CUST-1250,Customer 0058,Consumer,East,New York,Furniture,Bookcases,Wooden Bookcase,2,0.0,781.14,88.23
+ORD-10769,INV-50769,2025-11-04,2025-11-06,Second Class,CUST-1013,Customer 0246,Home Office,East,Pennsylvania,Furniture,Furnishings,Wooden Bookcase,4,0.05,1692.82,77.22
+ORD-10770,INV-50770,2025-03-13,2025-03-14,Standard Class,CUST-1102,Customer 0190,Corporate,East,New Jersey,Furniture,Bookcases,Ergonomic Chair,5,0.05,577.75,100.6
+ORD-10771,INV-50771,2024-04-27,2024-04-30,Standard Class,CUST-1149,Customer 0074,Home Office,Central,Michigan,Furniture,Furnishings,Desk Lamp,2,0.0,894.31,61.48
+ORD-10772,INV-50772,2024-11-01,2024-11-02,Standard Class,CUST-1096,Customer 0121,Home Office,East,New York,Office Supplies,Envelopes,Marker Set,4,0.2,192.61,31.15
+ORD-10773,INV-50773,2024-09-24,2024-09-27,Second Class,CUST-1128,Customer 0006,Home Office,Central,Texas,Furniture,Chairs,Desk Lamp,4,0.1,382.79,36.79
+ORD-10774,INV-50774,2024-02-23,2024-02-27,First Class,CUST-1256,Customer 0168,Consumer,South,Florida,Office Supplies,Art,Labels,5,0.2,488.02,104.64
+ORD-10775,INV-50775,2024-08-23,2024-08-25,Second Class,CUST-1126,Customer 0175,Corporate,East,Massachusetts,Furniture,Bookcases,Desk Lamp,7,0.15,648.02,14.25
+ORD-10776,INV-50776,2025-01-23,2025-01-26,Standard Class,CUST-1142,Customer 0042,Corporate,Central,Ohio,Technology,Copiers,Wireless Mouse,5,0.1,2906.05,366.03
+ORD-10777,INV-50777,2025-02-04,2025-02-08,Same Day,CUST-1228,Customer 0152,Consumer,West,Arizona,Furniture,Bookcases,Office Table,6,0.1,591.68,30.99
+ORD-10778,INV-50778,2025-09-15,2025-09-17,Standard Class,CUST-1195,Customer 0145,Consumer,West,California,Office Supplies,Envelopes,Labels,1,0.1,119.08,11.25
+ORD-10779,INV-50779,2024-10-29,2024-11-02,Same Day,CUST-1179,Customer 0008,Home Office,South,Georgia,Furniture,Furnishings,Desk Lamp,5,0.0,2488.07,111.54
+ORD-10780,INV-50780,2024-07-25,2024-07-27,Second Class,CUST-1105,Customer 0146,Corporate,Central,Ohio,Office Supplies,Binders,Marker Set,4,0.2,217.89,40.81
+ORD-10781,INV-50781,2024-08-16,2024-08-19,Same Day,CUST-1014,Customer 0099,Corporate,East,Massachusetts,Technology,Accessories,Monitor,1,0.1,189.43,30.27
+ORD-10782,INV-50782,2025-07-31,2025-08-05,Standard Class,CUST-1031,Customer 0056,Home Office,East,New Jersey,Office Supplies,Labels,Binder Pack,5,0.05,349.5,85.5
+ORD-10783,INV-50783,2024-03-15,2024-03-16,First Class,CUST-1127,Customer 0081,Corporate,Central,Illinois,Furniture,Bookcases,Ergonomic Chair,6,0.1,2217.18,22.88
+ORD-10784,INV-50784,2025-03-10,2025-03-13,Standard Class,CUST-1087,Customer 0207,Home Office,Central,Michigan,Technology,Accessories,Printer,5,0.3,3074.0350000000003,366.03
+ORD-10785,INV-50785,2024-04-12,2024-04-17,Same Day,CUST-1233,Customer 0039,Home Office,Central,Texas,Furniture,Bookcases,Ergonomic Chair,4,0.15,1007.37,98.92
+ORD-10786,INV-50786,2025-02-25,2025-03-02,Same Day,CUST-1267,Customer 0215,Corporate,West,Washington,Technology,Copiers,Monitor,6,0.2,3074.0350000000003,270.08
+ORD-10787,INV-50787,2025-12-04,2025-12-07,Standard Class,CUST-1208,Customer 0160,Home Office,South,Florida,Office Supplies,Envelopes,A4 Paper,6,0.0,234.26,42.75
+ORD-10788,INV-50788,2024-11-01,2024-11-05,Same Day,CUST-1102,Customer 0105,Home Office,West,California,Office Supplies,Storage,Marker Set,2,0.0,31.49,4.18
+ORD-10789,INV-50789,2024-04-07,2024-04-12,Same Day,CUST-1286,Customer 0066,Home Office,West,California,Furniture,Furnishings,Office Table,2,0.15,709.17,87.01
+ORD-10790,INV-50790,2024-11-30,2024-12-02,First Class,CUST-1024,Customer 0132,Home Office,South,Florida,Furniture,Bookcases,Desk Lamp,3,0.0,876.41,71.2
+ORD-10791,INV-50791,2025-03-10,2025-03-15,Same Day,CUST-1258,Customer 0197,Consumer,East,Pennsylvania,Furniture,Furnishings,Ergonomic Chair,5,0.0,1799.14,101.7
+ORD-10792,INV-50792,2025-03-22,2025-03-23,Same Day,CUST-1117,Customer 0084,Home Office,South,Florida,Technology,Copiers,Wireless Mouse,5,0.0,2672.97,366.03
+ORD-10793,INV-50793,2024-11-03,2024-11-05,Second Class,CUST-1047,Customer 0137,Consumer,South,Georgia,Office Supplies,Binders,Storage Box,1,0.15,109.0,25.24
+ORD-10794,INV-50794,2024-09-05,2024-09-07,Same Day,CUST-1194,Customer 0114,Home Office,Central,Illinois,Office Supplies,Storage,Binder Pack,6,0.15,516.75,72.21
+ORD-10795,INV-50795,2024-06-14,2024-06-17,First Class,CUST-1205,Customer 0131,Corporate,Central,Michigan,Technology,Copiers,Monitor,3,0.15,2881.91,366.03
+ORD-10796,INV-50796,2025-04-25,2025-04-28,Same Day,CUST-1281,Customer 0155,Corporate,Central,Michigan,Furniture,Furnishings,Wooden Bookcase,1,0.1,146.65,21.83
+ORD-10797,INV-50797,2024-11-30,2024-12-02,Standard Class,CUST-1114,Customer 0167,Home Office,Central,Ohio,Office Supplies,Envelopes,Binder Pack,3,0.05,336.04,84.84
+ORD-10798,INV-50798,2025-06-25,2025-06-29,First Class,CUST-1160,Customer 0149,Consumer,West,Colorado,Office Supplies,Art,Binder Pack,1,0.1,8.72,0.78
+ORD-10799,INV-50799,2024-04-15,2024-04-20,Second Class,CUST-1187,Customer 0146,Consumer,Central,Texas,Office Supplies,Envelopes,Storage Box,5,0.05,450.8,117.43
+ORD-10800,INV-50800,2025-07-16,2025-07-17,Second Class,CUST-1119,Customer 0072,Home Office,South,Virginia,Furniture,Tables,Desk Lamp,2,0.0,778.22,44.96
+ORD-10801,INV-50801,2024-03-21,2024-03-23,Second Class,CUST-1067,Customer 0185,Corporate,South,North Carolina,Office Supplies,Envelopes,Storage Box,6,0.1,136.44,23.53
+ORD-10802,INV-50802,2024-05-12,2024-05-17,Standard Class,CUST-1130,Customer 0069,Consumer,South,Georgia,Furniture,Chairs,Wooden Bookcase,3,0.2,1172.74,77.66
+ORD-10803,INV-50803,2024-05-17,2024-05-19,Second Class,CUST-1241,Customer 0010,Corporate,West,California,Furniture,Chairs,Ergonomic Chair,6,0.1,1425.56,143.1
+ORD-10804,INV-50804,2024-07-02,2024-07-03,Second Class,CUST-1058,Customer 0077,Home Office,East,New Jersey,Office Supplies,Storage,Labels,4,0.1,415.99,52.13
+ORD-10805,INV-50805,2025-02-04,2025-02-08,Standard Class,CUST-1150,Customer 0133,Home Office,West,Arizona,Office Supplies,Binders,Marker Set,5,0.0,341.24,80.06
+ORD-10806,INV-50806,2024-11-25,2024-11-26,Standard Class,CUST-1092,Customer 0005,Consumer,Central,Illinois,Furniture,Tables,Ergonomic Chair,5,0.0,915.74,79.54
+ORD-10807,INV-50807,2025-05-22,2025-05-24,Standard Class,CUST-1049,Customer 0122,Home Office,South,Florida,Furniture,Bookcases,Ergonomic Chair,2,0.05,902.44,110.02
+ORD-10808,INV-50808,2024-03-09,2024-03-10,Same Day,CUST-1114,Customer 0100,Consumer,Central,Illinois,Office Supplies,Envelopes,A4 Paper,6,0.1,364.82,23.03
+ORD-10809,INV-50809,2025-06-29,2025-06-30,Same Day,CUST-1126,Customer 0056,Corporate,South,North Carolina,Furniture,Chairs,Desk Lamp,6,0.0,1948.85,366.03
+ORD-10810,INV-50810,2024-02-22,2024-02-26,First Class,CUST-1216,Customer 0140,Consumer,Central,Ohio,Furniture,Bookcases,Desk Lamp,7,0.1,2430.51,322.28
+ORD-10811,INV-50811,2025-03-25,2025-03-26,Standard Class,CUST-1094,Customer 0244,Home Office,South,Virginia,Office Supplies,Paper,Marker Set,4,0.15,51.51,7.87
+ORD-10812,INV-50812,2024-07-23,2024-07-25,Second Class,CUST-1184,Customer 0158,Corporate,Central,Ohio,Office Supplies,Envelopes,A4 Paper,3,0.15,238.02,58.16
+ORD-10813,INV-50813,2024-05-05,2024-05-10,Same Day,CUST-1014,Customer 0175,Home Office,South,Georgia,Office Supplies,Binders,Binder Pack,5,0.2,295.14,41.86
+ORD-10814,INV-50814,2024-02-12,2024-02-17,First Class,CUST-1022,Customer 0189,Corporate,East,Massachusetts,Office Supplies,Art,Marker Set,1,0.15,81.99,17.72
+ORD-10815,INV-50815,2024-04-20,2024-04-25,Standard Class,CUST-1096,Customer 0052,Home Office,East,New York,Furniture,Bookcases,Desk Lamp,7,0.0,3074.0350000000003,261.72
+ORD-10816,INV-50816,2025-10-24,2025-10-25,Standard Class,CUST-1254,Customer 0059,Corporate,Central,Ohio,Technology,Copiers,Wireless Mouse,4,0.0,3074.0350000000003,366.03
+ORD-10817,INV-50817,2024-07-01,2024-07-03,First Class,CUST-1287,Customer 0138,Consumer,South,North Carolina,Technology,Copiers,Monitor,1,0.0,1097.48,207.87
+ORD-10818,INV-50818,2024-04-04,2024-04-07,Standard Class,CUST-1260,Customer 0125,Home Office,East,Massachusetts,Office Supplies,Paper,A4 Paper,4,0.0,43.1,6.82
+ORD-10819,INV-50819,2025-01-08,2025-01-10,Same Day,CUST-1048,Customer 0092,Consumer,West,Colorado,Office Supplies,Binders,A4 Paper,7,0.1,730.85,153.17
+ORD-10820,INV-50820,2025-06-03,2025-06-08,First Class,CUST-1269,Customer 0034,Consumer,West,Colorado,Technology,Copiers,Laptop,2,0.0,1812.92,366.03
+ORD-10821,INV-50821,2024-12-25,2024-12-29,Same Day,CUST-1125,Customer 0063,Corporate,South,Georgia,Office Supplies,Binders,Binder Pack,4,0.1,105.96,7.63
+ORD-10822,INV-50822,2025-11-26,2025-11-27,Second Class,CUST-1164,Customer 0225,Home Office,South,Georgia,Furniture,Furnishings,Desk Lamp,1,0.05,399.25,18.59
+ORD-10823,INV-50823,2024-10-07,2024-10-12,Second Class,CUST-1278,Customer 0013,Consumer,West,Colorado,Furniture,Bookcases,Wooden Bookcase,2,0.05,137.98,11.23
+ORD-10824,INV-50824,2024-07-13,2024-07-16,Same Day,CUST-1163,Customer 0126,Consumer,East,New Jersey,Office Supplies,Binders,A4 Paper,7,0.2,594.45,7.96
+ORD-10825,INV-50825,2024-07-13,2024-07-17,Same Day,CUST-1211,Customer 0087,Consumer,East,Massachusetts,Office Supplies,Paper,Labels,7,0.15,676.92,107.19
+ORD-10826,INV-50826,2025-10-28,2025-10-30,Same Day,CUST-1129,Customer 0036,Home Office,Central,Ohio,Furniture,Chairs,Office Table,1,0.05,353.5,23.34
+ORD-10827,INV-50827,2024-04-02,2024-04-03,Same Day,CUST-1152,Customer 0053,Corporate,East,Massachusetts,Furniture,Bookcases,Office Table,1,0.1,307.62,6.16
+ORD-10828,INV-50828,2025-11-02,2025-11-05,Second Class,CUST-1248,Customer 0123,Consumer,South,Virginia,Technology,Copiers,Printer,5,0.1,3074.0350000000003,366.03
+ORD-10829,INV-50829,2024-03-01,2024-03-06,Second Class,CUST-1171,Customer 0031,Home Office,East,Massachusetts,Office Supplies,Storage,Labels,2,0.05,155.66,40.42
+ORD-10830,INV-50830,2025-09-25,2025-09-30,First Class,CUST-1211,Customer 0084,Consumer,East,Massachusetts,Furniture,Bookcases,Ergonomic Chair,4,0.05,1916.56,164.62
+ORD-10831,INV-50831,2024-02-20,2024-02-21,Standard Class,CUST-1114,Customer 0127,Consumer,East,Pennsylvania,Furniture,Chairs,Desk Lamp,6,0.1,948.61,102.33
+ORD-10832,INV-50832,2025-02-06,2025-02-10,Second Class,CUST-1285,Customer 0186,Corporate,East,Pennsylvania,Technology,Accessories,Wireless Mouse,5,0.15,3074.0350000000003,366.03
+ORD-10833,INV-50833,2024-01-05,2024-01-08,Second Class,CUST-1052,Customer 0179,Consumer,East,Pennsylvania,Furniture,Bookcases,Office Table,1,0.1,291.91,9.02
+ORD-10834,INV-50834,2025-04-10,2025-04-12,First Class,CUST-1153,Customer 0146,Corporate,West,Colorado,Furniture,Bookcases,Desk Lamp,6,0.15,837.51,116.55
+ORD-10835,INV-50835,2025-08-26,2025-08-27,Same Day,CUST-1141,Customer 0022,Home Office,West,Colorado,Office Supplies,Envelopes,Marker Set,1,0.05,59.73,9.66
+ORD-10836,INV-50836,2025-11-12,2025-11-14,Standard Class,CUST-1147,Customer 0184,Home Office,East,New Jersey,Furniture,Furnishings,Office Table,1,0.15,364.82,29.09
+ORD-10837,INV-50837,2025-06-17,2025-06-21,Standard Class,CUST-1221,Customer 0202,Home Office,East,Massachusetts,Office Supplies,Art,A4 Paper,6,0.1,426.83,25.24
+ORD-10838,INV-50838,2025-02-08,2025-02-10,Standard Class,CUST-1159,Customer 0236,Consumer,South,Florida,Technology,Copiers,Laptop,1,0.3,935.68,23.22
+ORD-10839,INV-50839,2025-05-27,2025-06-01,Same Day,CUST-1149,Customer 0212,Corporate,Central,Michigan,Furniture,Chairs,Wooden Bookcase,2,0.1,294.89,38.93
+ORD-10840,INV-50840,2025-10-06,2025-10-11,Standard Class,CUST-1249,Customer 0110,Consumer,Central,Illinois,Technology,Phones,Laptop,7,0.0,3074.0350000000003,366.03
+ORD-10841,INV-50841,2024-08-20,2024-08-24,Second Class,CUST-1229,Customer 0249,Consumer,South,Virginia,Furniture,Bookcases,Ergonomic Chair,6,0.0,1678.71,250.53
+ORD-10842,INV-50842,2025-06-07,2025-06-10,Second Class,CUST-1042,Customer 0050,Home Office,South,Georgia,Office Supplies,Binders,Labels,4,0.0,150.7,13.57
+ORD-10843,INV-50843,2024-12-11,2024-12-12,Standard Class,CUST-1040,Customer 0069,Consumer,West,Washington,Technology,Machines,Smartphone,7,0.0,1443.55,159.54
+ORD-10844,INV-50844,2024-02-15,2024-02-17,Same Day,CUST-1014,Customer 0248,Consumer,Central,Ohio,Office Supplies,Storage,Binder Pack,2,0.05,85.27,18.18
+ORD-10845,INV-50845,2025-06-29,2025-06-30,First Class,CUST-1179,Customer 0163,Home Office,South,North Carolina,Technology,Machines,Monitor,1,0.0,358.36,59.83
+ORD-10846,INV-50846,2024-03-18,2024-03-22,Same Day,CUST-1011,Customer 0052,Consumer,Central,Texas,Office Supplies,Art,Marker Set,6,0.0,177.21,30.55
+ORD-10847,INV-50847,2025-12-30,2026-01-04,Same Day,CUST-1217,Customer 0246,Home Office,South,Virginia,Office Supplies,Paper,A4 Paper,3,0.0,298.09,71.89
+ORD-10848,INV-50848,2024-03-13,2024-03-18,First Class,CUST-1128,Customer 0141,Home Office,Central,Texas,Office Supplies,Art,A4 Paper,7,0.1,594.51,154.53
+ORD-10849,INV-50849,2024-09-05,2024-09-08,Second Class,CUST-1116,Customer 0104,Consumer,South,Georgia,Office Supplies,Art,A4 Paper,1,0.15,85.07,6.78
+ORD-10850,INV-50850,2024-02-16,2024-02-17,Second Class,CUST-1211,Customer 0044,Consumer,Central,Texas,Office Supplies,Art,Labels,3,0.05,288.33,27.34
+ORD-10851,INV-50851,2024-04-30,2024-05-03,Same Day,CUST-1205,Customer 0018,Home Office,East,Pennsylvania,Technology,Accessories,Smartphone,4,0.0,1899.09,292.66
+ORD-10852,INV-50852,2024-08-01,2024-08-05,Same Day,CUST-1029,Customer 0097,Home Office,East,Pennsylvania,Furniture,Furnishings,Ergonomic Chair,7,0.1,3074.0350000000003,366.03
+ORD-10853,INV-50853,2024-08-26,2024-08-31,Standard Class,CUST-1025,Customer 0115,Home Office,Central,Ohio,Office Supplies,Art,Storage Box,7,0.0,490.33,131.03
+ORD-10854,INV-50854,2024-02-25,2024-02-28,First Class,CUST-1211,Customer 0076,Consumer,West,California,Office Supplies,Art,Labels,3,0.0,300.87,35.41
+ORD-10855,INV-50855,2024-12-15,2024-12-18,Standard Class,CUST-1106,Customer 0241,Corporate,West,Colorado,Office Supplies,Paper,Binder Pack,6,0.0,367.11,54.47
+ORD-10856,INV-50856,2024-04-16,2024-04-18,Same Day,CUST-1136,Customer 0044,Home Office,East,New Jersey,Office Supplies,Art,Marker Set,3,0.2,185.36,38.0
+ORD-10857,INV-50857,2024-02-17,2024-02-20,Second Class,CUST-1133,Customer 0143,Consumer,Central,Illinois,Office Supplies,Paper,Marker Set,1,0.15,38.63,8.19
+ORD-10858,INV-50858,2025-07-26,2025-07-30,Second Class,CUST-1055,Customer 0059,Consumer,Central,Illinois,Technology,Accessories,Monitor,2,0.0,1056.88,213.17
+ORD-10859,INV-50859,2024-12-02,2024-12-07,Standard Class,CUST-1122,Customer 0205,Corporate,West,California,Furniture,Tables,Office Table,4,0.0,1458.0,84.09
+ORD-10860,INV-50860,2024-01-26,2024-01-31,Second Class,CUST-1001,Customer 0119,Home Office,West,Colorado,Technology,Phones,Laptop,3,0.1,2679.0,366.03
+ORD-10861,INV-50861,2024-09-13,2024-09-17,First Class,CUST-1112,Customer 0030,Home Office,East,New York,Office Supplies,Storage,A4 Paper,1,0.1,104.84,8.43
+ORD-10862,INV-50862,2024-01-08,2024-01-11,Second Class,CUST-1013,Customer 0099,Consumer,South,Georgia,Furniture,Furnishings,Wooden Bookcase,6,0.0,1189.33,135.89
+ORD-10863,INV-50863,2025-09-16,2025-09-18,Second Class,CUST-1111,Customer 0195,Home Office,South,North Carolina,Office Supplies,Paper,Binder Pack,4,0.1,241.84,54.08
+ORD-10864,INV-50864,2024-09-09,2024-09-14,Second Class,CUST-1030,Customer 0074,Corporate,South,North Carolina,Office Supplies,Binders,Labels,3,0.1,77.46,12.69
+ORD-10865,INV-50865,2025-11-22,2025-11-23,Standard Class,CUST-1111,Customer 0229,Corporate,West,Washington,Technology,Accessories,Wireless Mouse,6,0.0,3074.0350000000003,366.03
+ORD-10866,INV-50866,2025-12-19,2025-12-24,Second Class,CUST-1060,Customer 0232,Home Office,West,Arizona,Office Supplies,Binders,Storage Box,4,0.2,188.85,36.56
+ORD-10867,INV-50867,2024-10-29,2024-10-30,Second Class,CUST-1145,Customer 0015,Home Office,East,Massachusetts,Office Supplies,Envelopes,Marker Set,4,0.05,34.94,4.4
+ORD-10868,INV-50868,2025-09-30,2025-10-02,First Class,CUST-1093,Customer 0072,Home Office,West,Colorado,Furniture,Bookcases,Ergonomic Chair,5,0.1,1128.59,177.29
+ORD-10869,INV-50869,2024-02-25,2024-02-29,Standard Class,CUST-1090,Customer 0188,Home Office,East,New Jersey,Furniture,Bookcases,Office Table,7,0.0,1236.06,199.37
+ORD-10870,INV-50870,2025-12-26,2025-12-29,First Class,CUST-1198,Customer 0045,Consumer,East,New York,Technology,Copiers,Monitor,5,0.0,2087.98,366.03
+ORD-10871,INV-50871,2025-06-09,2025-06-11,First Class,CUST-1065,Customer 0079,Consumer,Central,Illinois,Furniture,Tables,Wooden Bookcase,6,0.05,1444.6,157.88
+ORD-10872,INV-50872,2025-04-18,2025-04-19,Second Class,CUST-1067,Customer 0198,Home Office,South,North Carolina,Office Supplies,Envelopes,Binder Pack,7,0.1,601.19,108.19
+ORD-10873,INV-50873,2024-01-28,2024-01-29,Same Day,CUST-1171,Customer 0101,Consumer,South,Florida,Furniture,Furnishings,Desk Lamp,7,0.1,1801.55,164.43
+ORD-10874,INV-50874,2024-03-18,2024-03-19,Standard Class,CUST-1185,Customer 0031,Corporate,East,Pennsylvania,Office Supplies,Paper,Storage Box,2,0.15,70.73,13.75
+ORD-10875,INV-50875,2024-08-03,2024-08-07,Second Class,CUST-1037,Customer 0062,Corporate,East,Pennsylvania,Office Supplies,Labels,Storage Box,5,0.15,508.97,60.94
+ORD-10876,INV-50876,2025-01-20,2025-01-24,Standard Class,CUST-1064,Customer 0025,Home Office,Central,Texas,Office Supplies,Paper,Labels,5,0.3,267.43,11.3
+ORD-10877,INV-50877,2024-12-30,2025-01-02,First Class,CUST-1013,Customer 0013,Corporate,South,Florida,Office Supplies,Storage,A4 Paper,7,0.1,115.14,18.91
+ORD-10878,INV-50878,2025-10-27,2025-10-29,Second Class,CUST-1241,Customer 0138,Consumer,Central,Michigan,Furniture,Chairs,Desk Lamp,2,0.1,109.64,15.28
+ORD-10879,INV-50879,2025-06-09,2025-06-10,Standard Class,CUST-1227,Customer 0050,Home Office,Central,Michigan,Office Supplies,Storage,Storage Box,2,0.05,72.21,4.9
+ORD-10880,INV-50880,2025-11-29,2025-12-02,First Class,CUST-1081,Customer 0038,Corporate,South,Georgia,Technology,Phones,Laptop,2,0.0,912.82,211.03
+ORD-10881,INV-50881,2024-11-07,2024-11-10,First Class,CUST-1284,Customer 0010,Corporate,South,Georgia,Furniture,Furnishings,Office Table,7,0.1,880.25,105.37
+ORD-10882,INV-50882,2024-01-07,2024-01-10,Standard Class,CUST-1120,Customer 0090,Consumer,East,New Jersey,Technology,Copiers,Laptop,7,0.1,3045.86,366.03
+ORD-10883,INV-50883,2024-01-03,2024-01-08,Same Day,CUST-1119,Customer 0080,Corporate,East,New Jersey,Technology,Phones,Monitor,7,0.0,3074.0350000000003,366.03
+ORD-10884,INV-50884,2025-09-14,2025-09-19,Standard Class,CUST-1123,Customer 0128,Consumer,Central,Michigan,Furniture,Chairs,Office Table,6,0.15,2675.84,42.41
+ORD-10885,INV-50885,2024-12-28,2025-01-02,Second Class,CUST-1227,Customer 0042,Home Office,Central,Illinois,Furniture,Furnishings,Office Table,3,0.1,392.75,44.79
+ORD-10886,INV-50886,2025-05-22,2025-05-27,Standard Class,CUST-1169,Customer 0006,Consumer,Central,Ohio,Office Supplies,Storage,Binder Pack,6,0.0,498.86,137.97
+ORD-10887,INV-50887,2024-09-30,2024-10-02,Standard Class,CUST-1058,Customer 0053,Consumer,East,New Jersey,Furniture,Chairs,Ergonomic Chair,1,0.1,352.53,12.91
+ORD-10888,INV-50888,2025-05-20,2025-05-25,Same Day,CUST-1252,Customer 0112,Corporate,East,New Jersey,Furniture,Chairs,Ergonomic Chair,7,0.1,2827.12,197.82
+ORD-10889,INV-50889,2024-01-15,2024-01-20,First Class,CUST-1063,Customer 0034,Corporate,Central,Ohio,Furniture,Furnishings,Ergonomic Chair,2,0.1,307.37,29.43
+ORD-10890,INV-50890,2024-07-10,2024-07-11,Same Day,CUST-1075,Customer 0019,Consumer,East,Massachusetts,Office Supplies,Paper,Marker Set,1,0.1,74.85,4.42
+ORD-10891,INV-50891,2025-09-22,2025-09-23,First Class,CUST-1037,Customer 0044,Home Office,West,Arizona,Office Supplies,Paper,A4 Paper,2,0.1,74.32,12.59
+ORD-10892,INV-50892,2025-04-29,2025-05-04,First Class,CUST-1268,Customer 0204,Consumer,East,Pennsylvania,Technology,Phones,Printer,5,0.15,800.05,106.67
+ORD-10893,INV-50893,2024-01-28,2024-02-02,Standard Class,CUST-1109,Customer 0097,Consumer,South,Virginia,Technology,Copiers,Smartphone,5,0.1,1547.89,352.16
+ORD-10894,INV-50894,2025-12-14,2025-12-16,Second Class,CUST-1043,Customer 0032,Home Office,East,Pennsylvania,Office Supplies,Paper,A4 Paper,5,0.15,454.95,101.42
+ORD-10895,INV-50895,2024-02-08,2024-02-13,First Class,CUST-1016,Customer 0146,Corporate,West,California,Office Supplies,Storage,Binder Pack,7,0.05,472.55,32.39
+ORD-10896,INV-50896,2024-09-29,2024-10-01,Second Class,CUST-1066,Customer 0238,Home Office,Central,Illinois,Office Supplies,Art,Marker Set,6,0.05,719.77,75.12
+ORD-10897,INV-50897,2024-08-18,2024-08-19,Standard Class,CUST-1006,Customer 0137,Consumer,East,Pennsylvania,Furniture,Tables,Wooden Bookcase,1,0.0,496.09,54.58
+ORD-10898,INV-50898,2024-03-26,2024-03-28,Second Class,CUST-1282,Customer 0060,Corporate,East,New Jersey,Office Supplies,Envelopes,Labels,7,0.0,216.92,23.13
+ORD-10899,INV-50899,2025-04-18,2025-04-22,First Class,CUST-1079,Customer 0051,Corporate,East,New Jersey,Office Supplies,Envelopes,Storage Box,3,0.1,267.04,66.53
+ORD-10900,INV-50900,2024-05-05,2024-05-07,Standard Class,CUST-1294,Customer 0158,Consumer,Central,Texas,Furniture,Tables,Wooden Bookcase,4,0.05,384.95,69.71
+ORD-10901,INV-50901,2025-06-20,2025-06-21,First Class,CUST-1045,Customer 0195,Corporate,South,Florida,Technology,Machines,Smartphone,2,0.2,277.99,37.49
+ORD-10902,INV-50902,2024-05-24,2024-05-25,Standard Class,CUST-1116,Customer 0154,Home Office,West,Washington,Office Supplies,Binders,A4 Paper,7,0.1,77.39,4.05
+ORD-10903,INV-50903,2025-06-08,2025-06-11,Same Day,CUST-1129,Customer 0102,Consumer,East,Massachusetts,Technology,Phones,Printer,6,0.2,680.13,115.98
+ORD-10904,INV-50904,2024-07-30,2024-08-03,Second Class,CUST-1192,Customer 0169,Corporate,West,Washington,Furniture,Tables,Office Table,2,0.0,410.22,18.29
+ORD-10905,INV-50905,2024-01-25,2024-01-30,First Class,CUST-1290,Customer 0169,Home Office,West,California,Office Supplies,Storage,Storage Box,2,0.1,52.94,2.6
+ORD-10906,INV-50906,2025-08-02,2025-08-03,First Class,CUST-1099,Customer 0214,Corporate,South,Virginia,Office Supplies,Labels,Binder Pack,5,0.3,331.75,10.13
+ORD-10907,INV-50907,2025-01-28,2025-01-30,First Class,CUST-1217,Customer 0093,Consumer,East,New Jersey,Office Supplies,Envelopes,Marker Set,7,0.2,485.63,62.9
+ORD-10908,INV-50908,2024-03-07,2024-03-12,Second Class,CUST-1175,Customer 0073,Consumer,South,Georgia,Office Supplies,Labels,Storage Box,4,0.1,301.91,58.87
+ORD-10909,INV-50909,2024-08-20,2024-08-21,Standard Class,CUST-1007,Customer 0053,Corporate,West,Arizona,Office Supplies,Paper,Storage Box,7,0.1,235.99,56.12
+ORD-10910,INV-50910,2024-04-18,2024-04-20,First Class,CUST-1294,Customer 0210,Consumer,South,Georgia,Technology,Phones,Laptop,2,0.2,996.11,198.64
+ORD-10911,INV-50911,2024-05-25,2024-05-26,Standard Class,CUST-1286,Customer 0037,Home Office,East,New Jersey,Technology,Machines,Monitor,7,0.05,3074.0350000000003,366.03
+ORD-10912,INV-50912,2024-04-20,2024-04-23,Second Class,CUST-1157,Customer 0109,Consumer,Central,Michigan,Technology,Machines,Laptop,3,0.1,609.67,127.05
+ORD-10913,INV-50913,2024-08-15,2024-08-20,Second Class,CUST-1164,Customer 0144,Corporate,West,Colorado,Furniture,Tables,Wooden Bookcase,3,0.0,1370.1,243.77
+ORD-10914,INV-50914,2024-04-20,2024-04-22,First Class,CUST-1278,Customer 0061,Home Office,Central,Michigan,Furniture,Tables,Ergonomic Chair,5,0.0,1484.48,160.24
+ORD-10915,INV-50915,2025-04-14,2025-04-15,First Class,CUST-1241,Customer 0042,Home Office,South,North Carolina,Office Supplies,Binders,Binder Pack,6,0.0,498.11,70.19
+ORD-10916,INV-50916,2024-02-03,2024-02-08,Same Day,CUST-1134,Customer 0237,Consumer,Central,Ohio,Technology,Copiers,Smartphone,7,0.0,3074.0350000000003,366.03
+ORD-10917,INV-50917,2025-09-14,2025-09-16,Same Day,CUST-1181,Customer 0146,Corporate,East,Massachusetts,Office Supplies,Paper,Marker Set,1,0.1,112.83,22.38
+ORD-10918,INV-50918,2025-01-03,2025-01-07,Standard Class,CUST-1113,Customer 0244,Corporate,Central,Texas,Technology,Machines,Laptop,5,0.15,690.7,48.38
+ORD-10919,INV-50919,2025-08-17,2025-08-19,Same Day,CUST-1175,Customer 0067,Corporate,East,Massachusetts,Technology,Accessories,Monitor,1,0.05,748.33,119.93
+ORD-10920,INV-50920,2025-07-07,2025-07-12,Same Day,CUST-1186,Customer 0110,Home Office,Central,Michigan,Office Supplies,Envelopes,Binder Pack,4,0.15,104.08,17.48
+ORD-10921,INV-50921,2025-02-28,2025-03-01,First Class,CUST-1226,Customer 0079,Consumer,West,Washington,Furniture,Bookcases,Wooden Bookcase,1,0.05,277.8,11.39
+ORD-10922,INV-50922,2025-09-04,2025-09-07,Standard Class,CUST-1288,Customer 0168,Home Office,South,North Carolina,Office Supplies,Storage,Labels,2,0.2,41.16,2.23
+ORD-10923,INV-50923,2025-06-01,2025-06-05,Same Day,CUST-1186,Customer 0205,Corporate,South,Virginia,Office Supplies,Art,Storage Box,5,0.15,200.84,40.82
+ORD-10924,INV-50924,2025-11-22,2025-11-26,First Class,CUST-1007,Customer 0005,Corporate,Central,Illinois,Office Supplies,Labels,Storage Box,5,0.1,321.73,48.85
+ORD-10925,INV-50925,2024-10-08,2024-10-11,First Class,CUST-1111,Customer 0186,Corporate,Central,Illinois,Technology,Copiers,Laptop,2,0.1,726.63,146.72
+ORD-10926,INV-50926,2024-11-15,2024-11-16,Second Class,CUST-1090,Customer 0182,Consumer,Central,Ohio,Furniture,Furnishings,Office Table,5,0.1,1856.88,162.69
+ORD-10927,INV-50927,2025-03-18,2025-03-20,Standard Class,CUST-1137,Customer 0230,Consumer,Central,Ohio,Office Supplies,Art,A4 Paper,5,0.2,217.43,7.14
+ORD-10928,INV-50928,2024-11-10,2024-11-11,Same Day,CUST-1143,Customer 0249,Corporate,West,Colorado,Furniture,Chairs,Wooden Bookcase,6,0.1,306.35,16.72
+ORD-10929,INV-50929,2025-01-11,2025-01-14,First Class,CUST-1154,Customer 0060,Consumer,South,Georgia,Technology,Phones,Wireless Mouse,1,0.0,1107.75,289.97
+ORD-10930,INV-50930,2024-10-15,2024-10-19,Same Day,CUST-1195,Customer 0143,Home Office,West,California,Technology,Phones,Laptop,3,0.05,1418.41,125.95
+ORD-10931,INV-50931,2025-03-12,2025-03-15,Second Class,CUST-1094,Customer 0074,Home Office,Central,Illinois,Office Supplies,Labels,Marker Set,3,0.15,279.05,44.49
+ORD-10932,INV-50932,2025-10-23,2025-10-26,First Class,CUST-1099,Customer 0245,Home Office,West,Colorado,Technology,Copiers,Smartphone,7,0.0,2785.35,366.03
+ORD-10933,INV-50933,2024-10-03,2024-10-08,Standard Class,CUST-1203,Customer 0227,Corporate,Central,Illinois,Office Supplies,Art,Binder Pack,1,0.0,91.29,17.08
+ORD-10934,INV-50934,2025-12-10,2025-12-15,Standard Class,CUST-1188,Customer 0211,Home Office,East,New York,Technology,Machines,Monitor,6,0.1,3074.0350000000003,366.03
+ORD-10935,INV-50935,2025-08-04,2025-08-05,Same Day,CUST-1105,Customer 0034,Consumer,Central,Illinois,Office Supplies,Paper,A4 Paper,6,0.15,98.77,8.04
+ORD-10936,INV-50936,2025-05-17,2025-05-18,Standard Class,CUST-1247,Customer 0045,Consumer,Central,Illinois,Office Supplies,Paper,A4 Paper,6,0.0,160.89,45.13
+ORD-10937,INV-50937,2025-09-15,2025-09-20,First Class,CUST-1087,Customer 0203,Consumer,Central,Illinois,Office Supplies,Envelopes,Labels,6,0.0,131.22,23.47
+ORD-10938,INV-50938,2025-05-30,2025-06-01,Same Day,CUST-1029,Customer 0232,Consumer,East,New Jersey,Office Supplies,Binders,Labels,4,0.15,299.37,29.32
+ORD-10939,INV-50939,2024-12-15,2024-12-16,Second Class,CUST-1102,Customer 0112,Corporate,South,Georgia,Technology,Machines,Smartphone,2,0.0,1448.06,355.73
+ORD-10940,INV-50940,2025-03-21,2025-03-26,Second Class,CUST-1170,Customer 0147,Corporate,Central,Michigan,Office Supplies,Art,A4 Paper,1,0.05,85.43,20.06
+ORD-10941,INV-50941,2024-12-15,2024-12-18,Standard Class,CUST-1099,Customer 0023,Home Office,West,California,Office Supplies,Storage,Marker Set,6,0.0,60.56,7.18
+ORD-10942,INV-50942,2025-08-29,2025-09-02,First Class,CUST-1133,Customer 0196,Corporate,South,Florida,Office Supplies,Binders,Labels,4,0.0,259.71,27.53
+ORD-10943,INV-50943,2025-10-25,2025-10-27,Standard Class,CUST-1214,Customer 0132,Corporate,South,Florida,Office Supplies,Labels,Storage Box,6,0.0,485.4,107.11
+ORD-10944,INV-50944,2024-05-16,2024-05-17,First Class,CUST-1292,Customer 0176,Consumer,South,Virginia,Technology,Machines,Smartphone,2,0.05,1669.23,237.64
+ORD-10945,INV-50945,2024-08-30,2024-09-03,Same Day,CUST-1298,Customer 0040,Corporate,West,Arizona,Furniture,Furnishings,Wooden Bookcase,6,0.05,2493.26,290.01
+ORD-10946,INV-50946,2025-06-26,2025-06-29,First Class,CUST-1203,Customer 0033,Corporate,East,Massachusetts,Office Supplies,Paper,Marker Set,3,0.0,335.78,63.51
+ORD-10947,INV-50947,2024-02-09,2024-02-14,Standard Class,CUST-1232,Customer 0172,Home Office,Central,Michigan,Furniture,Chairs,Wooden Bookcase,7,0.15,3074.0350000000003,283.69
+ORD-10948,INV-50948,2024-08-16,2024-08-17,First Class,CUST-1194,Customer 0034,Corporate,East,Pennsylvania,Office Supplies,Storage,Storage Box,3,0.05,310.93,86.53
+ORD-10949,INV-50949,2025-07-01,2025-07-06,First Class,CUST-1259,Customer 0143,Corporate,East,New Jersey,Office Supplies,Envelopes,Storage Box,5,0.2,142.83,30.94
+ORD-10950,INV-50950,2024-08-10,2024-08-14,First Class,CUST-1251,Customer 0138,Corporate,West,Arizona,Office Supplies,Storage,Marker Set,2,0.05,50.34,7.9
+ORD-10951,INV-50951,2024-01-06,2024-01-07,Same Day,CUST-1149,Customer 0141,Consumer,South,North Carolina,Technology,Phones,Wireless Mouse,2,0.2,629.12,53.35
+ORD-10952,INV-50952,2024-11-17,2024-11-19,Second Class,CUST-1087,Customer 0079,Consumer,Central,Michigan,Technology,Phones,Wireless Mouse,7,0.2,3074.0350000000003,366.03
+ORD-10953,INV-50953,2025-04-12,2025-04-13,Second Class,CUST-1090,Customer 0115,Corporate,West,Arizona,Technology,Phones,Wireless Mouse,7,0.15,1070.68,51.72
+ORD-10954,INV-50954,2024-03-15,2024-03-17,Second Class,CUST-1266,Customer 0190,Home Office,West,Washington,Furniture,Tables,Wooden Bookcase,5,0.0,1703.2,133.18
+ORD-10955,INV-50955,2024-01-04,2024-01-06,First Class,CUST-1084,Customer 0108,Home Office,East,New Jersey,Furniture,Tables,Ergonomic Chair,5,0.15,2062.04,259.22
+ORD-10956,INV-50956,2025-10-07,2025-10-09,Same Day,CUST-1289,Customer 0164,Home Office,South,Virginia,Office Supplies,Binders,A4 Paper,4,0.0,230.51,66.37
+ORD-10957,INV-50957,2024-04-27,2024-04-30,Standard Class,CUST-1111,Customer 0128,Corporate,South,Georgia,Technology,Copiers,Wireless Mouse,3,0.05,3074.0350000000003,366.03
+ORD-10958,INV-50958,2025-08-28,2025-08-30,Same Day,CUST-1065,Customer 0179,Home Office,South,North Carolina,Furniture,Chairs,Wooden Bookcase,3,0.2,1189.82,-33.33
+ORD-10959,INV-50959,2025-05-18,2025-05-19,First Class,CUST-1213,Customer 0040,Home Office,Central,Illinois,Office Supplies,Labels,A4 Paper,3,0.15,117.86,24.36
+ORD-10960,INV-50960,2025-07-27,2025-07-28,Second Class,CUST-1133,Customer 0236,Corporate,South,North Carolina,Technology,Copiers,Printer,1,0.3,758.3,37.66
+ORD-10961,INV-50961,2025-03-16,2025-03-19,Same Day,CUST-1089,Customer 0229,Corporate,East,New Jersey,Furniture,Bookcases,Ergonomic Chair,7,0.15,2875.68,244.95
+ORD-10962,INV-50962,2024-07-12,2024-07-14,Second Class,CUST-1203,Customer 0167,Home Office,Central,New Jersey,Office Supplies,Binders,Labels,2,0.15,97.53,14.41
+ORD-10963,INV-50963,2025-12-15,2025-12-20,First Class,CUST-1231,Customer 0184,Home Office,East,Massachusetts,Office Supplies,Binders,Storage Box,7,0.2,350.26,67.95
+ORD-10964,INV-50964,2025-01-26,2025-01-31,First Class,CUST-1097,Customer 0073,Home Office,West,California,Furniture,Bookcases,Ergonomic Chair,1,0.05,257.68,13.84
+ORD-10965,INV-50965,2024-01-26,2024-01-30,Second Class,CUST-1258,Customer 0162,Consumer,South,North Carolina,Technology,Accessories,Monitor,5,0.0,3074.0350000000003,366.03
+ORD-10966,INV-50966,2025-03-10,2025-03-11,Standard Class,CUST-1109,Customer 0037,Consumer,Central,Ohio,Technology,Machines,Printer,5,0.05,476.18,42.71
+ORD-10967,INV-50967,2024-06-21,2024-06-23,Same Day,CUST-1286,Customer 0129,Home Office,East,New Jersey,Technology,Copiers,Smartphone,3,0.2,2515.27,366.03
+ORD-10968,INV-50968,2024-10-26,2024-10-28,Same Day,CUST-1224,Customer 0075,Home Office,West,California,Furniture,Chairs,Office Table,7,0.2,1444.32,131.64
+ORD-10969,INV-50969,2025-10-06,2025-10-09,Standard Class,CUST-1243,Customer 0085,Home Office,West,California,Technology,Copiers,Monitor,4,0.05,2542.21,366.03
+ORD-10970,INV-50970,2024-11-21,2024-11-23,Same Day,CUST-1100,Customer 0228,Corporate,South,North Carolina,Furniture,Tables,Ergonomic Chair,3,0.2,328.6,7.34
+ORD-10971,INV-50971,2025-02-13,2025-02-14,Same Day,CUST-1212,Customer 0248,Corporate,West,Arizona,Technology,Copiers,Printer,1,0.1,1181.7,101.42
+ORD-10972,INV-50972,2024-04-27,2024-05-01,Same Day,CUST-1149,Customer 0127,Home Office,Central,Michigan,Technology,Accessories,Smartphone,2,0.05,1887.74,336.63
+ORD-10973,INV-50973,2025-12-24,2025-12-25,Standard Class,CUST-1133,Customer 0114,Consumer,South,Georgia,Office Supplies,Labels,Binder Pack,5,0.3,89.31,-1.34
+ORD-10974,INV-50974,2024-08-12,2024-08-16,Standard Class,CUST-1207,Customer 0073,Home Office,West,Washington,Office Supplies,Labels,Marker Set,3,0.3,303.09,58.5
+ORD-10975,INV-50975,2025-06-15,2025-06-19,Same Day,CUST-1139,Customer 0141,Corporate,West,Colorado,Furniture,Bookcases,Desk Lamp,7,0.05,2312.03,363.24
+ORD-10976,INV-50976,2024-04-22,2024-04-26,First Class,CUST-1214,Customer 0088,Consumer,West,California,Office Supplies,Storage,Labels,4,0.15,169.71,29.06
+ORD-10977,INV-50977,2024-05-19,2024-05-24,Standard Class,CUST-1006,Customer 0090,Consumer,West,California,Office Supplies,Art,Binder Pack,6,0.15,470.72,76.93
+ORD-10978,INV-50978,2025-07-12,2025-07-16,Second Class,CUST-1136,Customer 0065,Home Office,Central,Michigan,Technology,Machines,Laptop,6,0.0,3074.0350000000003,366.03
+ORD-10979,INV-50979,2024-01-01,2024-01-06,Standard Class,CUST-1238,Customer 0234,Corporate,South,Georgia,Office Supplies,Labels,Binder Pack,2,0.2,56.6,11.47
+ORD-10980,INV-50980,2024-03-30,2024-04-02,Second Class,CUST-1227,Customer 0155,Corporate,South,Georgia,Furniture,Tables,Desk Lamp,4,0.1,374.98,20.32
+ORD-10981,INV-50981,2025-10-15,2025-10-19,Second Class,CUST-1141,Customer 0073,Corporate,South,Georgia,Technology,Accessories,Printer,3,0.05,1145.08,130.11
+ORD-10982,INV-50982,2024-11-15,2024-11-20,Same Day,CUST-1031,Customer 0203,Corporate,Central,Texas,Office Supplies,Binders,Marker Set,1,0.1,97.88,15.88
+ORD-10983,INV-50983,2025-07-03,2025-07-08,Second Class,CUST-1159,Customer 0117,Consumer,South,Florida,Technology,Phones,Smartphone,2,0.1,2069.62,366.03
+ORD-10984,INV-50984,2024-05-18,2024-05-21,Same Day,CUST-1125,Customer 0183,Home Office,South,Virginia,Office Supplies,Binders,Labels,7,0.05,117.79,31.34
+ORD-10985,INV-50985,2025-05-25,2025-05-30,First Class,CUST-1174,Customer 0145,Consumer,West,Arizona,Furniture,Furnishings,Ergonomic Chair,6,0.0,1597.06,99.87
+ORD-10986,INV-50986,2024-09-15,2024-09-17,First Class,CUST-1198,Customer 0028,Corporate,West,Washington,Furniture,Bookcases,Ergonomic Chair,3,0.0,607.35,30.64
+ORD-10987,INV-50987,2025-11-03,2025-11-07,Second Class,CUST-1137,Customer 0081,Corporate,West,Washington,Technology,Phones,Laptop,3,0.1,3074.0350000000003,366.03
+ORD-10988,INV-50988,2025-11-20,2025-11-21,Standard Class,CUST-1133,Customer 0115,Consumer,South,Florida,Office Supplies,Binders,Labels,4,0.15,329.97,22.63
+ORD-10989,INV-50989,2024-01-10,2024-01-12,Same Day,CUST-1103,Customer 0141,Home Office,East,New Jersey,Technology,Copiers,Monitor,1,0.3,832.63,70.96
+ORD-10990,INV-50990,2024-09-17,2024-09-19,Second Class,CUST-1072,Customer 0069,Consumer,West,New Jersey,Technology,Copiers,Wireless Mouse,4,0.15,3074.0350000000003,366.03
+ORD-10991,INV-50991,2025-10-11,2025-10-15,First Class,CUST-1132,Customer 0226,Consumer,Central,Ohio,Office Supplies,Paper,Marker Set,5,0.15,319.83,71.18
+ORD-10992,INV-50992,2024-06-20,2024-06-25,Standard Class,CUST-1077,Customer 0231,Consumer,West,California,Technology,Phones,Wireless Mouse,3,0.15,2640.86,364.16
+ORD-10993,INV-50993,2024-01-13,2024-01-14,Standard Class,CUST-1281,Customer 0249,Home Office,South,North Carolina,Technology,Phones,Monitor,5,0.1,639.89,89.96
+ORD-10994,INV-50994,2024-06-16,2024-06-18,First Class,CUST-1219,Customer 0071,Home Office,South,Florida,Technology,Copiers,Printer,4,0.15,473.2,62.22
+ORD-10995,INV-50995,2025-10-03,2025-10-07,Same Day,CUST-1059,Customer 0221,Corporate,Central,Illinois,Furniture,Furnishings,Ergonomic Chair,4,0.05,1046.43,89.87
+ORD-10996,INV-50996,2025-08-18,2025-08-20,Standard Class,CUST-1142,Customer 0097,Consumer,South,North Carolina,Furniture,Bookcases,Desk Lamp,2,0.1,348.58,8.14
+ORD-10997,INV-50997,2024-11-16,2024-11-20,Same Day,CUST-1074,Customer 0214,Consumer,Central,Texas,Office Supplies,Art,Labels,4,0.1,437.35,45.24
+ORD-10998,INV-50998,2024-11-14,2024-11-15,Same Day,CUST-1238,Customer 0144,Corporate,East,Pennsylvania,Office Supplies,Envelopes,Labels,3,0.05,281.81,47.71
+ORD-10999,INV-50999,2025-09-04,2025-09-09,First Class,CUST-1082,Customer 0102,Corporate,Central,Texas,Technology,Phones,Monitor,2,0.05,246.08,58.94
